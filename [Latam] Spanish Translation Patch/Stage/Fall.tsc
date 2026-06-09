@@ -1,0 +1,116 @@
+
+#0090
+<MNA<FAI0000<END
+#0091
+<MNA<FAI0001<END
+#0092
+<MNA<FAI0002<END
+#0093
+<MNA<FAI0003<END
+#0094
+<MNA<FAI0004<END
+
+#0100
+<KEY<CMU0000<WAI0100<SOU0101<WAI0020<SOU0035<WAI0200
+<FON0210:0016
+<WAI0100<CMU0000
+<ANP0200:0060:0002
+<CNP0201:0150:0102
+<ANP0201:0060:0002<FAI0003
+<WAI0300<DNP0220
+<WAI0200<DNP0200<DNP0201
+<ANP0230:0030:0000<WAI0002
+<ANP0230:0010:0000
+<FON0240:0016
+<WAI0160
+<MSG
+<CMU0010¡Kazuma te atrapa!<WAI0160<CLR<FAC1110
+Vaya...<FAC1010<NOD<CLR<FAC1110
+De verdad no pensé que fueras
+capáz de hacerlo.<FAC1010<NOD<CLR<FAC1110
+¡Destruiste el Núcleo!<FAC1010<NOD<CLR<FAC1110
+Gracias a ti, probablemente
+no volveremos a ver al Doctor
+por segunda o tercera vez.<FAC1010<NOD<FAC1110
+La paz permanece.<FAC1010<NOD<CLR<FAC1110
+Vamos a casa.<FAC1010<NOD<CLO
+<KEY<FAO0004<HMC
+<ITJ0024:0101
+<ACH0050<TRA0000:0100:0004:0015
+
+#0101
+<ACH0052<TRA0000:0100:0004:0015
+#0120
+<KEY<CMU0000
+<FON0240:0016
+<CNP0230:0356:0002
+<DNP0220<WAI0200
+<FAI0001
+<MSG<FAC0105<FL+2000<FL+1460
+¡Estuvo cerca!<FAC0005<NOD<CLR<FAC0105
+Vaya escape estrecho.<FAC0005<NOD<CLR<FAC1119
+Pensé que esta vez terminaría 
+como chatarra.<FAC1019<NOD<FAC1119
+Parece que te debemos otra.<FAC1019<NOD<CLO<FAC0000<WAI0050
+<MSG<FAC0105
+No hace falta que digas eso.<FAC0005<NOD<FAC0105
+Solo hice lo que Misery pidió.<FAC0005<NOD<CLR<FAC1125
+¿Misery? 
+¿Te refieres a esa bruja?<FAC1025<NOD<CLR
+<FAC0105¡Síp!<FAC0005<NOD<CLR<FAC1125
+¿Acaso ella no nos odia?<FAC1025<NOD<FAC1125
+Espera, ¿no nos odias TÚ?<FAC1025<NOD<CLR<FAC0105
+Ustedes dos derrotaron a
+Ballos.<FAC0005<NOD<CLR<FAC0105
+Nuestra maldición fue
+desvanecido gracias a ustedes.<FAC0005<NOD<FAC0105
+Misery y yo ya no tenemos
+que escuchar las ordenes
+de nadie.<FAC0005<NOD<CLR<FAC1119
+Pensé que eras el malo,
+¿entonces fue por la
+Corona Demoniaca?<FAC1019<NOD<CLR<FAC0105
+Nosotros la pedimos...<FAC0005<NOD<FAC0105
+Tienes que recordar que fue
+Misery quien obligó a Ballos
+a crear la corona.<FAC0005<NOD<CLR<FAC1125
+¿Eh?
+¿En serio?<FAC1025<NOD<FAC1125
+No sabia eso.<FAC1025<NOD<CLR<FAC0105
+¡Síp!<FAC0005<NOD<CLO<FAC0000
+<WAI0150
+<MSG<FAC0105
+Y ahora...<FAC0005<NOD<CLR
+<FAC1125¿Ahora qué?<FAC1025<NOD<CLR<FAC0105
+¿Qué piensan hacer ahora?<FAC0005<NOD<FAC0105
+¡Puedo llevarlos a donde sea!<FAC0005<NOD<CLR<FAC1119
+Bueno, ya que lo preguntas...<FAC1019<NOD<CLR<FAC1119
+Nuestra misión terminó, así
+qué... quiero vivir en un lugar
+tranquilo con una buena vista.<FAC1019<NOD<CLO<FAC0000
+<WAI0100<MSG<FAC0105
+Disculpen, pero... em...<FAC0005<NOD<CLR
+<FAC1125¿Sí?<FAC1025<NOD<CLR<FAC0105
+¿...Puedo ir con ustedes?<FAC0005<NOD<CLR
+<FAC1119¡Claro!<FAC1019<NOD<FAC1119
+¡Nosotros tres podremos
+vivir juntos sin duda alguna!<FAC1019<NOD<CLR
+<FAC0114¿¡¿En serio?!?<FAC0014<NOD<CLR<FAC1119
+¡Incluso puedes decidir el
+lugar donde viviremos todos!<FAC1019<NOD<FAC1119
+Pero que sea uno adorable.<FAC1019<NOD<CLR
+<FAC0114¡Entendido!<FAC0014<NOD<CLR<FAC0114
+¡Muy bien!
+<ANP0230:0020:0002¡<WAI0010¡<WAI0010S<WAI0010u<WAI0010j<WAI0010e<WAI0010t<WAI0010e<WAI0010n<WAI0010s<WAI0010e <WAI0010f<WAI0010u<WAI0010e<WAI0010r<WAI0010t<WAI0010e<WAI0010!<WAI0010!<FAC0014<NOD<CLO<FAC0000
+<KEY<FAO0004<HMC<ITJ0032:0121<TRA0000:0100:0004:0015
+
+#0121
+<KEY<WAI0100<MSG<GIT1032
+¿No estamos olvidando algo?<NOD<TRA0000:0100:0004:0015
+
+#0200
+#0201
+#0210
+#0220
+#0230
+#0240

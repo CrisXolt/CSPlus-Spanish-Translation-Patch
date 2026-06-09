@@ -1,0 +1,43 @@
+
+#0090
+<MNA<CMU0012<FAI0000<END
+#0091
+<MNA<CMU0012<FAI0001<END
+#0092
+<MNA<CMU0012<FAI0002<END
+#0093
+<MNA<CMU0012<FAI0003<END
+#0094
+<MNA<CMU0012<FAI0004<END
+
+#0100
+<PRI<FAO0000<TRA0011:0090:0056:0033
+
+#0110
+<KEY<SOU0011<ANP0110:0000:0002
+<FAO0004<TRA0083:0094:0010:0010
+
+
+#0200
+<PRI
+<FLJ1371:0201
+<MSG
+¿Puedo ayudarte en algo?<NOD<END
+#0201
+<PRI<MSG
+¿¡¿Mi esposa me ha estado buscando?!?<NOD<CLR
+Probablemente no estuve en casa en
+un largo tiempo. <NOD
+Está bien, me regresaré.<NOD<GIT1032<DNP0200<IT+0032<CLR
+Por lo que, me llevarás allí, ¿cierto?<NOD<END
+
+#0300
+<CNP0300:0000:0000
+<PRI<MSG
+Tumba de Arthur.<NOD
+Algo está escrito en su tumba...<NOD<CLR<MSG<TUR
+Aquí descansa el verdadero
+heroe de Mimiga, Arthur.<NOD<FLJ0390:0000<CLR<MSG<FL+0390
+<CMU0010<GIT1001<IT+0001Encontraste la =Llave de Arthur=.<WAI0160<NOD<CLO
+<RMU<END
+

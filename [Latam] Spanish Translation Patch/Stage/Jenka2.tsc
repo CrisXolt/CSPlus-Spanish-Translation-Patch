@@ -1,0 +1,69 @@
+
+#0090
+<MNA<CMU0019<FAI0000<END
+#0091
+<MNA<CMU0019<FAI0001<END
+#0092
+<MNA<CMU0019<FAI0002<END
+#0093
+<MNA<CMU0019<FAI0003<END
+#0094
+<MNA<FLJ0595:0095<KEY<CMU0011<FAI0004<EVE0200
+#0095
+<MNA<CMU0019<FAI0004<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0010:0094:0035:0026
+#0200
+<KEY<MYD0000<ANP0400:0030:0000<CNP0300:0132:0002<ANP0300:0100:0002
+<MSG<FAC0014
+¡Al fin tengo la llave del
+Almacén, gracias abuela!<NOD
+¡Nos vemos!<NOD<CLR
+<FAC0113¡¡Espera!!<FAC0013<NOD<CLO
+<ANP0400:0030:0002<WAI0030
+<ANP0400:0010:0002<FL+0595<FL+0278<CNP0300:0130:0000<WAI0200<CMU0019<END
+#0220
+<KEY
+<FLJ0596:0230
+<FL+0596
+<MSG<FAC0113
+Ohhh...<FAC0013<NOD<FAC0113 eres tú...<FAC0013<NOD<FAC0000<CLO
+<WAI0050
+<CNP0220:0133:0001<WAI0050
+<MSG<FAC1113La llave...<FAC1013<NOD<FAC1113
+Balrog me quitó la llave del
+Almacén...<FAC1013<NOD<FAC1113
+Te lo suplico... deténgalos.<FAC1013<NOD<CLR<FAC1113
+Ellos van a liberar a los
+Mimigas poseídos por la flor
+roja contra la superficie.<FAC1013<NOD<CLR<FAC1113
+¡Espera!<FAC1013<NOD<CLR<FAC1113
+Necesitas esto.<FAC1013<NOD<GIT1015<IT+0015<CLR
+<FAC0000<CMU0010Te dio la =Poción de Vida=.<WAI0160<NOD<RMU<CLR<FAC1113
+Esto te recarga la vida por
+completo, <FAC1013<NOD<FAC1113pero solo una vez.<FAC1013<NOD<END
+#0230
+<KEY<FLJ0830:0231<MSG<FAC1113
+¡Por favor!<FAC1013<NOD<FAC1113
+Te lo suplico... deténgalos.<FAC1013<NOD<CLR<FAC1113
+Ellos van a liberar a los
+Mimigas poseídos por la flor
+roja contra la superficie.<FAC1013<NOD<END
+#0231
+<KEY<ITJ0015:0232
+<MSG<FAC1113
+Llegaste en buen momento.<FAC1013<NOD<GIT1015<IT+0015<CLR
+<FAC0000Te dio otra =Poción de Vida=.<WAI0030<NOD<GIT0000<CLR<FAC1113
+Ven otra vez si la usas.
+Te dare otra.<FAC1013<NOD<END
+#0232
+<KEY<MSG<FAC1113
+Incluso una bruja no puede
+engañar la edad...<FAC1013<NOD<FAC1113
+Tener fe en ti es la única y
+última esperanza por ahora.<FAC1013<NOD<END
+#0300
+<KEY<MSG
+Wan...<NOD<END
+#0400
+#0401

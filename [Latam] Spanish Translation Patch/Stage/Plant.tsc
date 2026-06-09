@@ -1,0 +1,73 @@
+
+#0090
+<MNA<FLJ0341:0095<CMU0013<FAI0000<END
+#0091
+<MNA<FLJ0341:0096<CMU0013<FAI0001<END
+#0092
+<MNA<FLJ0341:0097<CMU0013<FAI0002<END
+#0093
+<MNA<FLJ0341:0098<CMU0013<FAI0003<END
+#0094
+<MNA<FLJ0341:0099<CMU0013<FAI0004<END
+
+#0095
+<CMU0028<FAI0000<END
+#0096
+<CMU0028<FAI0001<END
+#0097
+<CMU0028<FAI0002<END
+#0098
+<CMU0028<FAI0003<END
+#0099
+<CMU0028<FAI0004<END
+
+#0100
+<PRI<FAO0000<TRA0011:0090:0045:0021
+
+
+#0105
+<PRI<MSG¿Guardarás el archivo?<YNJ0000<SVP<CLR
+Archivo guardado.<NOD<END
+#0106
+<PRI<LI+1000<SOU0020<AE+<MSG
+Vida recargada.<NOD<END
+
+#0200
+<KEY<MSG
+Esta es la granja donde
+los cultivos florecen.<NOD
+Mi trabajo es protegerla...<NOD<CLR
+Para nosotros los Mimiga, estas
+flores son una fuente preciosa
+del alimento.<NOD<CLR
+Pero las flores rojas no.<NOD<CLR
+¡Oí que si nos comemos estas flores
+rojas, nuestra presión sanguínea se
+elevará y nos morimos al instante!<NOD<CLR
+La buena noticia es que, en esta granja
+no cultivamos estas flores viles rojizas.<NOD<END
+
+
+#0220
+<KEY<FLJ1020:0221<MSG
+Es un Aspersor.<NOD<END
+#0221
+<KEY<MSG
+¡Está fijado firmemente en el suelo!<NOD<END
+
+#0300
+<PRI
+<FL+0410
+<DNP0300
+<MSG
+No has visto nada...<NOD<CLR<CMU0010<GIT1005<IT+0005
+¿Cómo Obtuviste el Colmillo de Bestia? 
+...<WAI0160<NOD<CLO
+<RMU<END
+
+#0400
+<PRI<SOU0022<DNP0400<CMU0016
+<MSG<GIT1006
+Obtuviste una =Cápsula de Vida=.<WAI0160<NOD<RMU<ML+0003
+Vida máxima incrementada por 3.<NOD<END
+

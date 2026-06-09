@@ -1,0 +1,214 @@
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+#0099
+<KEY<MNA<CMU0000<CMU0008
+<ANP0102:0001:0000<FAI0004
+<CNP0301:0112:0000<WAI0100
+<ANP0102:0000:0000
+<MYD0000<DNP0301<SMC<END
+#0100
+<PRI<FLJ0523:0105<FAO0004<TRA0006:0094:0217:0016
+#0101
+#0102
+<KEY<FLJ0524:0103
+<MSG
+Un teletransporte.<NOD<CLR
+Parece que está inactivo...<NOD<END
+#0103
+<PRI<MSG
+¿Viajar hacia Plantación?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0102:0001:0000
+<WAI0100<FAO0004<TRA0061:0099:0007:0013
+#0105
+<PRI<FAO0004<FL+0227<TRA0006:0600:0217:0016
+#0200
+<KEY<MNA<CMU0000<FAI0004<WAI0100
+<QUA0030<SOU0044<ANP0101:0001:0000
+<WAI0080<ANP0210:0000:0000<WAI0020
+<FL+0520<SOU0011<DNP0101
+<WAI0050<MYD0002<MOV0009:0010<2MV0000
+<CMU0010<MSG<FAC0110
+¡Muy bien!<FAC0210<WAI0160<NOD<CMU0008<CLR<FAC0110
+¡Lo hiciste genial chico!<FAC0010<NOD<FAC0110
+Con solo mirar y sabía...<FAC0010<NOD<FAC0110
+¡Sabía que lo harías!<FAC0010<NOD<CLR<FAC0010
+.....<NOD
+<CLR<FAC0110
+Emm...<FAC0010<NOD<FAC0110
+Me llamo Kazuma
+Sakamoto.<FAC0010<NOD<FAC0110
+Pero puedes llamarme
+Kazuma.<FAC0010<NOD<CLR<FAC0110
+Por suerte, pude escaparme
+del Doctor, pero entonces...<FAC0010<NOD<FAC0110
+Fui teletransportado aquí.<FAC0010<NOD<FAC0110
+Sentia que me iba a morir
+de hambre total...<FAC0010<NOD<FAC0110
+¡Eres todo un salvavidas!<FAC0010<NOD<CLR<FAC0110
+Por cierto...<FAC0010<NOD<CLR<FAC0110
+¿Has oído de un lugar
+llamado Aldea Mimiga?<FAC0010<NOD<CLR<FAC0110
+¿...Sue?<FAC0010<NOD<CLR<FAC0110
+¡¿Conociste a Sue?!<FAC0010<NOD<CLR<FAC0110
+Ya veo...<FAC0010<NOD<FAC0110
+Asi que tú viniste aquí en
+lugar de Sue a buscarme.<FAC0010<NOD<CLR<FAC0110
+Entiendo.<FAC0010<NOD<FAC0110
+¡Entonces vamos!
+¡Llévame a la Aldea!<FAC0010<NOD<SOU0043<ANP0102:0001:0000<WAI0030<ANP0210:0000:0002<CLR
+<FAC1010?!<NOD<CLO<FAC0000
+<CNP0303:0113:0000<ANP0303:0030:0000<WAI0100
+<FAC0000<MSG<ANP0102:0000:0000<FAC0118
+¡¿Kazuma, eres tú?!<FAC0018<NOD<CLR<FAC1110
+¡¡Profesor Booster!!<FAC1010<NOD<FAC1110
+¡Así que estás a salvo!<FAC1010<NOD<CLR<FAC0118
+Sí, más o menos.<FAC0018<NOD<CLO
+<ANP0303:0003:0000<WAI0040
+<ANP0303:0000:0002<WAI0030
+<ANP0303:0000:0000<WAI0030
+<FAC0000<MSG<FAC0118
+¿Cómo está Sue?<FAC0018<NOD<FAC0118
+¡¿Está bien?!<FAC0018<NOD<CLR<FAC1110
+Está en la Aldea Mimiga.<FAC1010<NOD<FAC1110
+Este chico nos llevará allí.<FAC1010<NOD<CLO
+<WAI0020<ANP0210:0000:0000<WAI0010
+<FAC0000<MSG<FAC0118
+Oh...<FAC0018<NOD<CLO
+<ANP0303:0003:0000<WAI0080<ANP0303:0000:0000
+<FAC0000<MSG<FAC0110
+¿Lo conoces?<FAC0010<NOD<CLR<FAC0018
+.....<NOD<CLR<FAC0118
+No...<FAC0018<NOD<CLR<FAC1118
+<ANP0303:0000:0002Em, en realidad, nos
+acabamos de conocer.<FAC1018<NOD<CLR<FAC1118
+En fin, hay que darnos prisa
+en ir hacia donde está Sue.<FAC1018<NOD<FAC1118
+El Doctor ha empezado a
+reunir a los Mimiga.<FAC1018<NOD<FAC1118
+Parece que se dio cuenta
+de las flores rojas.<FAC1018<NOD<CLR<FAC0110
+Pero, Sue es una...<FAC0010<NOD<CLR<FAC0110
+¿Afectara a Sue también
+con las flores rojas?<FAC0010<NOD<FAC0110
+¿Igual que a los demás?<FAC0010<NOD<CLR<FAC1118
+Kazuma.<FAC1018<NOD<CLR<FAC1118
+El Doctor ha comenzado el
+secuestro de Mimigas.<FAC1018<NOD<FAC1118
+¿Entiendes lo que esto
+significa?<FAC1018<NOD<CLR<FAC0110<CMU0000
+¿Entonces el Doctor y
+la guerra va ser...?<FAC0010<NOD<CLO<FAC0000
+<ANP0303:0003:0002<WAI0032
+<ANP0303:0000:0002
+<MSG<FAC1118
+Así es.<FAC1018<NOD<CMU0008<FAC1118
+Y ahora somos los únicos
+quien podemos detenerlo.<FAC1018<NOD<CLR<FAC0110
+¿Pero cómo vamos a detener
+al Doctor?<FAC0010<NOD<CLR<FAC1118
+Tengo una idea.<FAC1018<NOD<FAC1118
+A este paso, hay que darnos
+prisa y regresar con Sue.<FAC1018<NOD<FAC1118
+Discutiremos cuando
+estemos allá.<FAC1018<NOD<FAC0000<CLO
+<ANP0303:0003:0000<WAI0038
+<MYB0002<WAI0016<MYD0002<ANP0303:0000:0000
+<MSG<FAC0118
+Quiero que nos acompañes
+tú también.<FAC0018<NOD<CLO
+<ANP0303:0005:0000<WAI0020<DNP0303
+<ANP0210:0003:0000<WAI0078
+<ANP0210:0005:0000<WAI0020<DNP0210
+<FL-0522<FL+0523
+<CNP0016:0016:0002<WAI0020
+<CNP0017:0017:0002<FL+0525<FL+0226
+<END
+#0210
+#0220
+<KEY<FLJ0524:0221<MSG<TUR
+Para usar este teletransporte,
+está completamente inactivo.<NOD<END
+#0221
+<KEY<MSG<TUR
+Viaje hacia Plantación ahora es posible.<NOD<END
+#0300
+#0301
+#0302
+#0303
+#0500
+<KEY<CMU0021<FAI0004
+<MSG
+Conectando a la red.<WAI0050
+<MSG
+Sesión iniciado.<WAI0050
+<MSG
+Iniciando servicio del chat.<WAI0100<CLR
+<MSG
+Kazuma: ¿Sue?<NOD
+Kazuma: ¿Estás ahí?<NOD
+Kazuma: Soy yo<NOD
+Kazuma: ¡Kazuma!<NOD
+Kazuma: Me pude escapar de algún
+modo, pero me perdí<NOD
+Kazuma: Estoy en el Refugio
+completamente vacío<NOD
+Kazuma: Si estás leyendo esto,
+por favor responde<NOD<CLR
+Kazuma: ¿...Por favor?<NOD
+<FAO0004<SK+0005<TRA0013:0091:0013:0008
+#0501
+<KEY<HMC<CMU0021<FAI0004
+<MSG
+Buscando a "Sue".<WAI0150<CLR<MSG
+Uno "Sue" encontrado.<WAI0150<CLR<MSG
+Kazuma: ¡SUUUUE!<NOD
+Kazuma: Respóndeme<NOD
+Kazuma: Te están buscando
+Kazuma: ¿Estás dormida o qué?<NOD
+Kazuma: Tú hermano está tan solo...<NOD<FAO0004<SMC<CLO
+<TRA0090:0095:0017:0009
+#0502
+<KEY<HMC<CMU0021<FAI0004
+<MSG
+Kazuma: ¡¡¡Vamos, Sue!!!<NOD
+Kazuma: Escribe algo, ¿quieres?<NOD
+Kazuma: Aquí muriendo de hambre...
+Kazuma: Tengo tanta hambre que...
+Kazuma: Incluso me comí una cucaracha<NOD
+Kazuma: ¡¡¡JA JA, era broma!!!<NOD<CLR
+Kazuma: Pero, para que sepas, que si
+llego a ese punto, lo haré<NOD<FAO0004<SMC<TRA0011:0302:0008:0006
+#0700
+<KEY<FAI0004<MSG
+Kazuma: ¿Sue?<NOD
+Kazuma: ¿De verdad eres tú?<NOD<FAO0004<TRA0024:0701:0005:0000
+#0701
+<KEY<FAI0004<MSG
+Kazuma: La puerta está atascada
+y no puedo salir de aquí<NOD
+Kazuma: Aún estoy en una sala que
+parece un Refugio<NOD
+Kazuma: Por cierto, la clave para el
+teletransporte es "Tierras Verdes"<NOD
+Kazuma: Intenta buscarlo desde ahí<NOD<CLR
+Kazuma: Y no, Mamá no está conmigo
+Kazuma: Me temo que aún podría
+estar con el Doctor<NOD<CLR
+Kazuma: ¿El Huevo de Dragón que
+encontraste está ya por nacer?<NOD<FAO0004<TRA0024:0702:0005:0000
+#0702
+<KEY<FAI0004<MSG
+Kazuma: ¡Entendido!<NOD
+Kazuma: Y hazme un favor, trae algo
+de comer cuando lleg...<NOD<CLR
+<MSG
+El usuario "Sue" se ha desconectado.<NOD<CLR
+Ah...<NOD<FAO0004<TRA0024:0703:0005:0000

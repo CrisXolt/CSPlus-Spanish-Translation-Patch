@@ -1,0 +1,85 @@
+
+#0090
+<MNA<FLJ0341:0095<CMU0009<FAI0000<END
+#0091
+<MNA<FLJ0341:0096<CMU0009<FAI0001<END
+#0092
+<MNA<FLJ0341:0097<CMU0009<FAI0002<END
+#0093
+<MNA<FLJ0341:0098<CMU0009<FAI0003<END
+#0094
+<MNA<FLJ0341:0099<CMU0009<FAI0004<END
+#0095
+<CMU0028<FAI0000<END
+#0096
+<CMU0028<FAI0001<END
+#0097
+<CMU0028<FAI0002<END
+#0098
+<CMU0028<FAI0003<END
+#0099
+<CMU0028<FAI0004<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0011:0094:0043:0034
+#0200
+<FLJ0327:0201
+<KEY<MSG<FAC1107
+La llave de la Casa de Arthur...<FAC1007<NOD<FAC1107
+Debe haber por lo menos una
+copia más en alguna parte.<FAC1007<NOD<CLR<FAC1107
+Toroko...
+Ella se hace la tonta.<FAC1007<NOD<CLR<FAC1107
+Me pregunto... tal vez Jack
+sepa algo al respecto.<FAC1007<NOD<END
+#0201
+<KEY<MSG<FAC1107
+No, a Toroko también no...<FAC1007<NOD<CLR<FAC1107
+Su hermano mayor,
+Arthur fué un gran
+guerrero.<FAC1007<NOD<CLR<FAC1107
+Pero fue asesinado por el 
+mismisimo Doctor.<FAC1007<NOD<FAC1107
+Ni siquiera pude proteger
+a Toroko...<FAC1007<NOD<END
+#0210
+<KEY<MSG<FAC0109
+Hay dos llaves de la
+Casa de Arthur.<FAC0009<NOD<FAC0109
+Toroko la tenía una.<FAC0009<NOD<FAC0109
+El otro está en el
+Cementerio Mimiga.<FAC0009<NOD<END
+#0220
+<KEY<MSG<FAC1109
+El hermano de Toroko, Arthur,
+luchó contra el Ogro Rojo...<FAC1009<NOD<CLR<FAC1109
+Este terrible Ogro de la Isla.
+Esta cosa podría comer a los
+Mimigas uno tras otro...<FAC1009<NOD<CLR<FAC1109
+Esto en realidad no tiene nada
+que ver con el Doctor, pero...<FAC1009<NOD<FAC1109
+El Ogro vivía en esta isla
+desde hace un tiempo atrás.<FAC1009<NOD<CLR<FAC1109
+Arthur lo mandó lejos de
+esa bestia malvada del
+nuestra aldea para siempre.<FAC1009<NOD<FAC1109
+Fue múy valiente de su parte
+de arriesgarse su vida
+por el bien de la isla.<FAC1009<NOD<CLR<FAC1109
+Jamás lo olvidaré.<FAC1009<NOD<CLR<FAC1109
+A pesar de que fuera asesinado
+por el Doctor, el seguirá siendo
+un héroe para nosotros.<FAC1009<NOD<END
+#0300
+<ITJ0008:0301
+<KEY<MSG
+La flama se aprecia en la chimenea.<NOD<FLJ0442:0000<CLR
+Hay algo más detrás de la flama.<NOD<END
+#0301
+<KEY<GIT1008<MSG
+¿Usarás el =Jugo de Medusa=?<YNJ0000<CLO<GIT0000
+<IT-0008<ANP0300:0010:0000<WAI0030<FLJ0442:0302<FL+0442
+<MSG
+Hay algo enterrado entre cenizas...<NOD<CLR<GIT0007<AM+0007:0100
+<CMU0010Obtuviste la =Burbuja=.<WAI0160<NOD<CLO<RMU<DNP0300<END
+#0302
+<KEY<DNP0300<END

@@ -1,0 +1,213 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<CMU0002<FAI0004<END
+#0100
+<KEY<SOU0011<DNP0100<FAO0000<TRA0056:0090:0072:0084
+#0110
+<KEY
+<SOU0011
+<ANP0110:0000:0002<WAI0010<HMC
+<ANP0110:0000:0000
+<MOV0018:0012<WAI0050
+<SOU0011
+<ANP0111:0000:0002<MYD0000<SMC<WAI0010
+<ANP0111:0000:0000<END
+#0111
+<KEY
+<SOU0011
+<ANP0111:0000:0002<WAI0010<HMC
+<ANP0111:0000:0000
+<MOV0018:0007<WAI0050
+<SOU0011
+<ANP0110:0000:0002<MYD0000<SMC<WAI0010
+<ANP0110:0000:0000<END
+#0200
+<KEY
+<FLJ1103:0212
+<ITJ0027:0211
+<FLJ1102:0206
+<ITJ0029:0210
+<ITJ0028:0209
+<FLJ1101:0208
+<FLJ1106:0204
+<FLJ1100:0201
+<ANP0200:0003:0005<WAI0050
+<ANP0200:0000:0005<WAI0020
+<MSG<FL+1100<FL+0961<FAC0122
+Así que tú eres el héroe del
+que Sue ha estado hablando.<FAC0022<NOD<CLR<FAC0122
+Me alegra...<FAC0022<NOD<CLR<FAC0122
+Soy Momorin Sakamoto.<FAC0022<NOD<FAC0122
+La madre de Sue.<FAC0022<NOD<FAC0122
+Aproveché trabajando bajo
+las ordenes del Doctor.<FAC0022<NOD<FAC0122
+Pero cuando él localizó las
+semillas de las flores, ahí
+dejé de servirle.<FAC0022<NOD<FAC0122
+Y entonces me expulsó de la
+isla sin rodeos.
+Qué desagradable...<FAC0022<NOD<CLR<FAC0122
+Aquellos hombres que no
+respeta bien a las mujeres
+son unos salvajes.<FAC0022<NOD<CLR<FAC0122
+Bueno, dejándolo al lado.<FAC0022<NOD<CLR<FAC0122
+Ahora mismo estoy
+construyendo un cohete
+para ti.<FAC0022<NOD<FAC0122
+Te llevará directo hasta el
+trono del Doctor.<FAC0022<NOD<FAC0122
+Pero es evidente que no tengo
+las piezas suficientes.<FAC0022<NOD<CLO
+<ITJ0018:0202<ITJ0023:0203<EVE0201
+#0201
+<ITJ0018:0202<ITJ0023:0203
+<MSG<FAC0122
+De momento, necesito una
+Booster.<FAC0022<NOD<FAC0122
+Me pregunto si alguien tendrá
+algo de repuesto...<FAC0022<NOD<END
+#0202
+<MSG<CLR
+.....<NOD<CLR<FAC0122
+¡Oh!<FAC0022<NOD<FAC0122
+Necesito que me prestes
+esa =Booster v0.8=.<FAC0022<NOD<CLR
+<FAC0000<GIT1018Momorin toma la =Booster v0.8=.<NOD<GIT0000<CLR<FAC0122
+Aún no hay suficientes piezas
+necesarias para terminar
+el cohete.<FAC0022<NOD<CLO
+<IT-0018<EQ-0001<FL-0742
+<FL+1106
+<EVE0204
+#0203
+<MSG<CLR
+.....<NOD<CLR<FAC0122
+¡Oh!<FAC0022<NOD<FAC0122
+La tomaré prestado.<FAC0022<NOD<CLR
+<FAC0000<GIT1023Momorin toma la =Booster v2.0=.<NOD<GIT0000<CLR<FAC0122
+Aún no hay suficientes piezas
+necesarias para terminar
+el cohete.<FAC0022<NOD<CLO
+<IT-0023<EQ-0032<FL-0743
+<FL+1106
+<EVE0204
+#0204
+<KEY<MSG<FAC0122
+¿Estás ocupado ahora?<FAC0022<YNJ0205<CLR<FAC0122
+¿En serio?<FAC0022<NOD<FAC0122
+Bueno...<FAC0022<NOD<END
+#0205
+<KEY<FL+1101<MSG<FAC0122
+Es una gran respuesta<FAC0022<NOD<FAC0122
+por el esperado heroe.<FAC0022<NOD<CLR<FAC0122
+Por ahora, ponte esto.<FAC0022<NOD<FAC0000
+<GIT1024<IT+0024<EQ+0064<FL+1020<MSG
+<CMU0010Te puso la =Mascara Mimiga=.<WAI0160<NOD<RMU<CLO<GIT0000
+<MSG<FAC0122
+Te queda bién.<FAC0022<NOD<FAC0122
+Aunque te queda muy
+grande...<FAC0022<NOD<CLR<FAC0122
+Los Mimiga que trabajan en la
+Plantación tienen prohibido
+hablar con los humanos.<FAC0022<NOD<FAC0122
+Con ese disfraz puesto,
+deberias poder hablar con
+ellos.<FAC0022<NOD<CLR<FAC0122
+¿Entiendes?<FAC0022<NOD<EVE0207
+#0206
+<KEY<MSG<FAC0122<CLR
+Lo siguiente es, buscar
+al hombre llamado Itoh.<FAC0022<NOD<CLR<FAC0122
+Es todo un cobarde, dudo
+que se haya ido tan lejos.<FAC0022<NOD<END
+#0207
+<MSG<FL+1027<FL+1028<FAC0122
+Hay una cantidad miníma de
+electricidad necesaria para
+poder terminar el cohete.<FAC0022<NOD<FAC0122
+Si consigo uno de esos
+aspersores de la Plantación,
+esto podría ser suficiente.<FAC0022<NOD<CLR<FAC0122
+Por favor, haz lo que sea
+para traerme un Aspersor.<FAC0022<NOD<END
+#0208
+<KEY<MSG<FAC0122
+Hay una cantidad miníma de
+electricidad necesaria para
+poder terminar el cohete.<FAC0022<NOD<FAC0122
+Si hay algo que tenga
+electricidad por aquí, serán
+esos aspersores de afuera.<FAC0022<NOD<CLR<FAC0122
+Por favor, haz lo que sea
+para traerme un Aspersor.<FAC0022<NOD<END
+#0209
+<KEY<MSG<FAC0122
+Gracias por la ayuda.<FAC0022<NOD<CLR<FAC0000<GIT1028
+Le enseñas un =Aspersor Roto=.<NOD<CLR<FAC0122
+Hm...<FAC0022<NOD<CLR<FAC0122
+Las baterías de este Aspersor
+no sirven.<FAC0022<NOD<GIT0000<FAC0122
+No puedo usarlo en las
+condiciones en que esta.<FAC0022<NOD<END
+#0210
+<KEY<FL+1102<FL+1107<MSG<FAC0122
+Bienvenido de vuelta.<FAC0022<NOD<CLR<FAC0000
+<GIT1029<IT-0029Le enseñas un =Aspersor=.<NOD<CLR<FAC0122
+Echemos un vistazo...<FAC0022<NOD<CLR<FAC0122
+Este tiene la batería más que
+suficiente.<FAC0022<NOD<FAC0122
+Creo que esto servirá.<FAC0022<NOD<GIT0000<SOU0011<CNP0250:0072:0002<CLO<WAI0030
+<MSG<FAC0122
+Ahora, ¿puedes buscar a un
+hombre llamado Itoh?<FAC0022<NOD<CLR<FAC0122
+Se hace llamar a si mismo un
+"ingeniero competente".<FAC0022<NOD<CLR<FAC0122
+Pero es todo un cobarde.<FAC0022<NOD<FAC0122
+Itoh fue el primero en
+escaparse del Doctor, pero
+tampoco está muy lejos.<FAC0022<NOD<END
+#0211
+<MSG<FL+1103<FAC0122
+Bienvenido de vuelta.<FAC0022<NOD<CLR<FAC0122
+¿Has encontrado a Itoh?<FAC0022<NOD<CLR
+<FAC0000<GIT1027<IT-0027Le das el =Controlador=.<NOD<CLR<FAC0122
+No hay ninguna duda.<FAC0022<NOD<FAC0122
+Itoh fabricó este
+=Controlador=.<FAC0022<NOD<GIT0000<CLR<FAC0122
+Hm...<FAC0022<NOD<CLR<FAC0122
+Sin él aquí ayudandome será
+muy difícil realizar el análisis.<FAC0022<NOD<CLR<FAC0122
+Bueno, veré que puedo hacer.<FAC0022<NOD<EVE0212
+#0212
+<KEY<MSG<FAC0122
+Lo hiciste bien.<FAC0022<NOD<CLR<FAC0122
+El proceso tomará algo de
+tiempo antes de terminar.<FAC0022<NOD<FAC0122
+Así que, descansa un poco,
+hay una cama para ti.<FAC0022<NOD<END
+#0250
+#0280
+<KEY<MSG
+¿Queres descansar?<YNJ0000<FAO0004<CMU0000<WAI0020<CLR
+.....<NOD<CLO
+<WAI0050<FLJ1103:0281
+<LI+1000<SOU0020<MYD0002<MSG
+Te sientes fresco.<NOD<CLO<CMU0002<FAI0004<END
+#0281
+<FL-1103<FL+1105<FL+1030<FL+1031<FL+1032<FL+1033<FL+1004<FL-1038<FL+1039
+<FL-1026<FL+1036
+<MSG
+.....<NOD<CLO<DNP0200<DNP0350
+<LI+1000<SOU0020<MYD0002<MSG
+Te sientes bien fresco.<NOD<CLO<CMU0002<FAI0004<END
+#0350
+<KEY<MSG
+Es un cohete...<NOD<END

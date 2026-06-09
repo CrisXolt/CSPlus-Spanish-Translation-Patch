@@ -1,0 +1,136 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+
+
+
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0039:0094:0033:0009
+
+
+#0200
+<PRI<MSG
+Eso fue años atrás...<NOD
+Una bruja vivía aquí bajo soledad en esta
+isla.<NOD
+Esta bruja podría haber usado su magia
+por última vez para encerrarnos a los
+Gaudi adentro.<NOD<END
+#0210
+<PRI<MSG
+Existe la manera de salir del Laberinto.
+Sin embargo... la parte hacia su salida
+está obstruido por una roca.<NOD<CLR
+Aún no estoy seguro si encontrarás la
+salida al mover este pedazo de roca
+gigantesca...<NOD<END
+#0220
+<PRI<FLJ1020:0221<MSG
+Gaah... quiero comer Mimiga...<NOD<CLR
+¿Qué es ese olor?<NOD<CLR
+Huele un poco de Mimiga en ti.<NOD<END
+#0221
+<PRI<MSG
+Ja ja ja...<NOD<CLR
+Eres el chistoso aquí.<NOD<END
+#0230
+<PRI<MSG
+¿Has visto alguna vez el exterior de
+la isla? <NOD<CLR
+Se encuentra flotando en lo más alto
+del cielo.<NOD Y cómo lo hace...<NOD
+El secreto está oculto dentro de lo
+más profundo de este Laberinto.<NOD<END
+#0240
+<PRI<FLJ0720:0241
+<MSG
+Ese teletransporte aquí...<NOD
+antes funcionaba, hmm.<NOD
+Bueno, incluso cuando funcionaba,
+su destino estaba en algún lugar 
+dentro del Laberinto...<NOD<END
+#0241
+<MSG
+El teletransporte finalmente funciona
+bien de nuevo.<NOD<CLR
+En fin, gran cosa...<NOD
+Su destino se encuentra a la mitad del
+camino del Laberinto...<NOD<END
+
+
+#0300
+#0301
+<KEY<MNA<CMU0008
+<ANP0310:0001:0000<FAI0004
+<CNP0301:0112:0000<WAI0100
+<ANP0310:0000:0000
+<MYD0000<DNP0301<SMC<END
+#0310
+<KEY<FLJ0720:0311
+<KEY<MSG
+Un teletransporte.<NOD<CLR
+No está recibiendo energia.<NOD<END
+#0311
+<CNP0300:0111:0002<HMC<WAI0060<ANP0310:0001:0000
+<WAI0100<FAO0004<TRA0045:0301:0002:0053
+
+
+#0400
+<KEY<FLJ0721:0410<MSG
+Hola.<NOD<CLR
+¡Esta es la Tienda de Laberinto!<NOD
+Desafortunadamente, alguien robó
+toda las cosas aquí.<NOD
+Por lo que no tenemos nada que vender.<NOD
+Perdón por la molestia.<NOD<CLO<AMJ0002:0401<AMJ0013:0404<EVE0402
+#0401
+<KEY<MSG
+¿Y esto qué es?<NOD<CLR
+Traes algo bueno ahí.<NOD<CLR
+¡Esto es la =Estrella Polar=
+y la =Bola de Fuego=!<NOD<CLR
+¿Puedo echarles un vistazo?<YNJ0403<CLO
+<AM-0003
+<WAI0020<MSG<GIT0002
+Entregaste la =Estrella Polar=.<NOD
+<GIT0003Y la =Bola de Fuego=.<NOD<GIT0000<CLR
+<SOU0044¡¡¡Hmph!!!<NOD<CLR<FL+0721<GIT0001<CLR
+<TAM0002:0001:0000<CMU0010¡La =Serpiente= está terminada! <WAI0160<NOD<RMU<END
+#0402
+<KEY<FL+0721<MSG
+Ah...<NOD<CLR
+Mira, te daré esto.<NOD<CLR<GIT1020<CLR
+<CMU0010<IT+0020<EQ+0008Te dio la =Turbocarga=.<WAI0160<NOD<RMU<GIT0000<CLR
+Es gratis, no cobro mucho.<NOD
+Ni siquiera tienes dinero, ¿verdad?<NOD<END
+#0403
+<KEY<MSG<CLR
+¡Te arrepentirás más tarde!<NOD<END
+#0404
+<KEY<FL+0721<MSG
+Ah...<NOD<CLR
+Mira, te daré esto.<NOD<CLR<GIT1038<CLR
+<CMU0010<IT+0038Te dio la =Estrella Caprichosa=.<WAI0160<EQ+0128<FL+0722<NOD<RMU<GIT0000<CLR
+Por el momento es más como un adorno.<NOD
+Es todo lo que puedo ofrecerte ya que
+posees un arma definitiva.<NOD<END
+#0410
+<KEY<MSG
+Una bruja llamada Jenka nos encerro
+aquí.<NOD<CLR
+No es que nos odie.<NOD
+La razón por la que nos puso en el
+Laberinto es para proteger un gran
+secreto que se guarda por aquí.<NOD<CLR
+Pero los Gaudi tenemos mala memoria 
+y olvidamos que estamos protegiendo.
+¡Lo siento!<NOD<END 

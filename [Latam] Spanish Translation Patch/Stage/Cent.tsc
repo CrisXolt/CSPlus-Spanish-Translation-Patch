@@ -1,0 +1,422 @@
+
+#0090
+<MNA<CMU0024<FAI0000<END
+#0091
+<MNA<CMU0024<FAI0001<END
+#0092
+<MNA<CMU0024<FAI0002<END
+#0093
+<MNA<CMU0024<FAI0003<END
+#0094
+<MNA<CMU0024<FAI0004<END
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0002<TRA0055:0092:0006:0009
+#0110
+<KEY<FAO0002<TRA0057:0092:0005:0014
+#0115
+<KEY<SOU0011<ANP0115:0000:0002<FAO0002<TRA0057:0092:0003:0004
+#0120
+<PRI<FLJ1105:0122<MSG
+¿Cuál es la contraseña?<NOD<FLJ1024:0121<END
+#0121
+<MSG
+"yrotS evaC".<NOD<CLO
+<KEY<SOU0011<ANP0120:0000:0002<FAO0003<TRA0058:0093:0012:0004
+#0122
+<KEY<SOU0011<ANP0120:0000:0002<FAO0003<TRA0058:0093:0012:0004
+#0130
+<KEY<SOU0011<ANP0130:0000:0002<FAO0000<TRA0059:0090:0026:0008
+#0135
+<PRI
+<FLJ1023:0137
+<ITJ0025:0136
+<MSG
+Se lee "NO ENTRAR".<NOD
+Y además está bloqueada.<NOD<END
+#0136
+<SOU0022<MSG<GIT1025
+Usaste la =Llave de Teletransporte=.<NOD<CLO
+<GIT0000<FL+1023<EVE0137
+#0137
+<KEY<SOU0011<ANP0135:0000:0002<FAO0000<TRA0060:0090:0021:0009
+#0140
+<KEY<FAO0000<TRA0061:0090:0029:0009
+#0150
+<PRI<FLJ1030:0151<MSG
+Es muy pronto para ti...<NOD<END
+#0151
+<KEY<SOU0011<ANP0150:0000:0002<FAO0002
+<ITJ0023:0160
+<KEY<TRA0063:0092:0007:0052
+#0160
+<KEY<TRA0067:0092:0007:0052
+#0170
+<KEY<FAO0002<TRA0084:0092:0004:0021
+#0199
+<MOV0074:0079<END
+#0200
+<PRI<FLJ1020:0201
+<EVE0299
+#0201
+<PRI<MSG
+Las flores rojas crecerán en
+preparación para el ataque contra
+la superficie.<NOD
+Si lo que dice el Doctor es verdad...
+bueno, necesitamos hacer que las
+flores rojas florezcan ya.<NOD<END
+#0210
+<PRI<FLJ1020:0211
+<EVE0299
+#0211
+<PRI<MSG
+¡Derrotar a los malos robots asesinos
+será más fácil con la flor roja en
+nuestra posesión! <NOD
+¡Florezca rápido pequeña flor roja!<NOD<END
+#0220
+<PRI<FLJ1020:0221
+<EVE0299
+#0221
+<PRI<MSG
+¡Larga vida al gran Doctor!<NOD<END
+#0230
+<PRI<FLJ1020:0231
+<EVE0299
+#0231
+<PRI<MSG
+¿Por qué no estás trabajando?...<NOD<END
+#0240
+<PRI
+<FLJ1037:0242
+<FLJ1020:0241
+<EVE0299
+#0241
+<PRI<FL+1037<MSG
+Tú.<NOD<CLR
+Eres el nuevo aquí.<NOD
+Debes estar confundido por el hecho
+que te llevaron hasta aquí de repente.<NOD<CLR
+Como sea.<NOD
+Tampoco lo intentes de hacer algo
+estúpido.<NOD
+Si huyes y te atrapan, te meterán en la
+cárcel.<NOD
+Por ahora estoy a salvo y recibo
+comida, pero solo mientras cuido de
+sus tontas flores.<NOD<END
+#0242
+<PRI<MSG
+Oye, ¿cómo va todo?<NOD<CLR
+Si tenemos suerte, los viejos y mejores
+tiempos regresarán pronto.<NOD<CLR
+Hmm... Quizas.<NOD<END
+#0250
+<PRI
+<ITJ0029:0254
+<FLJ1029:0253
+<FLJ1028:0252
+<FLJ1020:0251
+<PRI<MSG
+Este Aspersor está...<NOD<CLR
+¡Uups!
+No debo hablar con los humanos.<NOD<END
+#0251
+<PRI<MSG
+Estos aspersores son muy útiles,<NOD
+pero son fáciles de romper.<NOD<END
+#0252
+<PRI<FL+1029<MSG
+¡Se rompió OTRA VEZ!<NOD<CLR
+.....<NOD<CLR
+¡Oye, tú, el chico nuevo! 
+Ve a intercambiar este Aspersor
+por uno nuevo que funcione.<NOD<END
+#0253
+<PRI<MSG
+¡VE YA!
+O el brote de las flores morirán.<NOD
+¡Intercámbialo por un nuevo Aspersor,
+pero date prisa!<NOD<END
+#0254
+<PRI<MSG
+¡La flor roja nos convertirán en
+guerreros más fuertes!<NOD
+De hecho, los Mimiga siempre hemos
+sido así de poderosos. <NOD
+La batalla contra los robots no fue solo
+una leyenda.<NOD<CLR
+Je je.<NOD<CLR
+Me pregunto cuando florecerán ya...<NOD
+Ya estoy harto y cansado de toda
+esta granja.<NOD<END
+#0260
+<PRI
+<FLJ1023:0263
+<FLJ1022:0262
+<FLJ1035:0261
+<FL+1035
+<MSG
+Oh, eres tú.<NOD<CLR
+Pesqué algo extraño.<NOD
+Puedes tomártelo si quieres.<NOD
+Está dentro de la cubeta.<NOD<END
+#0261
+<PRI<MSG
+Está dentro de la cubeta.<NOD<END
+#0262
+<PRI<MSG
+¿A qué pertenece esa llave?<NOD<CLR
+Por lo que veo, esa llave debería
+funcionar en una puerta cercana...<NOD<CLR
+Estoy hambriento...<NOD<END
+#0263
+<PRI<MSG
+No logro pescar nada hoy...<NOD<END
+#0265
+<PRI
+<FLJ1022:0267
+<FLJ1035:0266
+<MSG
+Es una cubeta que sirve para guardar
+peces.<NOD<END
+#0266
+<PRI<FL+1022
+<MSG
+Revisaste adentro de la cubeta.<NOD
+Inspeccionando cuidadosamente, ves
+algún tipo de objeto, brillando adentro.<NOD<CLR<GIT1025<IT+0025<CLR
+<CMU0010Obtuviste la =Llave de Teletransporte=.<WAI0160<NOD<RMU<END
+#0267
+<PRI<MSG
+No hay nada más en la cubeta...<NOD<END
+#0299
+<PRI<MSG
+.....<NOD<END
+
+
+
+#0300
+#0301
+#0310
+<PRI
+<FLJ1045:0313
+<FLJ1041:0311
+<FLJ1044:0312
+<MSG
+El Doctor de la superficie está usando
+a los Mimigas de la isla para cultivar
+flores rojas para él.<NOD<CLR
+Similar de los eventos anteriores que
+también ocurrieron en el pasado...<NOD<END
+#0311
+<PRI<MSG
+Esta chica cayó cerca del manantial. <NOD
+Ella no recuerda quién es...<NOD<CLR
+Probablemente sea una chatarra ahora.<NOD<FL+1044<EVE0312
+#0312
+<PRI<MSG
+Solo una cosa...<NOD
+He oído sobre algún tipo de hongo
+especial que supuestamente ayuda a
+recuperar la memoria de quien lo coma.<NOD
+¿Me pregunto si con esto puede
+funcionar también con esa pobre chica?<NOD<END
+#0313
+<PRI<MSG
+Su memoria regresó...
+Bueno, tampoco es tan emocionante.<NOD<END
+#0320
+<PRI
+<FLJ1046:0325
+<FLJ1045:0324
+<ITJ0024:0321
+<FL+1041<MSG<FAC1125
+¿Quién...<FAC1025<NOD<FAC1125 eres?<FAC1025<NOD<ITJ0034:0322<END
+#0321
+<PRI<MSG<FAC1125
+Oow...<FAC1025<NOD<FAC1125
+Eres lindo...<FAC1025<NOD<CLR<FAC1125
+No te vayas tan lejos.<FAC1025<NOD<FAC1125
+Ten cuidado con los robots
+malos...<FAC1025<NOD<ITJ0034:0322<END
+#0322
+<FAC0000<MSG<GIT1034
+¿Usarás el =Ma Pignon=?<YNJ0000<GIT0000<IT-0034<CMU0000<CLR
+Se lo metiste a Curly en la boca.<NOD<CLR<CLO<WAI0050<EQ-0064<WAI0050
+<MSG<FAC1025
+. . . . .<NOD<CLR<FAC1119
+¡¡Quote!!<FAC1019<NOD<FAC1119
+¡Ahora lo recuerdo!
+¡Tú nombre es Quote!<FAC1019<NOD<CLR<FAC1119
+Tú y yo somos...<FAC1019<NOD<CLR
+<FAC1125Bueno...<FAC1025<NOD<CLR<FAC1125
+Antes, una gran masa de
+robots como nosotros fue
+enviado a esta isla...<FAC1025<NOD<FAC1125
+Fuimos enviados por los
+países de la superficie.<FAC1025<NOD<CLR<FAC1125
+El propósito de la misión...<FAC1025<NOD<FAC1125
+era el increíble poder
+durmiente en esta isla
+flotante...<FAC1025<NOD<FAC1125
+Y también se trataba de la
+Corona Demoniaca.<FAC1025<NOD<FAC1125
+Pero tú y yo éramos
+diferentes.<FAC1025<NOD<CLR<FAC1125
+Fuimos enviados a una misión
+para destruir ese poder.<FAC1025<NOD<CLR<FAC1125
+La isla, era un desastre
+cuando aterrizamos.<FAC1025<NOD<FAC1125
+Devastada por los robots...<FAC1025<NOD<CLR<FAC1125
+Ellos asesinaron a miles de
+pobres y pequeños Mimiga...<FAC1025<NOD
+<FAC1120Fue horrible...<FAC1020<NOD<CLR<FAC1125
+Y finalmente, un hombre se
+apoderó de la Corona.<FAC1025<NOD<CLR<FAC1125
+La misión de los robots fue
+terminada y la isla quedó
+totalmente en silencio.<FAC1025<NOD<CLR<FAC1125
+Pero es solamente el
+comienzo de la tragedia.<FAC1025<NOD<FAC1125
+El hombre quien pudo
+capturar la corona convirtió
+a los Mimigas en bestias,<FAC1025<NOD<FAC1125
+y ellos comenzaron
+atacando a la superficie.<FAC1025<NOD<CLR<FAC1125
+Me enfrenté a él e hice lo
+mejor para derrotarlo.<FAC1025<NOD<FAC1125
+Tú estabas conmigo
+en ese entonces.<FAC1025<NOD<CLR
+.....<NOD<CLR<FAC1125
+Y es todo lo que puedo
+recordar.<FAC1025<NOD<CLR<FAC1125
+El portador de la corona fue
+herido por nuestros
+ataques en aquella vez.<FAC1025<NOD<CLR
+<FAC1119¿Y qué hay de ti?
+¿Puedes recordar algo?<FAC1019<NOD<CLO
+<FL+1045<RMU<FLJ1020:0323<EVE0324<END
+#0323
+<PRI<EQ+0064<EVE0324<END
+#0324
+<PRI<MSG<FAC1119
+Estoy bien.<FAC1019<NOD<FAC1119
+¡No te preocupes por mí! <FAC1019<NOD<CLR<FAC1125
+Oh,<FAC1025<NOD<FAC1125 aquí.<FAC1025<NOD<CLR<FAC1119
+Por favor<GIT1039 quedatelo...<FAC1019<NOD<CLR<FAC0000
+<FL+1046<IT+0039Te dio el =Vinculo de Hierro=.<WAI0020<NOD<GIT0000<END
+#0325
+<PRI<MSG<FAC1119
+Estoy bien.
+¡Gracias por preguntar!<FAC1019<NOD<END
+#0350
+<PRI<MSG
+¿Quieres lanzar el Cohete?<YNJ0000<CLO
+<ANP0350:0010:0000<END
+#0360
+<PRI<MSG<FAC0128
+¡Regresé!<FAC0028<NOD<CLR<FAC0128
+Escondiéndome fue inútil.
+¡Y el cohete nunca se habría
+terminado sin mi ayuda!<FAC0028<NOD<CLR<FAC0128
+Por cierto...<FAC0028<NOD<CLR<FAC0128
+Si derrotas al Doctor,<FAC0028<NOD<FAC0128
+¿crees que volveré a ser un
+humano como antes?<FAC0028<NOD<END
+#0370
+<PRI<FLJ1034:0380<MSG<FAC0122<FL+1034
+¿Dormiste bien?<FAC0022<NOD<CLR<FAC0122
+El cohete está terminado.<FAC0022<NOD<CLR<FAC0122
+Seguro que puedes vencer
+al Doctor, ¿verdad?<FAC0022<NOD<FAC0122
+Se que puedes.<FAC0022<NOD<CLR<FAC0122
+Por favor, toma esto...<FAC0022<NOD<CLO<FAC0000<FLJ0162:0371
+<IT+0018<GIT1018
+<CMU0010<MSG
+Te devolvió la =Booster v0.8=.<WAI0160<NOD<RMU<CLO
+<GIT0000<EVE0375
+#0371
+<IT+0023<GIT1023
+<CMU0010<MSG
+Te devolvió la =Booster v2.0=.<WAI0160<NOD<RMU<CLO
+<GIT0000<EVE0375
+#0375
+<PRI<MSG<FAC0122
+Ya no necesitaras más esa
+mascara.<FAC0022<NOD<CLO<FAC0000
+<MSG<GIT1024<IT-0024<EQ-0064<FL-1020
+Se llevó la =Mascara Mimiga=.<NOD<CLO<GIT0000<EVE0380
+#0380
+<PRI<MSG<FAC0122
+Justo encima hay un camino
+que lleva al trono.<FAC0022<NOD<FAC0122
+Deberías poder llegar allí 
+usando este cohete.<FAC0022<NOD<CLR<FAC0122
+Los Mimiga de la Plantación ya
+se fueron ahora.<FAC0022<NOD<CLR<FAC0122
+...Esto quiere decir que él
+podría ya estar utilizando
+la flor roja.<FAC0022<NOD<CLR<FAC0122
+Bien, entonces.<FAC0022<NOD<CLR<FAC0122
+Por favor, súbete al cohete
+y date prisa en llegar al
+trono del Doctor.<FAC0022<NOD<END
+#0400
+<PRI<FLJ1102:0401<MSG
+Se rocía agua a un ritmo furioso.<NOD<END
+#0401
+<PRI<MSG
+¡Oye! ¡Estaremos en problemas si te
+llevas esto!<NOD<END
+#0410
+<PRI<FLJ1102:0411<MSG
+Se rocía agua a un ritmo furioso.<NOD<END
+#0411
+<PRI<MSG
+¡Oye! ¡Estaremos en problemas si te
+llevas esto!<NOD<END
+#0415
+<PRI<MSG
+Se detuvo.<NOD<FLJ1029:0416<END
+#0416
+<PRI<DNP0415<FL-1028<GIT1028<IT+0028<MSG
+<CMU0010Obtuviste un =Aspersor Roto=.<WAI0160<NOD<RMU<END
+#0450
+<PRI<FLJ1040:0451<FL+1040<MSG
+Ha pasado un tiempo.<NOD
+¡WOOF!<NOD<CLR
+Fui contratado como mensajero...<NOD
+Esto es para ti.<NOD<CLR<SOU0022<CMU0016<GIT1006
+Te dio una =Cápsula de Vida=.<WAI0160<NOD<RMU<ML+0005
+Vida máxima incrementada por 5.<NOD<GIT0000<ITJ0015:0451<CLR
+Ah, y esto también...<NOD<CLR
+<CMU0010<GIT1015<IT+0015<GIT1015Te dio la =Poción de Vida=.<WAI0160<NOD<GIT0000<RMU<EVE0451
+
+#0451
+<PRI<MSG
+Si vas a luchar contra el Doctor.<NOD
+¡Tienes todo mi apoyo!
+¡Por cierto, saluda a Curly de mi parte!
+¡WOOF!<NOD<END
+#0460
+<PRI<MSG<TUR
+¡Cuidado con los Peces Cañón!
+Nota: Pueden usarse como plataformas.<NOD<END
+#0480
+<KEY<HMC
+<FON0481:0016
+<MNP0481:0034:0118:0000
+<ANP0481:0020:0002<WAI0320
+<ANP0481:0000:0000
+<MOV0073:0110<SMC<MYB0002<FOM0016<END
+#0481
+#0500
+<PRI<SOU0022<DNP0500<CMU0016
+<MSG<GIT1006
+Obtuviste una =Cápsula de Vida=.<WAI0160<NOD<RMU<ML+0004
+Vida máxima incrementada por 4.<NOD<END
+#1200
+<KEY<ANP1200:0020:0000
+<FON1200:0016<FAI0001
+<WAI0100<FAO0001<FMU<WAI0200<TRA0091:0100:0004:0001

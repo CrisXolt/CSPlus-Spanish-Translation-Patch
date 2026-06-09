@@ -1,0 +1,114 @@
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0095
+<CMU0008<FAI0001<END
+
+#0100
+<PRI<FAO0000<TRA0012:0094:0053:0036
+
+
+
+#0200
+<KEY<FLJ1640:0201<FL+1640<SOU0022<CNP0200:0021:0000
+<MSG
+Abriste un cofre del tesoro.<NOD<GIT0002<AM+0002:0000<CLR<CMU0010
+Obtuviste la =Estrella Polar=.<WAI0160<NOD<GIT0000<CLO<RMU
+<MSG
+Una transmisión, en algún lugar...<FAO0004<NOD<TRA0018:0501:0005:0000
+
+#0201
+<PRI<MSG
+Está vacío.<NOD<END
+
+#0210
+
+
+#0300
+<KEY<MSG
+ZZZzzz...zzz...<NOD<END
+
+#0301
+<FLJ1644:0303
+<KEY<MSG
+Oye ¿has visto por casualidad el arma
+que fabriqué?<NOD
+Fue robada mientras estaba dormido.<NOD
+Debí haberme quedado dormido con el
+arma en mi bolsillo, de haber sabido que
+estro iba a pasar...<NOD<AMJ0002:0302<CLR
+Esta arma,<NOD ni siquiera estaba terminado.<NOD
+Con un poco de esfuerzo, podría haber
+sido el arma increíblemente poderosa.<NOD<CLR
+Es una pena...<NOD<END
+
+#0302
+<KEY<MSG<CMU0000<MYB0002
+¡¡Espera!!<NOD<CLR
+¡¡Esta es MI arma!!<NOD<CLR<GIT0002
+¡¿Por qué la tienes?!
+¡No la fabriqué eso para ti!<NOD<CLR
+¡¡Devuélvemela!!<NOD<CLR<CNP0210:0150:0012<WAI0012<GIT0000<HMC
+Te han confiscado la =Estrella Polar=...<NOD<CLR
+¡Hmph!<NOD
+Parece que la usaste de forma
+significantiva.<NOD<CLR
+.....<NOD<CLR
+Yo...<NOD me crie creyendo que las armas
+siempre debería ser fabricadas y
+usadas por alguien por su cuenta.<NOD
+¡Y siempre pensé en aquellos que
+luchan con el arma fabricada por otros
+son completamente tontos!<NOD 
+Se creen mucho con el poder que nunca
+fue suyo para empezar...<NOD
+...Y para después echarle la culpar al
+equipamiento por no usarlo bien.<NOD<CLR
+¡Tontos!<NOD<CLR
+<CMU0008Aunque...<WAI0050<CLR
+Ahora que lo pienso, viendo que mi
+arma es usada por ti, por tus propias
+manos, me quedé tan conmovido...<NOD
+De que usaras el arma no terminada,
+como la =Estrella Polar=, hasta este
+punto...<NOD<CLR
+Hmm...<NOD<CLR
+Perdón por mi desahogo.<NOD<CLR
+Que tal esto,<NOD te la daré...<NOD<CLR<CMU0000<FAO0001
+¡Después de terminarla, por supuesto!<NOD<CLO
+<WAI0150<FAI0001
+<FLA<WAI0050<TAM0002:0013:0000<FL+1644<FL+0303<MSG
+<CMU0010<MSG<GIT0013
+¡La =Estrella Polar= ahora es =Spur=!<SMC<DNP0210<WAI0160<NOD<CMU0008<END
+
+#0303
+<KEY<MSG
+En este mundo, aún existe el balance
+bastante delicado...<NOD<CLR
+Entre aquellos que fabrica y aquellos
+que experimentan algo fabricado por
+otro.<NOD<CLR
+No puedo decir que no me doy cuenta.
+Sin embargo, jamás experimenté en
+esto.<NOD<CLR 
+Pero ahora lo tengo gracias a ti.<NOD<CLR 
+Siempre y cuando haya personas que
+aprecie el trabajo invertido en la
+fabricación, el esfuerzo valdrá la pena.<NOD 
+Por esta razón, voy a seguir
+fabricando en lo más sea posible.<NOD<END
+
+
+#0310
+<KEY<MSG<TUR
+"Fuera."<NOD<END
+
+
