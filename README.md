@@ -1,8 +1,8 @@
-# Cave Story+ (Steam 2026) - Spanish Translation Patch
+# Cave Story+ (2026 version) - Spanish Translation Patch
 
 ---
 
-This is a fan-made project that is still considered an experiment (for now), with the goal of not only providing a Latam Spanish translation for the **2026 Steam version** but also adding a few extra features to make it even more complete, while preserving some original essence and avoiding graphical errors as much as possible.
+This is a fan-made project that is still considered an experiment (for now), with the goal of not only providing a Latam Spanish translation for the **2026 version** but also adding a few extra features to make it even more complete, while preserving some original essence and avoiding graphical errors as much as possible.
 
 There may still be a few grammatical errors to fix, so there may be some changes in a few days. If you find something and have any questions, please let me know!
 
@@ -27,7 +27,11 @@ Inspired by Aeron Genesis Translation Patch.
 ---
 ## Notes before installation:
 
-Before downloading the file, make sure you've purchased **Cave Story+** on Steam and that you're using the latest update (6/8/2026). It is not currently compatible with **doukutsu-rs**.
+Before downloading the file, make sure you've purchased **Cave Story+** on **Steam** and that you're using the **latest version (build 26-06-09)**.
+
+If you purchased it from other stores like Epic Games or GOG and it includes the **2026 version**, then it might work as well.
+
+It is not currently compatible with **doukutsu-rs**.
 
 ---
 
