@@ -78,7 +78,7 @@ Es un teletransporte...<NOD<SLP<NOD<END
 <FLJ0325:0601
 <KEY<MSG<FAC0109
 Bienvenido de vuelta...<FAC0009<NOD<CLR<FAC0109
-Si, ella ha regresado.<FAC0009<NOD<FAC0109
+Sí, ella ha regresado.<FAC0009<NOD<FAC0109
 Pero la encerramos dentro de
 una reja, arriba de la aldea.<FAC0009<NOD<FAC0109
 Cuando los secuaces del
@@ -159,7 +159,7 @@ hacer algo al respecto...<FAC1018<NOD<END
 #0622
 <KEY<FLJ0158:0632<MSG<FAC1110
 Buen trabajo.<FAC1010<NOD<CLR<FAC1110
-Si, la moto quedó destruida,
+Sí, la moto quedó destruida,
 pero de alguna manera sí
 que logramos llegar...<FAC1010<NOD<END
 #0624
@@ -214,7 +214,7 @@ lo consiga...<FAC1018<NOD<CLR<FAC1118
 Sin embargo,<NOD
 la Zona de Arena es un lugar
 muy peligroso.<FAC1018<NOD<FAC1118
-Si nos vamos, tal vez no
+Si nos vamos allí, tal vez no
 podamos regresar con vida...<FAC1018<NOD<CLR
 <FAC0107¿Acaso te estás rindiendo?<FAC0007<NOD<CLR<FAC1118
 No de todo.<FAC1018<NOD<CLR<FAC1118
@@ -225,7 +225,7 @@ ahora.<FAC1018<NOD<CLO<FAC0000
 <ANP0621:0000:0002<WAI0002<ANP0625:0000:0002
 <MSG<FAC1118
 Tú.<FAC1018<NOD<CLR
-<CMU0002<FAC1110...¿Quién es el?<FAC1010<NOD<CLR<FAC1118
+<CMU0002<FAC1110¿...Quién es el?<FAC1010<NOD<CLR<FAC1118
 Hm, bueno...<FAC1018<NOD<CLR<FAC1118
 Es un robot de reconocimiento
 armado que fue enviado a la
@@ -326,7 +326,7 @@ tiempo...<FAC1018<NOD<CLR<FAC1118
 Por lo que ella no tuvo 
 elección de seguirnos hacia
 la isla.<FAC1018<NOD<CLR<FAC1118
-Asi que, por favor.<FAC1018<NOD<CLR<FAC1118
+Así que, por favor.<FAC1018<NOD<CLR<FAC1118
 Llévatela y huye.<FAC1018<NOD<CLO
 <FL-0160<FL+0161<FL+0741<PS+0004:6004<END
 #0660

@@ -33,7 +33,7 @@ No tenemos nada que decirte.<NOD<END
 Ten cuidado con esos Croco-Arenas.
 Te morderán de repente si caminas en
 algún piso de arena.<NOD
-¡Y si que hace daño bastante!<NOD<END
+¡Y sí que hace daño bastante!<NOD<END
 #0202
 <FLJ0273:0205
 <KEY<MSG
@@ -63,7 +63,7 @@ antes de que pudiéramos abrir los ojos.<NOD<END
 ¿Estás buscando a las flores rojas?<NOD
 Una ancianita llamada Jenka puede
 saber algo al respecto.<NOD<CLR
-Ah si, casi se me olvida...<NOD<CLR
+Ah sí, casi se me olvida...<NOD<CLR
 Si vas hacia su casa, asegúrate de
 llevarte un perrito, está frente la cama.
 Revisa el Cuarto Pequeño.<NOD<FL+0564<END
@@ -119,7 +119,7 @@ no pienso perder contra ti!!<FAC1019<NOD<CLO
 <WAI0050<CMU0002
 <MSG<FAC1120
 Me diste...<FAC1020<NOD<FAC1120
-Fuí derrotada...<FAC1020<NOD<CLR<FAC1120
+Fui derrotada...<FAC1020<NOD<CLR<FAC1120
 ¿En serio planeas eliminar a
 los Mimigas?<FAC1020<YNJ0410<CLR<FAC1120
 Ya veo...<FAC1020<NOD<CLR<FAC1120
@@ -172,7 +172,7 @@ Hola Sr. Máquina de Matar.<FAC1019<NOD<CLR<FAC1119
 ¿Aún piensas en eliminar a
 todo los Mimigas?<FAC1019<YNJ0510<CLR<FAC1120
 Entiendo...<FAC1020<NOD<CLR<FAC1120
-Si que eres malo...<FAC1020<NOD<END
+Sí que eres malo...<FAC1020<NOD<END
 #0510
 <KEY<FL+0562<MSG<FAC1119
 ¡Oooh!<FAC1019<NOD<CLR<FAC1119
@@ -208,7 +208,7 @@ cuando quieras, yo estaré
 aquí si cambias de opinión.<FAC1019<NOD<END
 #0530
 <KEY<MSG<FAC1125
-Si, ¡todo tiene la culpa de los
+Sí, ¡todo tiene la culpa de los
 humanos!<FAC1025<NOD<FAC1125
 Los Mimigas sólo está siendo
 usado por ellos.<FAC1025<NOD<END

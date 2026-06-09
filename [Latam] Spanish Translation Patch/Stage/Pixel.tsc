@@ -57,7 +57,7 @@ Abajo hay instrucciones de cómo hacer
 el mantenimiento en caso de un robot
 inundado.<NOD<CLR<MSG
 .<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010.<WAI0010<NOD<CLR<CMU0010
-¡Aprendiste como hacer mantenimiento
+¡Aprendiste cómo hacer mantenimiento
 a un robot inundado!<WAI0160<NOD<RMU<CLR<TUR
 El sistema inundado comenzará hacer
 el proceso de reinicio automáticamente
@@ -98,7 +98,7 @@ Me alegra mucho...<FAC1019<NOD<CLR<FAC1125
 siempre!<FAC1025<NOD<FAC1125
 Perdiste la consciencia
 y no sabía que hacer...
-Asi que...<FAC1025<NOD<CLR<FAC1125
+Así que...<FAC1025<NOD<CLR<FAC1125
 Te dí mi Tanque de Aire.
 Sí te funcionó, ¿verdad?...<FAC1025<NOD<CLR
 <FAC1020¿verdad?... Uuh...<NOD<CLO<FAC0000<ANP0260:0001:0000
