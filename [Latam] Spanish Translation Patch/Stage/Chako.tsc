@@ -58,14 +58,14 @@ Vida recargada.<NOD<CLO<RMU<FAI0004<END
 <FLJ0241:0303
 <KEY<MSG
 Hola, ¿en qué puedo ayudarte?<NOD<CLR
-¿Ya conociste al debilucho de
-Santa?<NOD<END
+¿Ya conociste el todo en aprietos
+de Santa?<NOD<END
 #0301
 <KEY<MSG
 Si quieres apagar el fuego,
-entonces necesitas conseguir
-un poco de =Jugo de Medusa=.<NOD<CLR
-Puedes conseguirlas de las medusas.<NOD
+entonces vas a necesitar un poco de
+=Jugo de Medusa=.<NOD<CLR
+Puedes conseguir eliminando medusas.<NOD
 Pero busca al gigante de todas.<NOD<END
 #0302
 <KEY<MSG
@@ -79,4 +79,4 @@ y otra vez.<NOD<END
 Hola, ¿en qué puedo ayudarte?<NOD<CLR
 Wow, ¡eso que llevas ahí parece
 bastante peligroso!<NOD<CLR
-¿Acaso serás un viajero?<NOD<END
+¿Acaso eres un viajero?<NOD<END
