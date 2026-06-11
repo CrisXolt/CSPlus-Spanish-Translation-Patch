@@ -160,14 +160,13 @@ necesarios!<NOD<END
 ¡Vamos a fabricar la bomba de inmediato!<NOD<GIT0000<CLO
 <FAO0001<WAI0100<FAI0001
 <MSG
-¡Está terminado!<NOD<GIT1013<IT+0013<FL+0221<CLR
+¡Y está terminado!<NOD<GIT1013<IT+0013<FL+0221<CLR
 <CMU0010Obtuviste la =Bomba=.<WAI0160<NOD<RMU<CLR
 ¡Ahora ve y destruye esa puerta!<NOD<END
 
 #0313
 <KEY<MSG
-¡Ahora, date prisa y destruye esa
-puerta!<NOD<END
+¡Date prisa y destruye esa puerta ya!<NOD<END
 #0314
 <KEY<MSG
 Por favor, ven a visitame otra vez...<NOD

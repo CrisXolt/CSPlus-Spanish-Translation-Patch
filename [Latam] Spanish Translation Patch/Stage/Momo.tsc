@@ -185,14 +185,16 @@ Itoh fabricó este
 Hm...<FAC0022<NOD<CLR<FAC0122
 Sin él aquí ayudandome será
 muy difícil realizar el análisis.<FAC0022<NOD<CLR<FAC0122
-Bueno, veré que puedo hacer.<FAC0022<NOD<EVE0212
+Bueno, me las arreglaré
+de todas formas.<FAC0022<NOD<EVE0212
 #0212
 <KEY<MSG<FAC0122
 Lo hiciste bien.<FAC0022<NOD<CLR<FAC0122
-El proceso tomará algo de
+Este proceso tomará algo de
 tiempo antes de terminar.<FAC0022<NOD<FAC0122
-Así que, descansa un poco,
-hay una cama para ti.<FAC0022<NOD<END
+Toma un descanso, hay
+una cama para ti en el
+piso inferior.<FAC0022<NOD<END
 #0250
 #0280
 <KEY<MSG
@@ -200,14 +202,14 @@ hay una cama para ti.<FAC0022<NOD<END
 .....<NOD<CLO
 <WAI0050<FLJ1103:0281
 <LI+1000<SOU0020<MYD0002<MSG
-Te sientes fresco.<NOD<CLO<CMU0002<FAI0004<END
+Te sientes como nuevo.<NOD<CLO<CMU0002<FAI0004<END
 #0281
 <FL-1103<FL+1105<FL+1030<FL+1031<FL+1032<FL+1033<FL+1004<FL-1038<FL+1039
 <FL-1026<FL+1036
 <MSG
 .....<NOD<CLO<DNP0200<DNP0350
 <LI+1000<SOU0020<MYD0002<MSG
-Te sientes bien fresco.<NOD<CLO<CMU0002<FAI0004<END
+Estás bien como nuevo.<NOD<CLO<CMU0002<FAI0004<END
 #0350
 <KEY<MSG
 Es un cohete...<NOD<END
