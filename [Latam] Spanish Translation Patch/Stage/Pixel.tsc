@@ -31,7 +31,7 @@ El texto se muestra en pantalla...<NOD<CLR
 El texto se muestra en pantalla...<NOD<CLR<TUR
 Eso me recuerda, también hacia mis
 apuntes sobre las cosas que aprendí
-en el cuaderno.<NOD<END
+en esa libreta.<NOD<END
 #0203
 <KEY<MSG
 El texto se muestra en pantalla...<NOD<CLR
@@ -42,11 +42,11 @@ El texto se muestra en pantalla...<NOD<CLR
 Aquí no hay nada interesante...<NOD<END
 #0221
 <KEY<MSG
-Aquí hay un cuaderno que está
-cubierto en polvo....<NOD<FLJ1441:0223<FLJ1445:0222<END
+Aquí hay una libreta que está cubierto
+en polvo....<NOD<FLJ1441:0223<FLJ1445:0222<END
 #0222
 <KEY<MSG
-¿Abrirás el cuaderno?<YNJ0000<FL+1441<CLR<TUR
+¿Abrir la libreta?<YNJ0000<FL+1441<CLR<TUR
 Los robots fabricados en la superficie
 tienen la movilidad limitada al sumergir en
 lugares acuáticos.<NOD<CLR
@@ -64,8 +64,7 @@ el proceso de reinicio automáticamente
 una vez usado el metodo del drenado.<WAI0030<NOD<END
 #0223
 <KEY<MSG
-No hay más cosas escritas en el
-cuaderno.<NOD<END
+No hay más cosas escrita en la libreta.<NOD<END
 #0250
 <KEY
 <FLJ1444:0257
