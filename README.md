@@ -17,9 +17,9 @@ With the recreated `.fnt` file, it is now possible to use special characters in 
 <details>
 <summary>Details</summary>
 
-![Imgur](https://i.imgur.com/3iXbUqN.jpg)
-![Imgur](https://i.imgur.com/FyrWImM.jpg)
-![Imgur](https://i.imgur.com/0ocmDWl.jpg)
+![Imgur](https://i.imgur.com/Hwm2goL.png)
+![Imgur](https://i.imgur.com/VEsElbN.png)
+![Imgur](https://i.imgur.com/Q4rWX7v.png)
 
 </details>
 
@@ -29,10 +29,9 @@ Not only have the **“Caret”** and **“TextBox”** texture files been modde
 <details>
 <summary>Details</summary>
 
-![Imgur](https://i.imgur.com/IB2QaiK.jpg)
-![Imgur](https://i.imgur.com/ggc6fdd.jpg)
-![Imgur](https://i.imgur.com/aNB7Ulo.jpg)
-![Imgur](https://i.imgur.com/GwCr3FP.jpg)
+![Imgur](https://i.imgur.com/tAFBMfe.png)
+![Imgur](https://i.imgur.com/gxGD9Gr.png)
+![Imgur](https://i.imgur.com/N9usXcZ.png)
 
 </details>
 
@@ -42,8 +41,8 @@ The texture files have also been modified for **Classic Graphics**.
 <details>
 <summary>Details</summary>
 
-![Imgur](https://i.imgur.com/vohmpRW.png)
-![Imgur](https://i.imgur.com/amg5nhd.png)
+![Imgur](https://i.imgur.com/FOki3Yv.png)
+![Imgur](https://i.imgur.com/rehK8nX.png)
 
 </details>
 
