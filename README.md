@@ -14,11 +14,38 @@ And don't worry, the updates will continue. There are still other expansions and
 #### 1. Custom Bitmap Font.
 With the recreated `.fnt` file, it is now possible to use special characters in dialogs, such as accents (á, é, í, ó, ú), the ñ, diaeresis (ü) and opening punctuation marks (¿¡).
 
+<details>
+<summary>Details</summary>
+
+![Imgur](https://i.imgur.com/3iXbUqN.jpg)
+![Imgur](https://i.imgur.com/FyrWImM.jpg)
+![Imgur](https://i.imgur.com/0ocmDWl.jpg)
+
+</details>
+
 #### 2. Modified GUI and Sprites.
 Not only have the **“Caret”** and **“TextBox”** texture files been modded but so has the **NPC** section. It has been redrawn from scratch, drawing inspiration from other existing translation projects.
 
+<details>
+<summary>Details</summary>
+
+![Imgur](https://i.imgur.com/IB2QaiK.jpg)
+![Imgur](https://i.imgur.com/ggc6fdd.jpg)
+![Imgur](https://i.imgur.com/aNB7Ulo.jpg)
+![Imgur](https://i.imgur.com/GwCr3FP.jpg)
+
+</details>
+
 #### 3. Classic Graphics.
 The texture files have also been modified for **Classic Graphics**.
+
+<details>
+<summary>Details</summary>
+
+![Imgur](https://i.imgur.com/vohmpRW.png)
+![Imgur](https://i.imgur.com/amg5nhd.png)
+
+</details>
 
 #### 4. Legacy Version (Coming Soon).
 **The Spanish (Spain) version**, made by the legendary [ShySpy](https://www.elotrolado.net/hilo_v1-22-traduccion-al-espanol-del-cave-story_1318928#p1717835918), from freeware 2010 version.
