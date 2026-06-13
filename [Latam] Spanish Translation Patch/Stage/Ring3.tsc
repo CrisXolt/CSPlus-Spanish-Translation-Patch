@@ -41,8 +41,9 @@
 <CNP0410:0280:0000<WAI0100
 <DNP0440
 <MS3<FAC0126
-Alejate del Núcleo si valoras
-la vida de la chica.<FAC0026<NOD<CLO<FAC0000
+Si tanto valoras la vida de
+esta chica, será mejor que
+te alejes del Núcleo.<FAC0026<NOD<CLO<FAC0000
 <MYB0002<WAI0050<MS3<FAC0116
 ¡Hmph!<FAC0016<NOD<CLR<FAC0116
 Para ser un robot, parece
@@ -66,13 +67,13 @@ O de lo contrario...<FAC0015<WAI0050<CLO<FAC0000
 <MS3
 ???<NOD<CLO
 <MS2
-¡No permitiré que escapes!<NOD<CLO
+¡No permitiré que escapen!<NOD<CLO
 <MS3<FAC0115
 ¿¡¿Quién anda ahí?!?<FAC0015<NOD<CLO
 <CNP0420:0281:0000<WAI0002
 <ANP0420:0010:0000
 <MS2<CMU0034
-Je... <NOD
+Je...<NOD
 ¿Ya olvidaste la voz de tu amo?<NOD<CLO
 <CNP0430:0257:0000<WAI0050
 <ANP0400:0000:0002<MS3
@@ -82,25 +83,26 @@ Je... <NOD
 El poder del cristal rojo es increíble.<NOD
 ¡Incluso ahora me siento tan... vivo!<NOD<ANP0410:0000:0002<CLR
 Aunque mi cuerpo se desvaneció...<ANP0410:0020:0000
-Mi conciencia aún está clara.<NOD<CLR
+Mi conciencia aún está vivo.<NOD<CLR
 ¡Me siento como si me convirtiera
 en un super humano!<NOD<CLO
 <MS3<FAC1126
-No lo puedo creer...<FAC1026<NOD<CLO
+No puede ser...<FAC1026<NOD<CLO
 <MS2
 .....<NOD<CLR
-¿Qué pasa, Misery?<NOD
-¿Te asusta esta forma?<NOD<CLO
+¿Qué pasó, Misery?<NOD
+¿Esta forma para ti es horrible?<NOD<CLO
 <MS3<FAC1126
 ¡AAGH!<FAC1026<NOD<CLR<FAC1126
 Aquellos quien engañan la
 muerte...<FAC1026<NOD<FAC1126
-¡¡Desaparezca!!<FAC1026<NOD<CLO<FAC0000
+¡¡Esfúmate!!<FAC1026<NOD<CLO<FAC0000
 <ANP0400:0040:0002<WAI0100
 <MS2
 No tienes remedio...<NOD<CLR
-Aquella tonta que olvida a su
-amo no merece ser libre.<NOD<CLR
+Aquellos lo suficiente tontos para
+olvidar a su amo no tendrán el deseo
+de ser libre.<NOD<CLR
 Misery.<NOD
 Hasta el día que te mueras,
 tú SERÁS mi titeré.<NOD<CLO
@@ -121,8 +123,8 @@ Eh, oye...<FAC1002<NOD<MYD0000<CLR<FAC1102
 ¿Eh?<FAC1002<ANP0410:0017:0002<NOD<CLO<FAC0000
 <CNP0410:0284:0002<WAI0050<DNP0430
 <MS2
-¡Ha ha ha!<MYD0002<NOD<WAI0100<CLR<BOA0015
-¡¡¡No les permitiré salir con vida!!!<NOD<CLO
+¡Ja ja ja!<MYD0002<NOD<WAI0100<CLR<BOA0015
+¡¡¡No permitiré que salgan con vida!!!<NOD<CLO
 <BSL0000<BOA0020
 <CMU0032
 <MNP0420:0028:0018:0000<ANP0420:0020:0000<WAI0050
