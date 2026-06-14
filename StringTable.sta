@@ -276,7 +276,7 @@
             <string>ゲームを辞める</string>
         </key>
         <key name="PauseMenu_QuitConfirm">
-            <string>¿Salir al Menú Principal? ¿¿Seguro??</string>
+            <string>¿Salir al Menú Principal? ¿¿En serio??</string>
             <string>メインメニューに戻りますか？本当に？？</string>
         </key>
         <key name="PauseMenu_QuitWarning">

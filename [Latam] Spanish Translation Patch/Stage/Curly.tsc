@@ -157,7 +157,7 @@ Ametralladora, ¿Qué dices?<FAC1019<YNJ0420<FL+0563<FAC0000<CLR
 <FAO0004<TRA0029:0090:0015:0009
 #0420
 <KEY<MSG<FAC1119
-¿Seguro?<FAC1019<NOD<CLR<FAC1119
+¿En serio?<FAC1019<NOD<CLR<FAC1119
 Igual puedes regresar
 cuando quieras, yo estaré
 aquí si cambias de opinión.<FAC1019<NOD<PRI<CLO<MYD0000
@@ -202,7 +202,7 @@ Ametralladora, ¿Qué dices?<FAC1019<YNJ0520<FL+0563<FAC0000<CLR
 <CMU0010<GIT0004Y recibiste la =Ametralladora=.<WAI0160<NOD<RMU<END
 #0520
 <KEY<MSG<FAC1119
-¿Seguro?<FAC1019<NOD<CLR<FAC1119
+¿En serio?<FAC1019<NOD<CLR<FAC1119
 Igual puedes regresar
 cuando quieras, yo estaré
 aquí si cambias de opinión.<FAC1019<NOD<END
