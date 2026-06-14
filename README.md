@@ -86,6 +86,8 @@ And that's because it can't be modded via mods folder...
 
 It's optional, but experimental, use it at your own risk...
 
+**Don't forget to back up the original file before replacing it!**
+
 <details>
 <summary>Details</summary>
 
@@ -93,7 +95,7 @@ It's optional, but experimental, use it at your own risk...
 ![Imgur](https://i.imgur.com/9vAd2P0.png)
 ![Imgur](https://i.imgur.com/sTtgECM.png)
 ![Imgur](https://i.imgur.com/hpl76H4.png)
-![Imgur](https://i.imgur.com/2apFyFa.png)
+![Imgur](https://i.imgur.com/U7a0wPQ.png)
 ![Imgur](https://i.imgur.com/J76qRz2.png)
 
 </details>

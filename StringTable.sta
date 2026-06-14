@@ -68,7 +68,7 @@
             <string>消去するデータを選択</string>
         </key>
         <key name="SaveSlot_DeleteConfirm">
-            <string>¿Seguro que quieres borrar este archivo guardado?</string>
+            <string>¿Quieres borrar este archivo guardado?</string>
             <string>これでいいですか？</string>
         </key>
         <key name="SaveDataCorrupt_Line1">
@@ -92,7 +92,7 @@
             <string>ゲームを続ける場合、ゲームをセーブできなくなります。</string>
         </key>
         <key name="SaveDataCorrupt_ContinueConfirm_Line2">
-            <string>¿Estás seguro con eso?</string>
+            <string>¿Está bien con eso?</string>
             <string>続けますか？</string>
         </key>
         <key name="Prompt_Yes">
