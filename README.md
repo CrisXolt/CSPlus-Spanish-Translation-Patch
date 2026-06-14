@@ -78,6 +78,27 @@ Create the file `mods.txt` (if you don't have it) in the path I mentioned, and t
 ```
 + [Latam] Spanish Translation Patch
 ```
+
+#### 4. StringTable (Optional).
+There is a file called `StringTable.sta` that you need to move to the game's data folder if you want to translate some of the text in the game menu: `steamapps\common\Cave Story+\data`
+
+And that's because it can't be modded via mods folder...
+
+It's optional, but experimental, use it at your own risk...
+
+<details>
+<summary>Details</summary>
+
+![Imgur](https://i.imgur.com/BhFU9cs.png)
+![Imgur](https://i.imgur.com/9vAd2P0.png)
+![Imgur](https://i.imgur.com/sTtgECM.png)
+![Imgur](https://i.imgur.com/hpl76H4.png)
+![Imgur](https://i.imgur.com/2apFyFa.png)
+![Imgur](https://i.imgur.com/J76qRz2.png)
+
+</details>
+
+
 ---------
 
 ## Credits and Special Thanks:
@@ -93,7 +114,7 @@ Create the file `mods.txt` (if you don't have it) in the path I mentioned, and t
 
 ## Final Note:
 
-Those default file data: `.tsc`, `.json`, `.fnt` and `.png` (before `.bmp`), was made originally by [Nicalis](https://www.nicalis.com/) and [Studio Pixel (Daisuke Amaya)](https://www.studiopixel.jp/). Those data files are modded or recreated by me for entertainment purposes.
+Those default file data: `.tsc`, `.json`, `.sta`, `.fnt` and `.png` (before `.bmp`), was made originally by [Nicalis](https://www.nicalis.com/) and [Studio Pixel (Daisuke Amaya)](https://www.studiopixel.jp/). Those data files are modded or recreated by me for entertainment purposes.
 
 
 Just enjoy and good luck! ;D

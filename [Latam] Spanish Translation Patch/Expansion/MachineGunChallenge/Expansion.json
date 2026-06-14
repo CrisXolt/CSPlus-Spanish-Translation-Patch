@@ -1,0 +1,8 @@
+{
+	"save_slot_identifier" : "",
+	"full_name" : "Reto Ametralladora",
+	"description" : "¿En qué tiempo podrás llegar a la meta?",
+	"difficulties" : false,
+	"requirement" : "item",
+	"requirement_number" : 35
+}
