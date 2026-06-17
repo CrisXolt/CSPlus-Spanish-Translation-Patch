@@ -225,7 +225,7 @@ funcionar también con esa pobre chica?<NOD<END
 #0313
 <PRI<MSG
 Su memoria regresó...
-Bueno, tampoco es tan emocionante.<NOD<END
+Bueno, tampoco es muy emocionante.<NOD<END
 #0320
 <PRI
 <FLJ1046:0325
@@ -344,9 +344,9 @@ Te devolvió la =Booster v2.0=.<WAI0160<NOD<RMU<CLO
 #0375
 <PRI<MSG<FAC0122
 Ya no necesitaras más esa
-mascara.<FAC0022<NOD<CLO<FAC0000
+máscara.<FAC0022<NOD<CLO<FAC0000
 <MSG<GIT1024<IT-0024<EQ-0064<FL-1020
-Se llevó la =Mascara Mimiga=.<NOD<CLO<GIT0000<EVE0380
+Se llevó la =Máscara Mimiga=.<NOD<CLO<GIT0000<EVE0380
 #0380
 <PRI<MSG<FAC0122
 Justo encima hay un camino

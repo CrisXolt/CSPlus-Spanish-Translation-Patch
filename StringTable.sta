@@ -260,7 +260,7 @@
             <string>ゲーム再開</string>
         </key>
         <key name="PauseMenu_DropSecondPlayer">
-            <string>Tirar J2</string>
+            <string>Quitar J2</string>
             <string>プレイヤー２をドロップアウト</string>
         </key>
         <key name="PauseMenu_AddSecondPlayer">
