@@ -151,14 +151,14 @@ Solo observa la marca que lleva en él.<NOD<END
 <PRI<MSG
 ZZZzzz...<NOD<CLR
 ¿Quieres llevarlo contigo?<YNJ0000<CLR
-<DNP0401<FL+0275<GIT1014<I+N0014:0005Te llevaste al =Perrito=.<NOD<CLO
+<DNP0401<FL+0275<GIT1014<I+N0014:0005Te llevaste al =Perro=.<NOD<CLO
 <FL+3004
 <END
 #0402
 <PRI<MSG<SOU0105
 ¡Woof!<NOD<CLR
 ¿Quieres llevarlo contigo?<YNJ0000<CLR
-<DNP0402<FL+0276<GIT1014<I+N0014:0005Te llevaste al =Perrito=.<NOD<CLO
+<DNP0402<FL+0276<GIT1014<I+N0014:0005Te llevaste al =Perro=.<NOD<CLO
 <FL+3003
 <END
 #0410
@@ -171,7 +171,7 @@ No puedes llevar más contigo.<NOD<END
 <MSG
 Abriste un cofre del tesoro.<NOD<GIT1014<CNP0412:0130:0000<CLR
 Es un perrito...<NOD<CLR
-<DNP0412<FL+0279<GIT1014<I+N0014:0005<CMU0010Te llevaste al =Perrito=.<WAI0160<NOD<RMU<CLO
+<DNP0412<FL+0279<GIT1014<I+N0014:0005<CMU0010Te llevaste al =Perro=.<WAI0160<NOD<RMU<CLO
 <FL+3001
 <END
 #0413
