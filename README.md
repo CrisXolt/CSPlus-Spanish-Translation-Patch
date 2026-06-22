@@ -4,7 +4,7 @@
 
 This is a fan-made project that is still considered an experiment (for now), with the goal of not only providing a Latam Spanish translation for the **2026 version** but also adding a few extra features to make it even more complete, while preserving some original essence and avoiding graphical errors as much as possible.
 
-There may still be a few grammatical errors to fix, so there may be some changes in a few days. If you find something and have any questions, please let me know!
+There may still be a few grammatical errors to fix and some reworks still to be done, so there may be some changes in a few days. If you find something and have any questions, please let me know!
 
 And don't worry, the updates will continue. There are still other expansions and mods to be translated.
 
@@ -48,7 +48,7 @@ The texture files have also been modified for **Classic Graphics**.
 
 #### 4. Legacy Version (Coming Soon).
 **The Spanish (Spain) version**, made by the legendary [ShySpy](https://www.elotrolado.net/hilo_v1-22-traduccion-al-espanol-del-cave-story_1318928#p1717835918), from freeware 2010 version.
-Inspired by Aeron Genesis Translation Patch.
+Inspired by Aeon Genesis Translation Patch.
 
 ---
 ## Notes before installation:
@@ -57,7 +57,7 @@ Before downloading the file, make sure you've purchased **Cave Story+** on **Ste
 
 If you purchased it from other stores like Epic Games or GOG and it includes the **2026 version**, then it might work as well.
 
-It is not currently compatible with **doukutsu-rs**.
+It is not currently compatible with **doukutsu-rs**, but it will soon be.
 
 ---
 
