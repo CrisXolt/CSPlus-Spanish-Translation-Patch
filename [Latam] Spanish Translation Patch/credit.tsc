@@ -273,7 +273,7 @@ f2000:0290j0300l0290
 l0300
 -0080
 +0032
-[CREDITOS                                          ]0000-0032
+[CRÉDITOS                                          ]0000-0032
 -0031
 [Nicalis, Inc.                                     ]0000-0048
 
@@ -310,33 +310,33 @@ l0300
 [Director Técnico                                  ]0000-0032
 [Roar Flolo                                        ]0000-0048
 
-[Asistente de Produción                            ]0000-0032
-[Andrew Rausch                                     ]0000-0048
+[Asistente de Producción                            ]0000-0032
+[Andrew Rausch                                      ]0000-0048
 
-[Soporte de Produción                              ]0000-0032
-[Monica Marume                                     ]0000-0032
-[Chris Bieniek                                     ]0000-0032
-[Etsuko Shirai                                     ]0000-0032
-[Alex Hicks                                        ]0000-0032
-[Carter Abascal                                    ]0000-0048
+[Soporte de Producción                              ]0000-0032
+[Monica Marume                                      ]0000-0032
+[Chris Bieniek                                      ]0000-0032
+[Etsuko Shirai                                      ]0000-0032
+[Alex Hicks                                         ]0000-0032
+[Carter Abascal                                     ]0000-0048
 
-[Localización                                      ]0000-0032
-[Yoko Saito                                        ]0000-0032
-[Rie Hagihara                                      ]0000-0032
-[*CrisXolt (Versión Steam 2026 - Latam)            ]0000-0032
-[*EdwarlyGamer999+ (Versión Switch)                ]0000-0032
-[*pbaeza (Versión Steam 2013)                      ]0000-0032
-[*ShySpy (Vagrant Traducciones 2010)               ]0000-0048
+[Localización                                               ]0000-0032
+[Yoko Saito                                                 ]0000-0032
+[Rie Hagihara                                               ]0000-0032
+[*CrisXolt (Mod para Versión 2026 - Latam)                  ]0000-0032
+[*EdwarlyGamer999+ (Mod para Versión Switch)                ]0000-0032
+[*pbaeza (Mod para Versión Steam 2013)                      ]0000-0032
+[*ShySpy (Vagrant Traducciones 2010)                        ]0000-0048
 
-[De Prueba                                         ]0000-0032
-[Pikii GK                                          ]0000-0048
+[Verificación                                         ]0000-0032
+[Pikii GK                                             ]0000-0048
 
 [Agradecimientos especiales                        ]0000-0032
 [Miria, Maxx, Martin, Mario, Mei                   ]0000-0032
 [Mark and Jack                                     ]0000-0032
 [Haruhi and Tamami                                 ]0000-0032
 [Georgia                                           ]0000-0032
-[¡Y a usted!                                       ]0000-0048
+[¡Y a ti!                                          ]0000-0048
 -0100
 +0040
 
@@ -352,7 +352,7 @@ j0400
 l0390
 +0257
 l0400
-[ Cave Story+     Fin                              ]0000
+[Cave Story+ El Final                              ]0000
 -0280
 /
 
