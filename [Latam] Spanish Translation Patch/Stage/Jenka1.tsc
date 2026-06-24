@@ -114,9 +114,9 @@ encontrar las flor roja...?<FAC1013<NOD<END
 <KEY<MSG<FAC1113
 Ya me hiciste un gran favor
 en encontrar mis perritos...<FAC1013<NOD<CLR<FAC1113
-Vuelva en un momento, tengo
-algo que recompensarte por
-tu gran esfuerzo.<FAC1013<NOD<END
+Vuelve en un momento,
+tendré algo de recompensa
+por tu esfuerzo.<FAC1013<NOD<END
 
 #0220
 <KEY<MSG<FAC1113
@@ -233,9 +233,9 @@ Es el último.<FAC1013<NOD<CLR
 ...<FAC1013<NOD<FAC1113
 Ya me hiciste un gran favor
 en encontrar mis perritos...<FAC1013<NOD<CLR<FAC1113
-Vuelva en un momento, tengo
-algo que recompensarte por
-tu gran esfuerzo.<FAC1013<NOD<FL+0594<END
+Vuelve en un momento,
+tendré algo de recompensa
+por tu esfuerzo.<FAC1013<NOD<FL+0594<END
 #0300
 <FLJ0590:0310<END
 #0301
