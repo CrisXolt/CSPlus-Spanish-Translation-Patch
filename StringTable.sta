@@ -232,23 +232,23 @@
             <string>Hard</string>
         </key>
         <key name="Difficulty_Easy_Description">
-            <string>Recomendado para la primera vez.</string>
+            <string>Lo mejor para la primera vez.</string>
             <string>初めてプレイする方へのベストチョイス</string>
         </key>
         <key name="Difficulty_Original_Description">
-            <string>Para los veteranos de Cave Story.</string>
+            <string>Para los que estén familiarizados con Cave Story.</string>
             <string>洞窟物語を熟知している方向け</string>
         </key>
         <key name="Difficulty_Hard_Description">
-            <string>No recomendable para los aficionados...</string>
+            <string>No recomendable para la primera vez...</string>
             <string>初めてプレイする方にはおすすめできません</string>
         </key>
         <key name="NewGame_Start">
-            <string>Comenzar</string>
+            <string>Comenzar la Partida</string>
             <string>Game Start</string>
         </key>
         <key name="NewGame_HardModeCancel">
-            <string>Mejor no...</string>
+            <string>¡Tengo miedo!</string>
             <string>足がすくんじゃう！</string>
         </key>
         <key name="PauseMenu_Header">

@@ -59,7 +59,7 @@
 ¿No estás con el Doctor?<FAC0006<NOD<CLR<FAC0106
 Oh, lo siento por eso.<FAC0006<NOD<FAC0106
 El Doctor es una persona
-demasiado cruel y malvado.<FAC0006<NOD<FAC0106
+muy cruel y malvado.<FAC0006<NOD<FAC0106
 El aparece en la aldea y
 secuestra a los Mimiga...
 incluso lo mata a alguien.<FAC0006<NOD<CLR<FAC0106
@@ -71,8 +71,8 @@ hermano mayor.<FAC0006<NOD<CLR<FAC0106
 ¡Sue me lo regaló!<FAC0006<NOD<CLR
 .....<NOD<CLR<FAC0106
 Pero ya no lo quiero.<FAC0006<NOD<FAC0106
-<GIT0000King se enoja conmigo
-cuando me llevo bien con Sue.<FAC0006<NOD<FAC0106
+<GIT0000A King lo molesta cuando
+Sue y yo nos juntamos bien.<FAC0006<NOD<FAC0106
 Por favor, quédatelo.<FAC0006<NOD<CLO
 <FAC0000<CMU0000
 <QUA0030<SOU0026
@@ -101,13 +101,13 @@ Por favor, quédatelo.<FAC0006<NOD<CLO
 ¡Te encontré!<NOD<CLR<FAC0105
 Es inútil esconderse de mí.<FAC0005<NOD<FAC0105
 ¡Tengo la nariz de un
-Sabueso astuto!<FAC0005<NOD<FAC0000<CLR
+astuto Sabueso!<FAC0005<NOD<FAC0000<CLR
 Así es.<NOD
 <CNP0500:0067:0002<WAI0100<ANP0500:0013:0002<WAI0050<ANP1000:0008:0000<MSG<FAC1115
-Tiene la nariz y el
-cerebro de un perro.<FAC1015<NOD<CLR<FAC0105
+Sí, él tiene la nariz y
+el cerebro de un perro.<FAC1015<NOD<CLR<FAC0105
 ¡Misery!<FAC0005<NOD<CLR<FAC0105
-¡La encontré primero!<FAC0005<NOD<CLR<FAC0108
+¡Yo la encontré primero!<FAC0005<NOD<CLR<FAC0108
 ¡¡Ustedes dos están con el
 Doctor!!<FAC0008<NOD<CLR<FAC1015
 .....<NOD<CLR<FAC1116
@@ -115,7 +115,7 @@ Tú debes ser Sue.
 El gran Doctor te espera.<FAC1016<NOD<FAC1116
 Vendrás conmigo.<FAC1016<NOD<CLR<FAC0106
 ¿Eh?<FAC0006<NOD<CLR<FAC0106
-¡Pero no soy Sue!<FAC0006<NOD<FAC0000<CLO
+¡Pero yo no soy Sue!<FAC0006<NOD<FAC0000<CLO
 <ANP0500:0015:0002<WAI0110
 <PRI<MSG<FAC1108
 ¡Waaaaaa!<FAC1008<NOD<FAC1115<CLR
@@ -125,12 +125,12 @@ El resto es tuyo.<FAC1015<NOD<CLO
 <KEY<WAI0050<MSG<FAC1108
 ¡Se EQUIVOCA DE
 PERSONA!<FAC1008<NOD<CLR<FAC1108
-¡TE LO ESTOY DICIENDO!<FAC1008<NOD<FAC0000<CLO
+¡YA TE LO DIJE!<FAC1008<NOD<FAC0000<CLO
 <WAI0050
 <FAC0105<MSG
 ¡Ay no, OTRA vez!<FAC0005<NOD<FAC0105
-¡SIEMPRÉ tengo que lidiar 
-con esto!<FAC0005<NOD<FAC0105
+¡YO SIEMPRÉ tengo que
+limpiar el desastre!<FAC0005<NOD<FAC0105
 ¡Y fui yo quién la encontré
 primero, no Misery!<FAC0005<NOD<CLR
 .....<NOD<CLR<FAC0105

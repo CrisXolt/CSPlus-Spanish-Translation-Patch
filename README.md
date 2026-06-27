@@ -61,7 +61,7 @@ It is not currently compatible with **doukutsu-rs**, but it will soon be.
 
 ---
 
-## Installation tutorial:
+## Installation guide:
 
 #### 1. Download the file.
 

@@ -87,7 +87,7 @@ Hay algo escrito...<NOD<CLR
 Siempre y cuando mantengas
 tu espíritu de exploración,<NOD
 algún día encontrarás la salida.<NOD<CLR
-Esta es mi esperanza.<NOD<END
+Esa es mi esperanza.<NOD<END
 #0300
 #0301
 <KEY<FLJ0323:0305<FL+0320<FL+0323
@@ -114,7 +114,7 @@ apareció en nuestra aldea.<FAC1007<NOD<ANP0301:0000:0000<END
 #0302
 <KEY<FL+0320<FL+0321<FON0302:0016<MNA<FAI0004<CMU0000<WAI0100
 <MSG<FAC1107
-¡Entregame la llave!<FAC1007<NOD<CLR<FAC0108
+¡Dame la llave!<FAC1007<NOD<CLR<FAC0108
 ¡No pienso hacerlo!<FAC0008<NOD<CLR<FAC1107
 ¿Estás intentando proteger
 a la chica Sue?<FAC1007<NOD<FAC1107
@@ -128,7 +128,7 @@ llevará a alguien más.<FAC1007<NOD<FAC1107
 Si Sue no se entrega, tú
 podrías estar en peligro.<FAC1007<NOD<CLR<FAC0106
 Pe, pero...<FAC0006<NOD<CLR<FAC1107
-¡Solo entregame la llave!<FAC1007<NOD
+¡Solo dame esa llave!<FAC1007<NOD
 <FAC0000<CLO
 <MOV0013:0022
 <WAI0075<HMC<CNP0309:0150:0002<ANP0309:0010:0002<QUA0030
@@ -146,8 +146,8 @@ Pe, pero...<FAC0006<NOD<CLR<FAC1107
 #0305
 <KEY<MSG<FAC0107
 ¡Esa Toroko!<FAC0007<NOD<FAC0107
-Ella se aprovechó de
-tu caída y se escapó.<FAC0007<NOD<END
+Ella se aprovechó del
+alboroto y se escapó.<FAC0007<NOD<END
 #0306
 <KEY<MSG<FAC0107
 ¡AAARGH!<FAC0007<NOD<CLR<FAC0107
@@ -157,7 +157,7 @@ tu caída y se escapó.<FAC0007<NOD<END
 #0308
 <KEY<MYD0002<FAI0002<CMU0000<WAI0020
 <MSG<FAC0107
-¡Entregame esa llave!<FAC0007<NOD<CLR<FAC1108
+¡Dame esa llave!<FAC0007<NOD<CLR<FAC1108
 ¡Nooo!<FAC1008<NOD<CLO
 <ANP0307:0006:0002<WAI0060
 <ANP0306:0006:0002<SOU0016<WAI0100<DNP0307<FL-0371<CMU0009<END
@@ -189,11 +189,11 @@ por el cielo.<NOD<ANP0311:0000:0002<END
 Oh, eres tú...<NOD<CLR
 Lo han encerrado a Sue arriba.<NOD
 Dicen que fue su culpa que
-Toroko terminara secuestrada.<NOD<ANP0311:0000:0002<END
+Toroko fuera secuestrada.<NOD<ANP0311:0000:0002<END
 #0313
 <KEY<MSG
 En la Casa de Arthur hacen tanto ruido.<NOD<CLR
-¿Será que hay una fiesta por allí?<NOD<ANP0311:0000:0002<END
+¿Están preparando una fiesta por allí?<NOD<ANP0311:0000:0002<END
 #0314
 <KEY<MSG
 ¿HUH?<NOD<CLR
@@ -206,11 +206,11 @@ queda por ahora es Sue.<NOD<ANP0311:0000:0002<END
 <MSG<FAC1103
 ¡¡¡Dejame ir ya!!!<FAC1003<NOD<ANP0600:0000:0002<CLR<ANP0610:0000:0000<FAC0107
 ¡Callate!<FAC0007<NOD<CLR<FAC0107
-¡Por tu culpa Toroko fue
+¡Por tu culpa, Toroko fue
 secuestrada por error!<FAC0007<NOD<CLR<FAC0107
 ¡De algún modo, voy a tener
 que entregarte con ellos!<FAC0007<NOD<ANP0600:0011:0002<CLR<FAC1103
-¡En serio te odio!<FAC1203<NOD<ANP0600:0000:0002<CLR<FAC0107
+¡Cómo te odio!<FAC1203<NOD<ANP0600:0000:0002<CLR<FAC0107
 ¡Si a Toroko no se encuentra
 bien, te partiré en pedazos!<FAC0007<NOD<CLO<CMU0009
 <FOM0016<WAI0050<END
@@ -272,8 +272,8 @@ suceda!<FAC0007<NOD<CLO
 <MSG<FAC1101
 Me atraparon.<FAC1001<NOD<CLR<FAC1101
 Los secuaces del Doctor se 
-equivocaron conmigo con otra
-Mimiga y la secuestraron.<FAC1001<NOD<FAC1101
+equivocaron a otra Mimiga
+conmigo y la secuestraron.<FAC1001<NOD<FAC1101
 Esa chica, Toroko, la única
 Mimiga que me trató muy bien
 cuando estuve en problemas.<FAC1001<NOD<CLR<FAC1101
@@ -283,7 +283,7 @@ Tengo una idea.<FAC1001<NOD<CLR<FAC1101
 Mi hermano, Kazuma, está
 atrapado en un lugar
 llamado Tierras Verdes.<FAC1001<NOD<FAC1101
-Traelo de vuelta aquí.<FAC1001<NOD<END
+Tráelo de vuelta aquí.<FAC1001<NOD<END
 #0601
 <KEY<MSG<FAC1101
 Trae a mi hermano aquí.<FAC1001<NOD<FAC1101
