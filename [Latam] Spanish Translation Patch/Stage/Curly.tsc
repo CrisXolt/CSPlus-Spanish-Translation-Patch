@@ -27,7 +27,7 @@
 <FLJ0564:0204
 <FLJ0562:0206
 <MSG
-No tenemos nada que decirte.<NOD<END
+No tengo nada que decirte...<NOD<END
 #0201
 <KEY<MSG
 Ten cuidado con esos Croco-Arenas.
@@ -38,7 +38,7 @@ algún piso de arena.<NOD
 <FLJ0273:0205
 <KEY<MSG
 Debes deshacer la maldición para mover
-las Piedras de Sol.<NOD<END
+las Piedras del Sol.<NOD<END
 #0203
 <KEY<MSG
 ¡Nyaa!<NOD<CLR
@@ -158,7 +158,7 @@ Ametralladora, ¿Qué dices?<FAC1019<YNJ0420<FL+0563<FAC0000<CLR
 #0420
 <KEY<MSG<FAC1119
 ¿En serio?<FAC1019<NOD<CLR<FAC1119
-Igual puedes regresar
+Igual puedes regresarte
 cuando quieras, yo estaré
 aquí si cambias de opinión.<FAC1019<NOD<PRI<CLO<MYD0000
 <FAO0004<TRA0029:0090:0015:0009
@@ -203,7 +203,7 @@ Ametralladora, ¿Qué dices?<FAC1019<YNJ0520<FL+0563<FAC0000<CLR
 #0520
 <KEY<MSG<FAC1119
 ¿En serio?<FAC1019<NOD<CLR<FAC1119
-Igual puedes regresar
+Igual puedes regresarte
 cuando quieras, yo estaré
 aquí si cambias de opinión.<FAC1019<NOD<END
 #0530

@@ -60,7 +60,7 @@
 Oh, lo siento por eso.<FAC0006<NOD<FAC0106
 El Doctor es una persona
 muy cruel y malvado.<FAC0006<NOD<FAC0106
-El aparece en la aldea y
+Él aparece en la aldea y
 secuestra a los Mimiga...
 incluso lo mata a alguien.<FAC0006<NOD<CLR<FAC0106
 El Doctor... mató a mi
@@ -120,7 +120,7 @@ Vendrás conmigo.<FAC1016<NOD<CLR<FAC0106
 <PRI<MSG<FAC1108
 ¡Waaaaaa!<FAC1008<NOD<FAC1115<CLR
 Balrog.<FAC1015<NOD<FAC1115
-El resto es tuyo.<FAC1015<NOD<CLO
+El resto te lo encargas tú.<FAC1015<NOD<CLO
 <ANP0500:0020:0002<FAC0000<CLO
 <KEY<WAI0050<MSG<FAC1108
 ¡Se EQUIVOCA DE
@@ -128,19 +128,19 @@ PERSONA!<FAC1008<NOD<CLR<FAC1108
 ¡YA TE LO DIJE!<FAC1008<NOD<FAC0000<CLO
 <WAI0050
 <FAC0105<MSG
-¡Ay no, OTRA vez!<FAC0005<NOD<FAC0105
-¡YO SIEMPRÉ tengo que
-limpiar el desastre!<FAC0005<NOD<FAC0105
+¡No ES justo!<FAC0005<NOD<FAC0105
+¡SIEMPRE tengo que
+limpiar esto!<FAC0005<NOD<FAC0105
 ¡Y fui yo quién la encontré
 primero, no Misery!<FAC0005<NOD<CLR
 .....<NOD<CLR<FAC0105
-Entonces, ¿qué tal?<FAC0005<NOD<FAC0105
+Y entonces, ¿qué tal?<FAC0005<NOD<FAC0105
 ¿Quieres pelear conmigo
-con esa pistolita?<FAC0005<YNJ1001<ANP0400:0030:0002<CLR
+con ese lanza-guisante?<FAC0005<YNJ1001<ANP0400:0030:0002<CLR
 <FAC0014¡Entendido!<NOD<CLO
 <FL+0361<CMU0004<CNP0400:0068:0002<BSL0400<END
 #1001
 <KEY<FL-0362<FL-0361<CMU0008<MSG<FAC0105
 ¿Eh?<FAC0005<NOD<FAC0105
-Está bien, entonces
-me regreso a casa.<FAC0005<NOD<CLO<ANP0400:0010:0002<END
+Está bien, me regresaré
+a casa entonces.<FAC0005<NOD<CLO<ANP0400:0010:0002<END
