@@ -32,7 +32,7 @@ Permítame revisarte.<NOD<CLO<LI+1000<SOU0020
 <FLJ0700:0301<FL+0700<WAI0050
 <MSG
 Descuida, no te cobraré nada.<NOD<CLR
-Pero, puedes hacerme un favor...<NOD<CLR
+Pero puedes hacerme un simple favor...<NOD<CLR
 Hay una Clínica Abandonada cerca.<NOD
 Ve ahí y revisa si aún queda algún
 medicina dentro.<NOD<CLR
@@ -82,7 +82,7 @@ merodeando?<NOD<END
 #0313
 <KEY<MSG
 ¿Vienes a visitar a tu amiga?<NOD<CLR
-Si es a ella a quien buscas, se 
+Si es a ella a quien buscas, se
 fue hacia la Cámara de Roca.<NOD<END
 #0320
 <FLJ0702:0322
@@ -105,7 +105,7 @@ Me decepciono de mí misma. <FAC1020<NOD<FAC1120
 Cuando llegaba el momento,
 ni siquiera pude proteger a
 los niños.<FAC1020<NOD<FAC1120
-En este estado que estoy... <FAC1020<NOD<FAC1120
+Con ese estado que estoy...<FAC1020<NOD<FAC1120
 ...salir de aquí va a ser casi
 imposible...<FAC1020<NOD<END
 #0321

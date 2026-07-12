@@ -47,23 +47,23 @@ Oh, eso es terrible.<NOD<EVE0403
 
 #0404
 <KEY<MSG
-¿Pero entonces no la necesitas?<YNJ0405<EVE0408
+¿Pero no necesitas eso entonces?<YNJ0405<EVE0408
 #0405
 <KEY<MSG
-Espera, ¿de verdad la quieres?<YNJ0409<EVE0406
+Espera, ¿de verdad quieres eso?<YNJ0409<EVE0406
 #0406
 <KEY<MSG
-¿DE VERDAD la quieres sin importar qué?<YNJ0409<EVE0407
+¿DE VERDAD quieres eso sin importar qué?<YNJ0409<EVE0407
 #0407
 <KEY<MSG
-¿Entonces no la necesitas?<YNJ0410<EVE0409
+¿Entonces no necesitas eso?<YNJ0410<EVE0409
 
 #0408
 <KEY<MSG
 Oh, ya veo.<NOD<END
 #0409
 <KEY<MSG
-No la necesitas...<NOD<END
+No necesitas eso...<NOD<END
 
 #0410
 <KEY<MSG
@@ -82,7 +82,7 @@ Eso solo una medalla normal.<NOD<CLR
 .....<NOD<CLR
 ¿¡¿Cómo?!?<NOD
 ¡¿Dices que me vas a comer?!<NOD<CLR
-¡Soy el Hongo muy valioso!
+¡Soy el Hongo muy, muy valioso!
 ¡Y también el único en esta cueva!<NOD<CLR
 ¡Rayos!<NOD
 ¡Ni pienses que por un momento
@@ -97,6 +97,6 @@ pelear!<NOD<CLR<CMU0004
 #0500
 <KEY<CMU0000<ANP0500:0500:0005<WAI0150
 <MSG
-Yo... perdí.<NOD<CLR<GIT1034<IT+0034<FL-1564<CLR<DNP0500
+Fui... derrotado.<NOD<CLR<GIT1034<IT+0034<FL-1564<CLR<DNP0500
 <CMU0010Obtuviste a =Ma Pignon=.<WAI0160<NOD<RMU<END
 

@@ -49,7 +49,7 @@ Función de Malco: Desconectado.<NOD<CLR
 <CMU0000<ANP0300:0021:0000<WAI0080<CMU0011
 <CNP0203:0012:0000
 <MSG<FAC0105
-Oye, ¿Sabias que la Mimiga que
+Oye, ¿Sabías que la Mimiga que
 encontré no era Sue?<FAC0005<YNJ0204<CLR<FAC0205
 ¡Sip!<NOD<EVE0204
 
@@ -60,7 +60,7 @@ Función de Generador: Normal.<NOD<END
 #0203
 <KEY<CNP0203:0012:0000<ANP0203:0020:0004<WAI0140
 <PRI<MSG<FAC0105
-¡¿¡Quién rayos eres!?!<FAC0005<NOD<FAC0000<KEY<CLO
+¡¿¡Quién eres!?!<FAC0005<NOD<FAC0000<KEY<CLO
 <WAI0100<CMU0015
 <MSG
 ¡Balrog ha sido derrotado!<WAI0140<NOD
@@ -77,7 +77,7 @@ bofetón.<FAC0005<NOD
 <FAC0014<ANP0203:0030:0000Pobrecita, es solo una chica.<NOD<CLR<FAC0105
 Bueno, tampoco podemos
 desobedecer al amo, así que...<FAC0005<NOD<FAC0105
-Ese es el destino.<FAC0005<NOD<CLR<FAC0105
+Así es el destino.<FAC0005<NOD<CLR<FAC0105
 Esta vez vine a aplastarte en
 serio.<FAC0005<NOD<FAC0105
 ¡Mejor preparate!<FAC0005<NOD<CLO
@@ -107,7 +107,7 @@ el suelo.<NOD<CLR
 <MYB0300<WAI0050<MYD0300<FL+0483<FL+0485
 <MSG
 Gr..<NODGracias...<NOD<CLR
-Eres buena persona.<NOD
+Eres una buena persona.<NOD
 ¡Y no solo eso, eres muy fuerte!<NOD<CLR
 ¡Gracias por salvarme!<NOD<CLR
 ¡Me gustaría hacer algo para
@@ -130,15 +130,16 @@ bombas...<NOD<FLJ0216:0304<END
 A ver...<NOD
 ¿Quieres abrir una puerta oxidada?<NOD<CLR
 ¡¡Cómo!!<NOD
-¡¿Alguien está atrapado dentro?!<NOD<CLR
-¡Definitivamente eres buena persona!<NOD<CLR
+¡¿Alguién está atrapado dentro?!<NOD<CLR
+¡Sí que eres una buena persona!<NOD<CLR
 ¡Entendido!<NOD
 ¡Entonces permítame fabricar una
-bomba!<NOD ¡Vamos a demoler esta puerta
+bomba!<NOD ¡Vamos a demoler esa puerta
 de una vez por todas!<NOD<FL+0484<EVE0305
 #0305
 <KEY<MSG
-Por favor, busca estos materiales.<NOD
+Por favor, busca estos materiales
+para la bomba:<NOD
 =Carbón Vegetal=,<NOD
 =Jugo de Medusa=, y<NOD
 =Base de Chicle=.<NOD<CLR

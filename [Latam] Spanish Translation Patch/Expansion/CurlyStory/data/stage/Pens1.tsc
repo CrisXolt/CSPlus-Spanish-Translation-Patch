@@ -1,0 +1,411 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<FLJ0341:0095<CMU0002<FAI0004<END
+
+#0095
+<CMU0014<FAI0004<END
+
+
+#0098
+<CMU0014
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+
+#0099
+<KEY<MNA<FLJ0341:0098<CMU0002
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+
+
+#0100
+<PRI<FAO0004<TRA0010:0094:0018:0032
+#0101
+<PRI<FAO0004<TRA0012:0094:0037:0011
+#0102
+<FLJ0155:0103<PRI<SOU0011<DNP0102<FAO0004<TRA0011:0094:0016:0053
+#0103
+<PRI<SOU0011<CMU0000<DNP0102<FAO0004<TRA0011:0400:0016:0053
+
+
+#0200
+<FLJ0159:0205
+<FLJ0158:0204
+<FLJ0157:0203
+<FLJ0325:0202
+<FLJ0154:0201
+<KEY<MSG
+El texto se muestra en pantalla...<NOD<CLR<TUR
+"Kazuma: Pero, para que sepas, que si
+llego a ese punto, lo haré"<NOD<FLJ0153:0000<CLR<MSG
+¿Permitir viajar hacia el
+Corredor Ovíparo?<YNJ0000<CLR
+Ahora puedes viajar hacia el
+Corredor Ovíparo con el teletransporte.<NOD<FL+0153<PS+0001:6001<END
+#0201
+<KEY<MSG
+El texto se muestra en pantalla...<NOD<CLR
+Preparando conexión hacia
+Tierras Verdes...<NOD<END
+#0202
+<KEY<MSG
+Conexión hacia Tierras Verdes
+terminado.<NOD<END
+#0203
+<KEY<MSG
+¿Comando?<NOD<END
+#0204
+<KEY<MSG
+Conectado a la Zona de Arena.<NOD<END
+#0205
+<KEY<MSG
+El texto se muestra en pantalla...<NOD<CLR<TUR
+Viaja hacia el Corredor Ovíparo...
+ - Kazuma<NOD<END
+#0210
+<KEY<MSG<FAC0125
+¿¿¿Flores???<FAC0025<NOD<END
+
+#0300
+#0301
+#0303
+
+#0500
+<KEY<MSG
+It's a teleporter.<NOD<SLP<NOD<END
+
+#0600
+<FLJ0325:0601
+<KEY<MSG<FAC0109
+Bienvenida de vuelta...<FAC0009<NOD<CLR<FAC0109
+Sí, ella ha regresado.<FAC0009<NOD<FAC0109
+Pero la encerramos dentro de
+una reja, arriba de la aldea.<FAC0009<NOD<FAC0109
+Cuando los secuaces del
+Doctor lleguen, se la
+entregamos a Sue por Toroko.<FAC0009<NOD<CLR<FAC0109
+Sí, me siento mal por Sue,
+pero Toroko...<FAC0009<NOD<FAC0109 es de los
+nuestros.<FAC0009<NOD<FAC0109
+¿Quién necesita a alguien
+como Sue que piensa en sí
+misma y en nadie más?<FAC0009<NOD<END
+#0601
+<KEY<MSG<FAC0109
+Esperemos que no lo
+lastimen a Toroko...<FAC0009<NOD<END
+
+
+#0620
+<KEY<CMU0000<FL+0156<FL+0444
+<ANP0500:0001:0000
+<WAI0002<CNP0622:0055:0000<WAI0010
+<FAI0004
+<CNP0621:0113:0000
+<ANP0621:0030:0000<WAI0100
+<MSG<FAC0118
+Auch...<FAC0018<NOD<CLR<FAC0110
+¿Estás bien?<FAC0010<NOD<CLO<FAC0000
+<WAI0030<ANP0621:0000:0002
+<MSG<FAC1118
+Sí...<FAC1018<NOD<CLR<FAC1118
+Pero en serio, pensé que no
+lo íbamos a lograr.<FAC1018<NOD<CLR<FAC0010
+.....<NOD<CLO<FAC0000
+<ANP0500:0000:0000<WAI0030
+<ANP0102:0000:0002<SOU0011
+<CNP0625:0042:0000
+<MSG<FAC0101
+¡Kazuma!<FAC0001<NOD<ANP0622:0000:0002<CLR<FAC0101
+¡Y el Professor Booster!<FAC0001<NOD<CLR<FAC1118
+¡Oh!<FAC1018<NOD<CLO<FAC0000
+<ANP0621:0003:0002<WAI0080
+<ANP0621:0000:0002
+<MSG<FAC1118
+¡¿Cómo has estado?!<FAC1018<NOD<CLR<FAC0101
+Sobreviviendo...<FAC0001<NOD<CLO<FAC0000
+<CNP0624:0061:0000
+<ANP0625:0003:0000<WAI0016
+<ANP0624:0008:0000<WAI0016
+<ANP0624:0000:0000
+<SOU0011<ANP0102:0000:0000<WAI0048
+<ANP0625:0000:0000
+<MSG<FAC0007
+.....<NOD<CLR<FAC1118
+¿Y ese Mimiga es?<FAC1018<NOD<CLO<FAC0000
+<WAI0030
+<ANP0625:0000:0002<WAI0030
+<ANP0624:0000:0002<WAI0050
+<ANP0625:0000:0000<WAI0020
+<MSG<FAC0101
+Su nombre es King.<FAC0001<NOD<CLR<FAC0101
+Es un amigo mío, y el líder de
+la aldea.<FAC0001<NOD<CLR<FAC0101
+Muchos Mimigas solían vivir
+aquí en la Aldea Mimiga.<FAC0001<NOD<FAC0101
+Pero la mayoria de ellos han
+sido tomados por el Doctor.<FAC0001<NOD<CLR<FAC0101
+Y los amigos de King también
+fueron...<FAC0001<NOD<CLO
+<CMU0002
+<ANP0500:0001:0000
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<FL-0157<END
+
+#0621
+<KEY<FLJ0158:0631<MSG<FAC1118
+El plan de Doctor aún sigue
+en curso según lo previsto.<FAC1018<NOD<FAC1118
+Hay que darnos prisa y
+hacer algo al respecto...<FAC1018<NOD<END
+#0622
+<KEY<FLJ0158:0632<MSG<FAC1110
+Gran trabajo señorita.<FAC1010<NOD<CLR<FAC0119
+¡Gracias!
+¿Y cómo quedó la moto?<FAC0019<NOD<CLR<FAC1110
+Ah, cierto, quedó destruida,
+pero de alguna manera sí
+que logramos llegar aquí...<FAC1010<NOD<END
+#0624
+<KEY<FLJ0158:0634<MSG<FAC1107
+Toroko...
+como un arma letal...<FAC1007<NOD<CLR<FAC1107
+¡No lo voy a permitir!<FAC1007<NOD<END
+#0625
+<KEY<FLJ0158:0635<2MV0001<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
+<FAC1101¡Bienvenida de vuelta!<FAC1001<NOD<CLR<FAC1101
+Parece que te debo otra.<FAC1001<NOD<FAC1101
+Con Kazuma aquí, estoy
+segura que podemos descifrar
+la contraseña para el huevo.<FAC1001<NOD<CLO<FAC0000
+<ANP0625:0003:0000<WAI0008
+<ANP0625:0000:0000<MSG<FAC0101
+Profesor Booster.<FAC0001<NOD<CLR<FAC0101
+¿Podemos traerla con
+nosotros?<FAC0001<NOD<CLO<FAC0000
+<ANP0622:0003:0002<WAI0015
+<ANP0622:0005:0002
+<MSG<FAC1018<CMU0000
+.....<NOD<CLR
+<FAC1110Professor.<FAC1010<NOD<CLR<FAC0001
+???<NOD<CLR<FAC1118
+Sue...<FAC1018<NOD<FAC1118
+Nuestro escape tiene que
+esperar por ahora.<FAC1018<NOD<CLR<FAC1118
+...El Doctor ha localizado las
+flores rojas.<FAC1018<NOD<ANP0624:0000:0000<CLR
+<FAC0007!!!<NOD<CLR<FAC0101
+¿Eh?<FAC0001<NOD<CLR<FAC1118
+Pero, aún no la tiene en su
+manos, <FAC1018<NOD<FAC1118
+pero es cuestión de tiempo
+antes de que lo consiga...<FAC1018<NOD<FAC1118
+La ubicación se encuentra
+en la Zona de Arena.<FAC1018<NOD<FAC1118
+Oí que las flores rojas se
+encuentran en alguna parte
+de allí...<FAC1018<NOD<CLR
+<FAC0107¿Zona de Arena?<FAC0007<NOD<CLR<FAC0107
+Entonces,
+¿Si nos vamos allí, nos
+encontramos con el Doctor?<FAC0007<NOD<CLR<FAC1118
+Ejem,<FAC1018<NOD<FAC1118 me temo que solo los 
+secuaces del Doctor
+llegarán allí presuntamente.<FAC1018<NOD<FAC1118
+DEBEMOS erradicar esas
+flores rojas antes de que ellos
+lo consiga...<FAC1018<NOD<CLR<FAC1118
+Sin embargo,<NOD
+la Zona de Arena es un lugar
+muy peligroso.<FAC1018<NOD<FAC1118
+Si nos vamos allí, tal vez no
+podamos regresar con vida...<FAC1018<NOD<CLR
+<FAC0107¿Acaso te estás rindiendo?<FAC0007<NOD<CLR<FAC1118
+No de todo.<FAC1018<NOD<CLR<FAC1118
+Tenemos a la persona
+adecuada aquí con nosotros
+ahora.<FAC1018<NOD<CLO<FAC0000
+<ANP0621:0003:0002<ANP0625:0003:0000<WAI0020
+<ANP0621:0000:0002<WAI0002<ANP0625:0000:0002
+<MSG<FAC1118
+Ella.<FAC1018<NOD<CLR<FAC0119
+¿Quién yo?<FAC0019<NOD<CLR
+<CMU0002<FAC1110¿...Quién es ella?<FAC1010<NOD<CLR<FAC1118
+Hm, bueno...<FAC1018<NOD<CLR<FAC1118
+Es una robot de reconocimiento
+armada que fue enviada a la
+isla hace diez años.<FAC1018<NOD<CLR<FAC1110
+¿¡¿UNA ROBOT?!?<FAC1010<NOD<CLR<FAC1118
+Sí. Y oí que esos robots
+fueron destruidos después
+de la guerra...<FAC0018<ANP0621:0000:0000<NOD<FAC0118
+Aunque, no me se tanto los
+detalles exactos.<FAC0018<NOD<FAC0118
+Quizás, uno de ellos...<FAC0018<NOD<CLR<FAC1110
+Profesor.<FAC1010<NOD<FAC1110
+Ya conecté el teletransporte
+hacia la Zona de Arena.<FAC1110<NOD<CLR<FAC0118
+Hmm...<FAC0018<NOD<CLO<FAC0000
+<ANP0622:0003:0000<WAI0015
+<ANP0622:0000:0002
+<ANP0621:0000:0002<WAI0030<MSG<FAC1118
+Eres la más ideal entre
+nosotros aquí para explorar
+la isla.<FAC1018<NOD<CLR<FAC1118
+Por favor, ayudanos.<FAC1018<NOD<CLR<FAC0119
+¡Claro, lo hare!<FAC0019<NOD<FL+0158<PS+0003:6003<END
+
+
+
+
+#0631
+<KEY<MSG<FAC1118
+Ya puedes viajar a la
+Zona de Arena con el
+teletransporte.<FAC1018<NOD<FAC1118
+Busca a las flores rojas y
+quemalos a todos.<FAC1018<NOD<END
+#0632
+<KEY<MSG<FAC1110
+Así que eres una robot de
+diez años de antigüedad,
+¿no es así?<FAC1010<NOD<CLR<FAC1110
+Apenas me había dado
+cuenta...<FAC1010<NOD<CLR<FAC1110
+De verdad sí que estás bien
+fabricada.<FAC1010<NOD<END
+#0634
+<KEY<MSG<FAC0107
+Zona de Arena, eh...<FAC0007<NOD<END
+#0635
+<KEY<MSG<FAC1101
+Si no quedan más las flores
+rojas, podríamos, y con
+suerte, evitar la guerra.<FAC1001<NOD<CLR<FAC1101
+Bueno, es una
+responsabilidad bastante
+grande, ¿no crees?<FAC1001<NOD<END
+
+
+#0650
+<KEY<MSG<FAC1118
+Llevate a Sue y escápate...
+de esta isla....<FAC1018<NOD<FAC1118
+Por favor...<FAC1018<NOD<END
+
+#0651
+<DNP0651<KEY<MYD0000
+<ANP0500:0001:0000<WAI0050
+<MNP0650:0009:0007:0002
+<CNP0650:0113:0002
+<ANP0650:0030:0002<WAI0100
+<ANP0650:0000:0002
+<ANP0500:0000:0000<WAI0050
+<ANP0650:0003:0002<WAI0064
+<ANP0650:0000:0000
+<MSG
+<FAC0018.....<NOD<CLO<FAC0000
+<ANP0650:0000:0002<WAI0050
+<MSG<FAC1118
+Oh, eres tú.<FAC1018<NOD<CLR<FAC1118
+El Doctor ya consigió las
+flores rojas.<FAC1018<NOD<CLR<FAC1118
+...Y todo los Mimigas de la 
+isla ahora quedaron bajo
+su control.<FAC1018<NOD<CLR<FAC1118
+La tragedia es inevitable...<FAC1018<NOD<CLR<FAC1118
+De haber sabido que esto iba
+a pasar, entonces...<FAC1018<NOD<FAC1118
+Por lo menos debí haber
+hecho que Sue escapara de
+la isla.<FAC1018<NOD<CLO<FAC0000
+<ANP0650:0003:0002<WAI0022
+<ANP0650:0005:0002
+<IT+0023<FL+0744<FL+0162<GIT1023
+<MSG
+Te dio la =Booster v2.0=.<WAI0030<NOD<CLO<GIT0000
+<ANP0650:0000:0002
+<MSG<FAC1118
+Por favor, haz el honor de
+hacer mi última petición.<FAC1018<NOD<CLR<FAC1118
+Si ves a Sue por última vez,
+por favor llévatela y...
+huye... de esta isla.<FAC1018<NOD<CLR<FAC1118
+Ella es la hija de la
+Dra. Sakamoto.<FAC1018<NOD<FAC1118
+Por un largo tiempo ella se
+negaba a venir hacia la isla.<FAC1018<NOD<FAC1118
+Pero tampoco quería
+quedarse sola todo el
+tiempo...<FAC1018<NOD<CLR<FAC1118
+Por lo que ella no tuvo 
+elección de seguirnos hacia
+la isla.<FAC1018<NOD<CLR<FAC1118
+Así que, por favor.<FAC1018<NOD<CLR<FAC1118
+Llévatela y huye.<FAC1018<NOD<CLO
+<FL-0160<FL+0161<FL+0741<PS+0004:6004<END
+
+
+#0660
+<KEY<FLJ1020:0661<MSG<FAC1118
+Llévatela a Sue contigo y
+huye de esta isla...<FAC1018<NOD<FAC1118
+Por favor...<FAC1018<NOD<END
+#0661
+<KEY<MSG<FAC1118
+Lo siento mucho. 
+Hemos arruinado tu isla.<FAC1018<NOD<CLR<FAC1118
+Nosotros somos los malos,
+aun siendo humanos.<FAC1018<NOD<CLR<FAC0119
+Pero yo no soy una Mimiga.
+¡Tengo puesto una linda
+Máscara!<FAC0019<NOD<END
+
+
+#0700
+<KEY<CMU0000<FAO0004<TRA0024:0700:0005:0000
+
+
+#6001
+<PRI<MSG
+¿Viajar hacia Corredor Ovíparo?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FLJ0159:6011<TRA0002:0099:0005:0006
+#6002
+<PRI<MSG
+¿Viajar hacia Tierras Verdes?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0006:0098:0004:0018
+#6003
+<PRI<MSG
+¿Viajar hacia Zona de Arena?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0010:0099:0036:0033
+
+#6004
+<PRI<MSG
+¿Viajar hacia Laberinto?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0043:0099:0013:0034
+
+#6005
+<PRI<MSG
+¿Viajar hacia Plantación?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0060:0099:0012:0009
+
+#6011
+<KEY<TRA0049:0099:0007:0006
+

@@ -33,7 +33,7 @@ Vida máxima incrementada por 5.<NOD<END
 <KEY<ANP0501:0010:0002<CMU0000<MSG
 !!!<NOD<CLR
 .....<NOD<CLR
-Te caíste hacia el suelo.<NOD<CLR
+Te caíste al suelo.<NOD<CLR
 ¿Qué es este lugar?<NOD<CLO
 <MYD0002
 <MNA<FAI0001<WAI0050<DNP0501<SMC<WAI0100<CMU0019<END
@@ -64,7 +64,7 @@ Veo que también fuiste arrojado por
 la bruja Misery.<NOD
 Pobre cosita...<NOD
 Aquí es el basurero de la isla.<NOD
-Una vez que entres aquí, ya no
+Una vez entrado aquí, ya no
 podrás salir nunca más...<NOD<END
 
 #0501
@@ -73,7 +73,7 @@ podrás salir nunca más...<NOD<END
 <PRI<MSG
 El interruptor de esta puerta se
 supone que debe estar muy arriba.<NOD
-Pero la plataforma es tentadora... <NOD
+Pero la plataforma es tan mala...<NOD
 Me caí varias veces hasta que me rompí 
 una pierna.<NOD<END
 

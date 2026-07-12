@@ -46,16 +46,16 @@ Tal vez...<NOD<END
 <MSG
 Uhh...<NOD<CLR<FAC0117
 ¡Oh!<FAC0017<NOD<FAC0117
-¡¿Qué haces aquí?!<FAC0017<NOD<CLR<FAC0117
+¡¿Por qué estás aquí?!<FAC0017<NOD<CLR<FAC0117
 .....<FAC0017<NOD<CLR<FAC0117
 Ya veo...
-Misery te arrojó aquí
+Misery te envió aquí
 también...<FAC0017<NOD<CLR<FAC0117
 Ja...<FAC0017<NOD<CLR<FAC0117
-Podría ser el momento más
-afortunado por error.<FAC0017<NOD<CLR<FAC0117
+Esto podría ser el momento
+más afortunado por error.<FAC0017<NOD<CLR<FAC0117
 El punto es...<FAC0017<NOD<FAC0117
-La isla flota en el cielo
+Esta isla flota en el cielo
 gracias a un poder que lleva
 una entidad desconocida.<FAC0017<NOD<FAC0117
 Apenas descubrí dónde
@@ -69,7 +69,7 @@ Jaja...<FAC0017<NOD<CLR<FAC0117
 Ahora que lo pienso, el
 Doctor deberia estar en
 pánico total, y es porque...<FAC0017<NOD<FAC0117
-¡Fuiste arrojado aquí cerca
+¡Te enviaron aquí cerca
 del Corazón de la isla!<FAC0017<NOD<CLR
 ....<NOD<FAC0117
 Una cosa más, tengo algo
@@ -77,7 +77,7 @@ Una cosa más, tengo algo
 Este es =Booster v0.8=.<FAC0017<NOD<FAC0117
 Este pequeño artefacto te
 ayudará a volar por el aire.<FAC0017<NOD<CLR<FAC0117
-Es la única de su clase.<FAC0017<NOD<FAC0117 
+Es la única en su clase.<FAC0017<NOD<FAC0117 
 Por favor, quédatelo.<FAC0017<YNJ0510<CLR<EVE0505
 #0502
 <KEY<MSG
@@ -118,7 +118,7 @@ lado...<FAC0017<NOD<FAC0000<CLO<FL+0745<END
 <MSG<FAC0117
 ¡Oh!<FAC0017<NOD<FAC0117 Regresaste.<FAC0017<NOD<CLR<FAC0117
 ¿Ahora quieres el
-Booster v0.8?<FAC0017<YNJ0521<CLR<EVE0505
+=Booster v0.8=?<FAC0017<YNJ0521<CLR<EVE0505
 
 #0521
 <CLR<GIT0000<FAC0117

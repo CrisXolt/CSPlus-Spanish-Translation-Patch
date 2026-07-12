@@ -31,7 +31,7 @@ alguna parte, jovencito.<FAC1013<NOD<END
 <FLJ0590:0220
 <2MV0000
 <KEY<MSG<FAC1113
-¡Oh!<FAC1013<NOD<CLR<GIT1014<FAC1113
+¡Oh, oh!<FAC1013<NOD<CLR<GIT1014<FAC1113
 ¡Ese es mi perrito!<FAC1013<NOD<CLR
 <GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0300:0130:0000<PSH0500<FAC1113
 Me lo devolviste.<FAC1013<NOD<FAC1113
@@ -42,13 +42,13 @@ Qué amable de tu parte.<FAC1013<NOD<CLR<FAC1113
 <CNP0400:0009:0000<WAI0010<MYD0002<CNP0300:0132:0002<ANP0300:0100:0002<WAI0120<CMU0011
 <CNP0400:0012:0000
 <MSG<FAC0105
-¿Cómo te va, Jenka? <FAC0005<NOD<CLR<FAC1113
+¿Cómo te va, Jenka?<FAC0005<NOD<CLR<FAC1113
 Oh, eres tú, Balrog.<FAC1013<NOD<ANP0300:0120:0002<FAC1113
 Te ves bien.<FAC1013<NOD<FAC1113
-¿Y cómo le va a mi estúpida
-hija últimamente?<FAC1013<NOD<CLR<FAC0014
+¿Y cómo le va últimamente a
+mi estúpida hija?<FAC1013<NOD<CLR<FAC0014
 ¡Ja!<NOD<FAC0105
-Estúpida hija...
+Estúpida hija dices...
 ¿Te refieres a Misery?<FAC0005<NOD<FAC0105
 También está bien.<FAC0005<NOD<CLR<FAC0105
 Un nuevo amo apareció.<FAC0005<NOD<FAC0014
@@ -64,17 +64,17 @@ Ya sabes, ¡¡el Almacén con las
 semillas de las flores!!<FAC0005<NOD<CLR<FAC1013
 .....<NOD<CLR<FAC1113
 Huh...<FAC1013<NOD<FAC1113
-No sé de que estás hablando,
-Balrog.<FAC1013<NOD<CLR
+No tengo idea de que estás
+hablando, Balrog.<FAC1013<NOD<CLR
 <ANP0400:0030:0000<FAC0014Ah sí...<NOD<CLR
-¿¡¿Con qué haciendote la
-loca, eh?!?<NOD<CLR<FAC0005
+¿¡¿Pretendiendo que
+no lo sabes?!?<NOD<CLR<FAC0005
 .....<NOD<CLR<FAC0105
 Ya veo.<FAC0005<NOD<FAC0105
-En serio piensas en traicionar
-contra nosotros...<FAC0005<NOD<FAC0105 ¿es eso?<FAC0005<NOD<CLO<CMU0000
+Entonces estás pensando
+en traicionarnos...<FAC0005<NOD<FAC0105 ¿es eso?<FAC0005<NOD<CLO<CMU0000
 <WAI0050<FAC0105<MSG
-¡Lo lamentarás!<FAC0005<NOD<CLO
+¡Lamentarás por eso!<FAC0005<NOD<CLO
 <FAC0000<ANP0400:0010:0000<WAI0200<CMU0019
 <MSG<FAC1113<CNP0300:0130:0000
 Un nuevo amo...<FAC1013<NOD<FAC1113
@@ -113,7 +113,7 @@ encontrar las flor roja...?<FAC1013<NOD<END
 #0214
 <KEY<MSG<FAC1113
 Ya me hiciste un gran favor
-en encontrar mis perritos...<FAC1013<NOD<CLR<FAC1113
+al reunir mis perritos...<FAC1013<NOD<CLR<FAC1113
 Vuelve en un momento,
 tendré algo de recompensa
 por tu esfuerzo.<FAC1013<NOD<END
@@ -121,22 +121,22 @@ por tu esfuerzo.<FAC1013<NOD<END
 #0220
 <KEY<MSG<FAC1113
 ¡Qué rápido!<FAC1013<NOD<CLR<GIT1014<FAC1113
-Este es sin duda uno de mis
+Ese es sin duda uno de mis
 queridos perritos.<FAC1013<NOD<CLR
 <GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0301:0130:0000<PSH0500<FAC1113
-En fin...<FAC1013<NOD<FAC1113
+Por cierto...<FAC1013<NOD<FAC1113
 Tú debes ser el soldado de
 la superficie.<FAC1013<NOD<CLR
 .....<NOD<CLR<FAC1113
 Fue un largo tiempo desde
 que llegaron los robots como
 tú a esta isla.<FAC1013<NOD<FAC1113
-Fueron los responsables
-de la masacre contra los
-Mimigas indefensos...<FAC1013<NOD<FAC1113
-Y eso que le costó la vida de
-los valientes hombre y mujer
-que defienden a los Mimigas...<FAC1013<NOD<CLR<FAC1113
+Fueron los responsables de
+la muerte de tantos Mimigas
+indefensos...<FAC1013<NOD<FAC1113
+Y de las vidas de hombres y
+mujeres valientes que trataron
+de defender a los Mimigas.<FAC1013<NOD<CLR<FAC1113
 Debido a los efectos de
 consumir la flor roja
 prohibida...<FAC1013<NOD<FAC1113
@@ -145,46 +145,45 @@ volvieron rabiosos.<FAC1013<NOD<CLR<FAC1113
 Contraatacaron de manera
 victoriosa contra los robots
 que invadieron a la isla.<FAC1013<NOD<CLR<FAC1113
-Y quien sabe, de no haber
-existido las flores rojas,<FAC1013<NOD<FAC1113 
-es posible que los Mimigas en
-esta isla podrian estar
-completamente eliminados...<FAC1013<NOD<CLR<FAC1113
+Y quién sabe, de no haber
+existido las flores rojas,
+es posible que los Mimiga<FAC1013<NOD<FAC1113 
+en esta isla podría haber
+sido aniquilados...<FAC1013<NOD<CLR<FAC1113
 Quedan tres.<FAC1013<NOD<FAC1113
-Puedes hacerlo.<FAC1013<NOD<FL+0591<END
+Sé que puedes hacerlo.<FAC1013<NOD<FL+0591<END
 #0221
 <KEY<MSG<FAC1113
 Oooh.<FAC1013<NOD<CLR<GIT1014<FAC1113
 Definitivamente.<FAC1013<NOD<FAC1113
-Ese es mio.<FAC1013<NOD<CLR
+Ese es el mio.<FAC1013<NOD<CLR
 <GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0302:0130:0000<PSH0500<FAC1113
-Muchísimas gracias. 
-Con esto va tres...<FAC1013<NOD<CLR
+Muchísimas gracias.
+Con eso va tres...<FAC1013<NOD<CLR
 .....<NOD<CLR<FAC1113
 ¿Has visto alguna vez a un 
 Mimiga enfurecido?<FAC1013<NOD<CLR<FAC1113
 "Comer la flor roja me hará 
-más fuerte." <FAC1013<NOD<FAC1113
+más fuerte."<FAC1013<NOD<FAC1113
 Muchos de los Mimigas
-creyeron en esto y eligieron
+creyeron en esto y decidieron
 comer la flor roja.<FAC1013<NOD<FAC1113
 Y así, solamente fueron a
 luchar contra un batallón de
 robots.<FAC1013<NOD<CLR<FAC1113
-Sin embargo...<FAC1013<NOD<CLR<FAC1113
-¿¿¿Tienes idea lo que pasó
-después a los Mimigas aún
-furiosos???<FAC1013<NOD<CLR
+Pero...<FAC1013<NOD<CLR<FAC1113
+¿¿¿Sabes lo qué le pasa
+después a un Mimiga todo
+enfurecido???<FAC1013<NOD<CLR
 .....<NOD<CLR<FAC1113
-Es una triste historia...<FAC1013<NOD<FAC1113
-No pudieron controlarse
-en sí mismos...<FAC1013<NOD<FAC1113
+Fue tan terrible...<FAC1013<NOD<FAC1113
+Tal vez no podían
+controlarse a sí mismos...<FAC1013<NOD<FAC1113
 La mayoría de los Mimigas que
 consumieron la flor roja no
 pudieron volverse nunca más.<FAC1013<NOD<CLR<FAC1113
-Desaparecieron por
-completo.<FAC1013<NOD<CLR<FAC1113
-Oí rumores de que
+Se perdieron.<FAC1013<NOD<CLR<FAC1113
+Oí el rumor de que
 supuestamente cayeron a la
 superficie...<FAC1013<NOD<FAC1113
 Donde viven los humanos.<FAC1013<NOD<CLR<FAC1113
@@ -201,10 +200,10 @@ flores rojas?<FAC1013<NOD<CLR
 Dos perritos más...<FAC1013<NOD<FL+0592<END
 #0222
 <KEY<MSG<FAC1113
-¡Tú eres el popular!<FAC1013<NOD<FAC1113
-A mis perritos tampoco se
-lleva bien a los malos...<FAC1013<NOD<CLR<GIT1014<FAC1113
-En serio aprecio todo el 
+¡Eres el chico popular!<FAC1013<NOD<FAC1113
+A mis perritos tampoco
+confían a los problematicos...<FAC1013<NOD<CLR<GIT1014<FAC1113
+De verdad aprecio todo el 
 esfuerzo que haces.<FAC1013<NOD<CLR
 <GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0303:0130:0000<PSH0500
 <FAC1013.....<NOD<CLR<FAC1113
@@ -219,8 +218,9 @@ o cual será tus intenciones,
 No te puedo dar esa llave del
 Almacén, lo siento mucho.<FAC1013<NOD<FAC1113
 Abriendo el Almacén,<FAC1013<NOD<FAC1113
-podría volver a repetirse
-esa triste historia de antes...<FAC1013<NOD<CLR<FAC1113
+podría volver de manera
+tonta a repetir esa misma
+tragedia de antes...<FAC1013<NOD<CLR<FAC1113
 Veamos, uno... dos... tres... y
 cuatro.<FAC1013<NOD<CLR<FAC1113
 Solo queda uno.<FAC1013<NOD<FL+0593<END
@@ -228,11 +228,11 @@ Solo queda uno.<FAC1013<NOD<FL+0593<END
 #0223
 <KEY<MSG<FAC1113
 Así es.<FAC1013<NOD<CLR<GIT1014<FAC1113
-Es el último.<FAC1013<NOD<CLR
+Ese es el último.<FAC1013<NOD<CLR
 <GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<PSH0500<CNP0304:0130:0000<FAC1013
 ...<FAC1013<NOD<FAC1113
 Ya me hiciste un gran favor
-en encontrar mis perritos...<FAC1013<NOD<CLR<FAC1113
+al reunir mis perritos...<FAC1013<NOD<CLR<FAC1113
 Vuelve en un momento,
 tendré algo de recompensa
 por tu esfuerzo.<FAC1013<NOD<FL+0594<END

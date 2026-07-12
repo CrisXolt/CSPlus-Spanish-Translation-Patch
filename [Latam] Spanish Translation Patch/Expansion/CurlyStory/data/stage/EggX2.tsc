@@ -1,0 +1,123 @@
+
+#0090
+<MNA<CMU0014<FAI0000<END
+#0091
+<MNA<CMU0014<FAI0001<END
+#0092
+<MNA<CMU0014<FAI0002<END
+#0093
+<MNA<CMU0014<FAI0003<END
+#0094
+<FLJ0120:0095<ANP0200:0010:0002<EVE0095
+#0095
+<MNA<CMU0014<FAI0004<END
+
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0049:0094:0290:0008
+
+#0110
+<KEY<FLJ0940:0111<MSG
+Sientes una brisa fría aquí...<NOD<END
+#0111
+<KEY<FAO0002<TRA0053:0092:0004:0165
+
+#0110
+
+#0400
+
+#0500
+<KEY<MSG
+El texto se muestra en pantalla.<NOD<CLR
+<TUR>_ INCUBACÍON EXITOSA.<NOD<FLJ0941:0000<CLO
+<2MV0000
+<FL+0941
+<WAI0020<CMU0000<MSG
+¿Quién anda ahí?<MYD0002<NOD<CLO
+<WAI0050<CNP0400:0055:0000
+<WAI0010<ANP0400:0003:0000
+<WAI0048<ANP0400:0000:0000
+<CMU0014<MSG<FAC0110
+Oh, eres tú, señorita.<FAC0010<NOD<CLR<FAC0110
+No sabía si estabas viva o no.<FAC0010<NOD<FAC0110
+Soy el único aquí.<FAC0010<NOD<CLR<FAC0110
+Tras irte a la Zona de Arena,
+aceleramos los preparativos
+para asegurar un escape.<FAC0010<NOD<CLR<FAC0110
+Fue entonces cuando
+apareció Misery.<FAC0010<NOD<FAC0110
+Se llevaron a Sue...<FAC0010<NOD<FAC0110
+y el Professor Booster,
+desapareció en algún parte...<FAC0010<NOD<CLR
+.....<NOD<CLR<FAC0110
+Parece que el Doctor ha
+conseguido las semillas de la
+flor roja.<FAC0010<NOD<CLR<FAC0110
+Aunque,<FAC0010<NOD<FAC0110 no te culpo por eso.<FAC0010<NOD<ANP0400:0000:0002<FAC1110
+La victoria del Doctor era
+segura desde que tomó la
+Corona Demoniaca.<FAC1010<NOD<CLR<FAC1110
+Es cuestión de tiempo que su
+ejército Mimiga esté listo para
+atacar a la superficie...<FAC1010<NOD<CLR<FAC1110
+Si esto ocurre, será inútil 
+intentar derrotar al Doctor,<FAC1010<NOD<FAC1110
+incluyéndote.<FAC1010<NOD<CLO<FAC0000
+<WAI0010<ANP0400:0003:0002
+<WAI0016<ANP0400:0000:0002
+<MSG<FAC1110
+No tenemos otra opción mas
+que salir de aquí...<FAC1010<NOD<CLR<FAC1110
+En fin, el escape es posible,
+pero solo usando un Dragón
+Volador.<FAC1010<NOD<FAC1110
+Por eso llegué hasta aquí
+por mi cuenta...<FAC1010<NOD<CLR<FAC1110
+Para que el Dragón Volador
+que necesito pueda nacer
+sano y salvo.<FAC1010<NOD<CLO<FAC0000
+<WAI0050<ANP0400:0000:0000<WAI0100
+<MSG<FAC0110
+¿Quieres escapar conmigo?<FAC0010<YNJ0501<FL+0960<CLR<ANP0400:0000:0002<FAC1110
+Lo sé, ya no queda remedio.<FAC1010<NOD<FAC1110
+Hiciste lo que pudiste.<FAC1010<NOD<CLO
+<WAI0010<ANP0400:0003:0002
+<WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
+<WAI0020<CNP0400:0000:0000<FL+0940
+<END
+
+
+#0501
+<KEY<WAI0020<ANP0400:0000:0002
+<MSG<FAC1110
+Ya veo...<FAC1010<NOD<CLO<FAC0000
+<WAI0050<ANP0400:0000:0000
+<WAI0010<ANP0400:0005:0000
+<MSG<FAC0110
+A decir verdad...<FAC0010<NOD<FAC0110
+Hay una forma de devolver
+a los Mimigas en su estado
+original. Y es...<FAC0010<NOD<CLR<FAC0110
+Destruyendo el
+Núcleo de la isla.<FAC0010<NOD<FAC0110
+Pero la isla puede colapsar
+si destruyes el Núcleo.<FAC0010<NOD<FAC0110
+¿Es una opción bastante
+peligrosa para ti?<FAC0010<NOD<WAI0050<ANP0400:0000:0000<CLR<FAC0110
+Sea como sea, no sé dónde
+está el Núcleo...<FAC0010<NOD<CLR<FAC0110
+Si de verdad quieres
+intentar y hacer esto,
+entonces te espero.<FAC0010<NOD<CLR<FAC0110
+Pero tendré que salir de la
+isla por si las cosas se
+vuelven peligrosas para mí.<FAC0010<NOD<CLO
+<WAI0010<ANP0400:0003:0002
+<WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
+<WAI0020<CNP0400:0000:0000<FL+0940
+<END
+<END
+
+#0502
+
+
+

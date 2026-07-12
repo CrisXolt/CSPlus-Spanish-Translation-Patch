@@ -1,0 +1,83 @@
+
+#0090
+<MNA<CMU0021<FAI0000<END
+#0091
+<MNA<CMU0021<FAI0001<END
+#0092
+<MNA<CMU0021<FAI0002<END
+#0093
+<MNA<CMU0021<FAI0003<END
+#0094
+<MNA<CMU0021<FAI0004<END
+
+
+
+#0700
+<KEY<FL-0440<FL-0443<CMU0021<FAI0004
+<MSG
+Conectando a la red.<WAI0050
+<MSG
+Sesión iniciado.<WAI0050
+<MSG
+Iniciando servicio del chat.<WAI0100<CLR
+<MSG<FAC1001
+Sue: Kazuma<NOD
+Sue: ¿Estás ahí?<NOD
+Sue: ¿Estás bien?<NOD<FAO0004<TRA0018:0700:0005:0000
+#0701
+<KEY<FAI0004<MSG<FAC1001
+Sue: Sí, soy yo<NOD
+Sue: Sue Sakamoto, tu
+hermana<NOD<CLR
+Sue: ¿Así que tú también
+pudiste escapar?<NOD
+Sue: ¿Dónde estás ahora?<NOD
+Sue: Ya encontré el Huevo
+de Dragón.<NOD
+Sue: ¿Está Mamá contigo?<NOD<FAO0004<TRA0018:0701:0005:0000
+#0702
+<KEY<FAI0004<MSG<FAC1001
+Sue: Sí, encontré una que
+está a punto de nacer<NOD
+Sue: Pero está bloqueado
+con una contraseña<NOD
+Sue: ¿Podemos hacer algo
+al respecto?<NOD<FAC0000<CLR<MSG
+Recuperando información de "Kazuma".<WAI0150<CLR<TUR
+Terminado.<NOD<CLR
+Ubicación: Tierras Verdes Estructura D<NOD
+Buscando un teletransporte funcional.<NOD<CLR
+Teletransporte: Preparando conexión
+hacia Tierras Verdes...<NOD<CLR
+<MSG<FAC1001
+Sue: Como sea, voy en camino
+para ayudarte.<NOD
+Sue: Solo quedate en donde
+estás<NOD<FAO0004<TRA0018:0702:0005:0000
+#0703
+<KEY<CNP0700:0042:0000<FAI0004<MSG
+.....<NOD<CLR
+¿¿¿Cuándo llegará esa chica???<NOD<CLR
+<SOU0011<CNP0710:0061:0000<CNP0711:0074:0000<WAI0020<CMU0000<ANP0700:0000:0002!!!<NOD
+<CLO<ANP0710:0008:0000<WAI0016<ANP0710:0000:0000
+<MSG<FAC0107
+Bienvenida.<FAC0007<NOD<FAC0107
+Te estabamos esperando...<FAC0007<NOD<CLR<FAC1102
+¿Y ahora qué?<FAC1002<NOD<FAC1102
+Estoy ocupada.<FAC1002<NOD<CLR<FAC0107
+¡Se han llevado a Toroko
+ante el Doctor!<FAC0007<NOD<CLR<FAC1101
+¡¿Cómo?!<FAC1001<NOD<CLR<FAC0109
+¡Y serás la responsable de
+todo este problema!<FAC0309<NOD<FAC0000<CLO
+<ANP0710:0008:0000<WAI0100<FAO0004<MSG
+<FAC0003¡¡¡Déjame IR!!!<NOD<CLR<FAC0007
+.....<NOD<TRA0001:0099:0008:0008
+<END
+<END
+#0704
+
+
+#0710
+#0711
+

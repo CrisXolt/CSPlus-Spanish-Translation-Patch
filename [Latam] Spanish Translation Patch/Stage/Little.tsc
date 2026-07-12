@@ -20,7 +20,7 @@
 <FLJ1373:0206
 <FLJ1372:0202
 <MSG
-¡Hogar dulce hogar es lo mejor!<NOD<CLR
+¡Hogar dulce hogar!<NOD<CLR
 Vaya, vaya...<NOD
 Esa espada que llevas es hermosa.
 ¿Qué tal si lo intercambiamos por
@@ -47,7 +47,7 @@ en este mismo momento...<NOD<TAM0012:0009:0000<CLR
 #0210
 <PRI<FLJ1370:0211<FL+1371
 <MSG
-A dónde se habrá ido mi esposo...<NOD<CLR
+A dónde se fue mi esposo...<NOD<CLR
 ¿Has visto a mi esposo?<NOD<END
 #0211
 <PRI<MSG

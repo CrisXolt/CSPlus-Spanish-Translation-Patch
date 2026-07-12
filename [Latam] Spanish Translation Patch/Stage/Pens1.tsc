@@ -130,14 +130,14 @@ Sobreviviendo...<FAC0001<NOD<CLO<FAC0000
 <ANP0625:0000:0000
 <MSG<FAC0007
 .....<NOD<CLR<FAC1118
-¿Y este Mimiga es?<FAC1018<NOD<CLO<FAC0000
+¿Y ese Mimiga es?<FAC1018<NOD<CLO<FAC0000
 <WAI0030
 <ANP0625:0000:0002<WAI0030
 <ANP0624:0000:0002<WAI0050
 <ANP0625:0000:0000<WAI0020
 <MSG<FAC0101
 Su nombre es King.<FAC0001<NOD<CLR<FAC0101
-Es un amigo mío, y un líder de
+Es un amigo mío, y el líder de
 la aldea.<FAC0001<NOD<CLR<FAC0101
 Muchos Mimigas solían vivir
 aquí en la Aldea Mimiga.<FAC0001<NOD<FAC0101
@@ -158,10 +158,10 @@ Hay que darnos prisa y
 hacer algo al respecto...<FAC1018<NOD<END
 #0622
 <KEY<FLJ0158:0632<MSG<FAC1110
-Buen trabajo.<FAC1010<NOD<CLR<FAC1110
+Gran trabajo.<FAC1010<NOD<CLR<FAC1110
 Sí, la moto quedó destruida,
 pero de alguna manera sí
-que logramos llegar...<FAC1010<NOD<END
+que logramos llegar aquí...<FAC1010<NOD<END
 #0624
 <KEY<FLJ0158:0634<MSG<FAC1107
 Toroko...
@@ -169,7 +169,7 @@ como un arma letal...<FAC1007<NOD<CLR<FAC1107
 ¡No lo voy a permitir!<FAC1007<NOD<END
 #0625
 <KEY<FLJ0158:0635<2MV0001<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
-<FAC1101¡Bienvenido de nuevo!<FAC1001<NOD<CLR<FAC1101
+<FAC1101¡Bienvenido de vuelta!<FAC1001<NOD<CLR<FAC1101
 Parece que te debo otra.<FAC1001<NOD<FAC1101
 Con Kazuma aquí, estoy
 segura que podemos descifrar
@@ -193,7 +193,7 @@ flores rojas.<FAC1018<NOD<ANP0624:0000:0000<CLR
 <FAC0007!!!<NOD<CLR<FAC0101
 ¿Eh?<FAC0001<NOD<CLR<FAC1118
 Pero, aún no la tiene en su
-manos,<FAC1018<NOD<FAC1118
+manos, <FAC1018<NOD<FAC1118
 pero es cuestión de tiempo
 antes de que lo consiga...<FAC1018<NOD<FAC1118
 La ubicación se encuentra
@@ -208,7 +208,7 @@ encontramos con el Doctor?<FAC0007<NOD<CLR<FAC1118
 Ejem,<FAC1018<NOD<FAC1118 me temo que solo los 
 secuaces del Doctor
 llegarán allí presuntamente.<FAC1018<NOD<FAC1118
-DEBEMOS erradicar estas
+DEBEMOS erradicar esas
 flores rojas antes de que ellos
 lo consiga...<FAC1018<NOD<CLR<FAC1118
 Sin embargo,<NOD
@@ -225,15 +225,15 @@ ahora.<FAC1018<NOD<CLO<FAC0000
 <ANP0621:0000:0002<WAI0002<ANP0625:0000:0002
 <MSG<FAC1118
 Tú.<FAC1018<NOD<CLR
-<CMU0002<FAC1110¿...Quién es el?<FAC1010<NOD<CLR<FAC1118
+<CMU0002<FAC1110¿...Quién es él?<FAC1010<NOD<CLR<FAC1118
 Hm, bueno...<FAC1018<NOD<CLR<FAC1118
 Es un robot de reconocimiento
 armado que fue enviado a la
 isla hace diez años.<FAC1018<NOD<CLR<FAC1110
 ¿¡¿UN ROBOT?!?<FAC1010<NOD<CLR<FAC1118
-Sí. Y oí que ellos fueron
-destruidos después de la
-guerra...<FAC0018<ANP0621:0000:0000<NOD<FAC0118
+Sí. Y oí que esos robots
+fueron destruidos después
+de la guerra...<FAC0018<ANP0621:0000:0000<NOD<FAC0118
 Aunque, no me se tanto los
 detalles exactos.<FAC0018<NOD<FAC0118
 Quizás, uno de ellos...<FAC0018<NOD<CLR<FAC1110
@@ -257,11 +257,12 @@ Busca a las flores rojas y
 quemalos a todos.<FAC1018<NOD<END
 #0632
 <KEY<MSG<FAC1110
-Así que eres de diez años de
-antigüedad, ¿no es así?<FAC1010<NOD<CLR<FAC1110
+Así que eres el robot de
+diez años de antigüedad,
+¿no es así?<FAC1010<NOD<CLR<FAC1110
 Apenas me había dado
 cuenta...<FAC1010<NOD<CLR<FAC1110
-En serio sí que estás bien
+De verdad sí que estás bien
 fabricado.<FAC1010<NOD<END
 #0634
 <KEY<MSG<FAC0107

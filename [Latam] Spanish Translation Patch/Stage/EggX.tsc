@@ -15,7 +15,7 @@
 <PRI<SOU0011<DNP0100<FAO0004<TRA0002:0094:0291:0008
 #0105
 <PRI<MSG
-¿Guardarás el archivo?<YNJ0000<SVP<CLRArchivo guardado.<NOD<END
+¿Quieres guardar?<YNJ0000<SVP<CLRPartida guardada.<NOD<END
 #0106
 <PRI<LI+1000<SOU0020<AE+<MSG
 Vida recargada.<NOD<END
@@ -45,7 +45,7 @@ ese monstruo...<ANP0200:0000:0000<FAC1001<NOD<CLR<FAC0001
 ¿Me salvaste?<FAC0001<YNJ0202<EVE0201
 #0201
 <FAC0103
-¡Ja, esto no te incumbe!<FAC0003<NOD<CLR<FAC0103
+¡Ja, eso no te incumbe!<FAC0003<NOD<CLR<FAC0103
 ¡Puedo cuidarme sola!<FAC0003<NOD<FAC0103
 ¡Odio a esta isla, y a cada
 quién que vive en ella!<FAC0003<NOD<FAC0000<CLO<EVE0203

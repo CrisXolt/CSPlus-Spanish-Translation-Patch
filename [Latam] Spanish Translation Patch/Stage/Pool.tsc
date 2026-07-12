@@ -31,9 +31,9 @@
 ¿Esa ternurita que siempre se esconde
 dentro de la Casa de Arthur?<NOD
 Ella llegó recientemente en la
-Aldea Mimiga<NOD
+Aldea Mimiga.<NOD
 Cayó en el Estanque aquí.<NOD
-No creo que la llevamos bien.<NOD
+No creo que le caigamos muy bien.<NOD
 Parece que ella nos odia a todos en la
 aldea, pero ella también es una Mimiga,<NOD
 al igual que nosotros...<NOD<END
@@ -43,7 +43,7 @@ al igual que nosotros...<NOD<END
 <FL+0370<FL+0326<FL+0371<FL-0321<FL+0362
 <DNP0300
 <MSG
-Algo sale brilloso...<NOD<CLR<CMU0010<GIT1004<IT+0004
+Algo brilla con fuerza...<NOD<CLR<CMU0010<GIT1004<IT+0004
 Obtuviste un =Colgante de Plata=.<WAI0160<NOD<CNP0402:0060:0000<CLO
 <RMU<END
 #0400

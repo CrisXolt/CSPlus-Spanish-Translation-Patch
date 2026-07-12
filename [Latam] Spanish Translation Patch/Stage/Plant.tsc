@@ -26,8 +26,8 @@
 
 
 #0105
-<PRI<MSG¿Guardarás el archivo?<YNJ0000<SVP<CLR
-Archivo guardado.<NOD<END
+<PRI<MSG¿Quieres guardar?<YNJ0000<SVP<CLR
+Partida guardada.<NOD<END
 #0106
 <PRI<LI+1000<SOU0020<AE+<MSG
 Vida recargada.<NOD<END

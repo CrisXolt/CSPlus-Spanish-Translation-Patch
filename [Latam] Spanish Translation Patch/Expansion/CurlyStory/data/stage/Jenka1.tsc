@@ -1,0 +1,273 @@
+
+#0090
+<MNA<CMU0019<FAI0000<END
+#0091
+<MNA<CMU0019<FAI0001<END
+#0092
+<MNA<CMU0019<FAI0002<END
+#0093
+<MNA<CMU0019<FAI0003<END
+#0094
+<MNA<CMU0019<FAI0004<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0010:0094:0035:0026
+#0200
+<KEY
+<ITJ0014:0201
+<FLJ0594:0214
+<FLJ0593:0213
+<FLJ0592:0212
+<FLJ0591:0211
+<FLJ0590:0210
+<KEY<MSG<FAC1113
+¿Quién eres?<FAC1013<NOD<FAC1113
+Jamás te había visto por
+alguna parte, jovencita.<FAC1013<NOD<END
+#0201
+<FLJ0594:0224
+<FLJ0593:0223
+<FLJ0592:0222
+<FLJ0591:0221
+<FLJ0590:0220
+<2MV0000
+<KEY<MSG<FAC1113
+¡Oh, oh!<FAC1013<NOD<CLR<GIT1014<FAC1113
+¡Ese es mi perrito!<FAC1013<NOD<CLR
+<GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0300:0130:0000<PSH0500<FAC1113
+Me lo devolviste.<FAC1013<NOD<FAC1113
+Qué amable de tu parte.<FAC1013<NOD<CLR<FAC1113
+¿¿¿Cómo???<FAC1013<NOD<FAC1113
+¿Las flores rojas?<FAC1013<NOD<FAC0000<CLR<CMU0000<MSG
+¡¡Huzzah!!<NOD<CLO
+<CNP0400:0009:0000<WAI0010<MYD0002<CNP0300:0132:0002<ANP0300:0100:0002<WAI0120<CMU0011
+<CNP0400:0012:0000
+<MSG<FAC0105
+¿Cómo te va, Jenka?<FAC0005<NOD<CLR<FAC1113
+Oh, eres tú, Balrog.<FAC1013<NOD<ANP0300:0120:0002<FAC1113
+Te ves bien.<FAC1013<NOD<FAC1113
+¿Y cómo le va últimamente a
+mi estúpida hija?<FAC1013<NOD<CLR<FAC0014
+¡Ja!<NOD<FAC0105
+Estúpida hija dices...
+¿Te refieres a Misery?<FAC0005<NOD<FAC0105
+También está bien.<FAC0005<NOD<CLR<FAC0105
+Un nuevo amo apareció.<FAC0005<NOD<FAC0014
+¡Esta vez, conquistaremos
+finalmente la superficie!<NOD<CLR<FAC1113
+Aún siguen intentando hacer
+estas mañas, ustedes dos...<FAC1013<NOD<CLR<FAC0105
+Oh, no vine a causarte
+problemas.<FAC0005<NOD<FAC0105
+Solamente vine a recoger
+la llave del Almacén.<FAC0005<NOD<CLR<FAC0105
+Ya sabes, ¡¡el Almacén con las
+semillas de las flores!!<FAC0005<NOD<CLR<FAC1013
+.....<NOD<CLR<FAC1113
+Huh...<FAC1013<NOD<FAC1113
+No tengo idea de que estás
+hablando, Balrog.<FAC1013<NOD<CLR
+<ANP0400:0030:0000<FAC0014Ah sí...<NOD<CLR
+¿¡¿Pretendiendo que
+no lo sabes?!?<NOD<CLR<FAC0005
+.....<NOD<CLR<FAC0105
+Ya veo.<FAC0005<NOD<FAC0105
+Entonces estás pensando
+en traicionarnos...<FAC0005<NOD<FAC0105 ¿es eso?<FAC0005<NOD<CLO<CMU0000
+<WAI0050<FAC0105<MSG
+¡Lamentarás por eso!<FAC0005<NOD<CLO
+<FAC0000<ANP0400:0010:0000<WAI0200<CMU0019
+<MSG<FAC1113<CNP0300:0130:0000
+Un nuevo amo...<FAC1013<NOD<FAC1113
+Debe ser otro idiota más con
+la misma maña.<FAC1013<NOD<MYD0200<CLR
+.....<NOD<CLR<FAC1113
+Sobre mis perritos...
+Aún quedan cuatro más.<FAC1013<NOD<FAC1113
+Mis preciados perritos...<FAC1013<NOD<CLR<FAC1113
+Pero mis piernas están
+muy frágiles como para no
+poder caminar...<FAC1013<NOD<CLR<FAC1113
+Disculpe la molestia... pero,
+¿te importaría encontrar el
+resto de mis perritos por mí?<FAC1013<NOD<FL+0590<END
+#0210
+<KEY<MSG<FAC1113
+Aún quedan cuatro más...<FAC1013<NOD<FAC1113
+Disculpe la molestia... pero,
+¿te importaría encontrar el
+resto de mis perritos por mí?<FAC1013<NOD<END
+#0211
+<KEY<MSG<FAC1113
+Quedan tres más.<FAC1013<NOD<FAC1113
+Cuento contigo jovencita.<FAC1013<NOD<END
+#0212
+<KEY<MSG<FAC1113
+En serio les agradas mucho
+jovencita.<FAC1013<NOD<CLR<FAC1113
+Quedan dos más...<FAC1013<NOD<END
+#0213
+<KEY<MSG<FAC1113
+Queda uno más...<FAC1013<NOD<FAC1113
+¿Por qué no te rindes en
+encontrar las flor roja...?<FAC1013<NOD<END
+#0214
+<KEY<MSG<FAC1113
+Ya me hiciste un gran favor
+al reunir mis perritos...<FAC1013<NOD<CLR<FAC1113
+Vuelve en un momento,
+tendré algo de recompensa
+por tu esfuerzo.<FAC1013<NOD<END
+
+#0220
+<KEY<MSG<FAC1113
+¡Qué rápida!<FAC1013<NOD<CLR<GIT1014<FAC1113
+Este es sin duda uno de mis
+queridos perritos.<FAC1013<NOD<CLR
+<GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0301:0130:0000<PSH0500<FAC1113
+Por cierto...<FAC1013<NOD<FAC1113
+Tú debes ser la chica
+soldado de la superficie.<FAC1013<NOD<CLR
+.....<NOD<CLR<FAC1113
+Fue un largo tiempo desde
+que llegaron los robots como
+tú a esta isla.<FAC1013<NOD<FAC1113
+Fueron los responsables de
+la muerte de tantos Mimiga
+indefensos...<FAC1013<NOD<FAC1113
+Y de la vida de los hombres y
+mujeres valientes que trataron
+de defender a los Mimiga.<FAC1013<NOD<CLR<FAC1113
+Debido a los efectos de
+consumir la flor roja
+prohibida...<FAC1013<NOD<FAC1113
+...los Mimigas acorralados se
+volvieron rabiosos.<FAC1013<NOD<CLR<FAC1113
+Contraatacaron de manera
+victoriosa contra los robots
+que invadieron a la isla.<FAC1013<NOD<CLR<FAC1113
+Y quién sabe, de no haber
+existido las flores rojas,
+es posible que los Mimiga<FAC1013<NOD<FAC1113 
+en esta isla podría haber
+sido aniquilados...<FAC1013<NOD<CLR<FAC1113
+Quedan tres.<FAC1013<NOD<FAC1113
+Sé que puedes hacerlo.<FAC1013<NOD<FL+0591<END
+#0221
+<KEY<MSG<FAC1113
+Oooh.<FAC1013<NOD<CLR<GIT1014<FAC1113
+Definitivamente.<FAC1013<NOD<FAC1113
+Este es el mio.<FAC1013<NOD<CLR
+<GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0302:0130:0000<PSH0500<FAC1113
+Muchísimas gracias.
+Con este va tres...<FAC1013<NOD<CLR
+.....<NOD<CLR<FAC1113
+¿Has visto alguna vez a un 
+Mimiga enfurecido?<FAC1013<NOD<CLR<FAC1113
+"Comer la flor roja me hará 
+más fuerte."<FAC1013<NOD<FAC1113
+Una gran cantidad de
+Mimigas creyeron en esto y
+decidieron comer la flor roja.<FAC1013<NOD<FAC1113
+Then, and only then did 
+they fight back against the 
+battalions of robots.<FAC1013<NOD<CLR<FAC1113
+Pero...<FAC1013<NOD<CLR<FAC1113
+¿¿¿Sabes lo qué le pasa
+después a un Mimiga todo
+enfurecido???<FAC1013<NOD<CLR
+.....<NOD<CLR<FAC1113
+Fue tan terrible...<FAC1013<NOD<FAC1113
+Tal vez no podían
+controlarse a sí mismos...<FAC1013<NOD<FAC1113
+La mayoría de los Mimigas que
+consumieron la flor roja no
+pudieron volverse nunca más.<FAC1013<NOD<CLR<FAC1113
+Se perdieron.<FAC1013<NOD<CLR<FAC1113
+Oí el rumor de que
+supuestamente cayeron a la
+superficie...<FAC1013<NOD<FAC1113
+Donde viven los humanos.<FAC1013<NOD<CLR<FAC1113
+Y pensar que los Mimigas
+enfurecidos en la superficie
+podrian acercarse a los...<FAC1013<NOD<FAC1113
+humanos...<FAC1013<NOD<FAC1113
+Si esto es verdad...<FAC1013<NOD<CLR<FAC1113
+¿Ahora te das cuenta?<FAC1013<NOD<FAC1113
+¿Te das cuenta de lo
+peligrosas que son las
+flores rojas?<FAC1013<NOD<CLR
+.....<NOD<CLR<FAC1113
+Dos perritos más...<FAC1013<NOD<FL+0592<END
+#0222
+<KEY<MSG<FAC1113
+¡Eres la chica popular!<FAC1013<NOD<FAC1113
+A mis perritos tampoco se
+confían a los problematicos...<FAC1013<NOD<CLR<GIT1014<FAC1113
+De verdad aprecio todo el 
+esfuerzo que haces.<FAC1013<NOD<CLR
+<GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0303:0130:0000<PSH0500
+<FAC0119Fui enviada por el Dr. Booster
+para quemar toda las semillas
+de la flor roja...<FAC0019<NOD<CLR<FAC0119
+Así que, ¿me puedes dar esa
+llave del Almacén, porfis?<FAC0019<NOD<CLR<FAC1113
+¿Es eso la llave del
+Almacén que buscas?<FAC1013<NOD<FAC1113
+Del mismo Almacén que
+contiene toda las semillas
+de la flor roja...<FAC1013<NOD<CLR<FAC0119
+¡Sí, esa misma!<FAC0019<NOD<CLR<FAC1113
+Pues no me importa quien seas
+o cual será tus intenciones,
+¿te quedó claro?<FAC1013<NOD<FAC1113
+No te puedo dar esa llave del
+Almacén, lo siento mucho.<FAC1013<NOD<FAC1113
+Abriendo el Almacén,<FAC1013<NOD<FAC1113
+podría volver de manera
+tonta a repetir esa misma
+tragedia de antes...<FAC1013<NOD<CLR<FAC1113
+Veamos, uno... dos... tres... y
+cuatro.<FAC1013<NOD<CLR<FAC1113
+Solo queda uno.<FAC1013<NOD<FL+0593<END
+
+#0223
+<KEY<MSG<FAC1113
+Así es.<FAC1013<NOD<CLR<GIT1014<FAC1113
+Ese es el último.<FAC1013<NOD<CLR
+<GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<PSH0500<CNP0304:0130:0000<FAC1013
+...<FAC1013<NOD<FAC1113
+Ya me hiciste un gran favor
+al reunir mis perritos...<FAC1013<NOD<CLR<FAC1113
+Vuelve en un momento,
+tendré algo de recompensa
+por tu esfuerzo.<FAC1013<NOD<FL+0594<END
+#0300
+<FLJ0590:0310<END
+#0301
+<FLJ0591:0311<END
+#0302
+<FLJ0592:0312<END
+#0303
+<FLJ0593:0313<END
+#0304
+<FLJ0594:0314<END
+#0310
+<KEY<MSG
+¡Arf!<NOD<END
+#0311
+<KEY<MSG
+¡Woof woof!<NOD<END
+#0312
+<KEY<MSG
+¡Bow wow wow!<NOD<END
+#0313
+<KEY<MSG
+¡Woof woof woof woof!<NOD<END
+#0314
+<KEY<MSG
+¡Arf woof bow wow wow!<NOD<END
+#0400
+#0401
+
+#0500
+<FF-3000:3004<IT-0014<POP

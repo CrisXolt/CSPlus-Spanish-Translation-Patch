@@ -1,0 +1,190 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008
+<FLJ0830:0096
+<FLJ0481:0095
+<FAI0004<END
+#0095
+<CNP0201:0102:0000
+<ANP0300:0000:0002
+<FAI0004<END
+#0096
+<CMP0014:0006:0061
+<CMP0014:0007:0077
+<CNP0201:0102:0000
+<ANP0300:0000:0002
+<FAI0004<END
+
+
+
+#0100
+<FLJ0480:0101
+<PRI<SOU0011<DNP0100<FAO0004<TRA0006:0094:0171:0017
+#0101
+<PRI<MSG
+¡La puerta se atascó!<NOD<END
+
+#0200
+<FLJ0481:0202
+<KEY<MSG
+Función de ventiladores: Desconectado.<NOD
+Función de Malco: Desconectado.<NOD<CLR
+¿Quieres encenderlo?<YNJ0000<CLR<2MV0001
+<SOU0043<FL+0481<CNP0201:0102:0000Función encendida.<NOD<CLO
+<KEY<CMU0000<ANP0300:0010:0000<WAI0020<MYD0002<WAI0450
+<CMU0004<MSG
+¡ALERTA DE INTRUSO!<NOD
+¡ELIMINACIÓN INMEDIATA!<NOD<CLO<WAI0050
+<MSG
+¡¡Huzzah!!<NOD<CLO
+<CNP0203:0009:0000<WAI0050
+<CMU0000<ANP0300:0021:0000<WAI0080<CMU0011
+<CNP0203:0012:0000
+<MSG<FAC0105
+Oye, ¿Sabías que la Mimiga que
+encontré no era Sue?<FAC0005<YNJ0204<CLR<FAC1119
+¡Claro que sí!<FAC1019<NOD<EVE0204
+
+#0201
+#0202
+<PRI<MSG
+Función de Generador: Normal.<NOD<END
+#0203
+<KEY<CNP0203:0012:0000<ANP0203:0020:0004<WAI0140
+<PRI<MSG<FAC0105
+¡¿¡Quién eres!?!<FAC0005<NOD<FAC0000<KEY<CLO
+<WAI0100<CMU0015
+<MSG
+¡Balrog ha sido derrotado!<WAI0140<NOD
+<ACH0030
+<CMU0008<FL-0480<FL+0482<END
+
+#0204
+<KEY<MSG<FAC0105
+¡¡Sip, no era Sue!!<FAC0005<NOD<CLR<FAC0105
+Por eso el Doctor se enojó
+extremadamente.<FAC0005<NOD<FAC0105
+Misery recibió un buen
+bofetón.<FAC0005<NOD
+<FAC0014<ANP0203:0030:0000Pobrecita, es solo una chica.<NOD<CLR<FAC0105
+Bueno, tampoco podemos
+desobedecer al amo, así que...<FAC0005<NOD<FAC0105
+Así es el destino.<FAC0005<NOD<CLR<FAC0105
+Esta vez vine a aplastarte en
+serio.<FAC0005<NOD<FAC0105
+¡Mejor preparate!<FAC0005<NOD<CLO
+<CMU0004<CNP0203:0036:0000<BSL0203<FL+0480<END
+
+#0250
+<KEY<MSG<TUR
+Encendiendo...<NOD<END
+
+#0300
+<FLJ0483:0303
+<FLJ0481:0301
+<KEY<MSG
+Es un robot...<NOD
+Parece que no está encendido.<NOD<END
+#0301
+<PRI<MSG
+.....<NOD<FLJ0482:0302
+Su cabeza está aplastada.<NOD<END
+#0302
+<KEY<MSG
+Su cuerpo está atascado en
+el suelo.<NOD<CLR
+¿Quieres sacarlo de su cuerpo?<YNJ0000<CLO<WAI0050
+<CNP0300:0109:0004
+<ANP0300:0010:0004
+<MYB0300<WAI0050<MYD0300<FL+0483<FL+0485
+<MSG
+Gr..<NODGracias...<NOD<CLR
+Eres una buena chica.<NOD
+¡Y no solo eso, eres muy fuerte!<NOD<CLR
+¡Gracias por salvarme!<NOD<CLR
+¡Me gustaría hacer algo para
+expresarme de mi gratitud!<NOD<CLR
+Pero, la única cosa que sé es fabricar
+bombas...<NOD<FLJ0216:0304<END
+
+#0303
+<FLJ0830:0315
+<FLJ0520:0314
+<FLJ0486:0313
+<ITJ0011:0310
+<FLJ0484:0305
+<KEY<MSG
+¡Me gustaría hacer algo para
+expresarte de mi gratitud!<NOD<CLR
+Pero, la única cosa que sé es fabricar
+bombas...<NOD<FLJ0216:0304<END
+#0304
+<FAC1119
+¡Qué genial!
+¿harías eso por mí con tal
+de destruir una puerta?<FAC1019<NOD<CLR<FAC0000
+¿Por qué quiere destruir una puerta?<NOD<CLR<FAC1120
+Bueno, algún chico está en
+problemas y no puede salir.<FAC1020<NOD<CLR<FAC0000
+¡¿Alguién está atrapado dentro?!<NOD<CLR
+¡Sí que eres una buena chica!<NOD<CLR
+¡Entendido!<NOD
+¡Entonces hagamos una bomba!<NOD
+¡Vamos a demoler esa puerta de una
+vez por todas!<NOD<FL+0484<EVE0305
+#0305
+<KEY<MSG
+Por favor, busca estos materiales
+para la bomba:<NOD
+=Carbón Vegetal=,<NOD
+=Jugo de Medusa=, y<NOD
+=Base de Chicle=.<NOD<CLR
+¡Vamos a fabricar la bomba una
+vez que reúnas todos los materiales
+necesarios!<NOD<END
+
+#0310
+<ITJ0008:0311<EVE0305
+#0311
+<ITJ0012:0312<EVE0305
+#0312
+<KEY<FL+0486<IT-0008<IT-0011<IT-0012
+<MSG
+¿Ya tienes todo los materiales?<NOD<CLR
+<GIT1012¡Oh!<NOD ¡Es un =Carbón Vegetal=!<NOD
+<GIT1008Y este es...<NOD ¡El =Jugo de Medusa=!<NOD
+<GIT1011Y también...<NOD ¡La =Base de Chicle=!<NOD<CLR
+¡Vamos a fabricar la bomba de inmediato!<NOD<GIT0000<CLO
+<FAO0001<WAI0100<FAI0001
+<MSG
+¡Y está terminado!<NOD<GIT1013<IT+0013<FL+0221<CLR
+<CMU0010Obtuviste la =Bomba=.<WAI0160<NOD<RMU<CLR
+¡Ahora ve y destruye esa puerta!<NOD<END
+
+#0313
+<KEY<MSG
+¡Date prisa y destruye esa puerta ya!<NOD<END
+#0314
+<KEY<MSG
+Por favor, ven a visitame otra vez...<NOD
+...Aunque no podré servirte algo de té.<NOD<END
+
+#0315
+<KEY<MSG
+¡Hace tiempo que no te veia!<NOD<CLR
+Estoy muy feliz de que decidieras llegar
+a visitarme.<NOD
+Me sentia solo.<NOD
+... Y estuve pensando en encender a otro
+robot de repuesto y hacer una fiesta.<NOD<CLR
+.....<NOD<CLR
+Pido disculpas por no tener algo de té
+que servirte.<NOD<END

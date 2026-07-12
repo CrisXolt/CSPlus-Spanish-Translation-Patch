@@ -31,7 +31,7 @@
 <FLJ1023:0137
 <ITJ0025:0136
 <MSG
-Se lee "NO ENTRAR".<NOD
+Se lee "NO PASE".<NOD
 Y además está bloqueada.<NOD<END
 #0136
 <SOU0022<MSG<GIT1025
@@ -72,7 +72,7 @@ flores rojas florezcan ya.<NOD<END
 <PRI<MSG
 ¡Derrotar a los malos robots asesinos
 será más fácil con la flor roja en
-nuestra posesión! <NOD
+nuestra posesión!<NOD
 ¡Florezca rápido pequeña flor roja!<NOD<END
 #0220
 <PRI<FLJ1020:0221
@@ -85,7 +85,7 @@ nuestra posesión! <NOD
 <EVE0299
 #0231
 <PRI<MSG
-¿Por qué no estás trabajando?...<NOD<END
+¿Por qué no estás trabajando...?<NOD<END
 #0240
 <PRI
 <FLJ1037:0242
@@ -96,7 +96,7 @@ nuestra posesión! <NOD
 Tú.<NOD<CLR
 Eres el nuevo aquí.<NOD
 Debes estar confundido por el hecho
-que te llevaron hasta aquí de repente.<NOD<CLR
+que te enviaron hasta aquí de repente.<NOD<CLR
 Como sea.<NOD
 Tampoco lo intentes de hacer algo
 estúpido.<NOD
@@ -107,7 +107,7 @@ comida, pero solo mientras cuido de
 sus tontas flores.<NOD<END
 #0242
 <PRI<MSG
-Oye, ¿cómo va todo?<NOD<CLR
+Oye, ¿y cómo va todo?<NOD<CLR
 Si tenemos suerte, los viejos y mejores
 tiempos regresarán pronto.<NOD<CLR
 Hmm... Quizas.<NOD<END
@@ -172,7 +172,7 @@ funcionar en una puerta cercana...<NOD<CLR
 Estoy hambriento...<NOD<END
 #0263
 <PRI<MSG
-No logro pescar nada hoy...<NOD<END
+No pude pescar nada hoy...<NOD<END
 #0265
 <PRI
 <FLJ1022:0267
@@ -211,7 +211,7 @@ Similar de los eventos anteriores que
 también ocurrieron en el pasado...<NOD<END
 #0311
 <PRI<MSG
-Esta chica cayó cerca del manantial. <NOD
+Esa chica cayó cerca del manantial.<NOD
 Ella no recuerda quién es...<NOD<CLR
 Probablemente sea una chatarra ahora.<NOD<FL+1044<EVE0312
 #0312
@@ -249,11 +249,11 @@ Se lo metiste a Curly en la boca.<NOD<CLR<CLO<WAI0050<EQ-0064<WAI0050
 ¡¡Quote!!<FAC1019<NOD<FAC1119
 ¡Ahora lo recuerdo!
 ¡Tú nombre es Quote!<FAC1019<NOD<CLR<FAC1119
-Tú y yo somos...<FAC1019<NOD<CLR
+Tú y yo fuimos...<FAC1019<NOD<CLR
 <FAC1125Bueno...<FAC1025<NOD<CLR<FAC1125
-Antes, una gran masa de
-robots como nosotros fue
-enviado a esta isla...<FAC1025<NOD<FAC1125
+Lo que pasó antes, una masa
+de robots como nosotros
+fueron enviados a esta isla...<FAC1025<NOD<FAC1125
 Fuimos enviados por los
 países de la superficie.<FAC1025<NOD<CLR<FAC1125
 El propósito de la misión...<FAC1025<NOD<FAC1125
@@ -272,7 +272,7 @@ Devastada por los robots...<FAC1025<NOD<CLR<FAC1125
 Ellos asesinaron a miles de
 pobres y pequeños Mimiga...<FAC1025<NOD
 <FAC1120Fue horrible...<FAC1020<NOD<CLR<FAC1125
-Y finalmente, un hombre se
+Y entonces, un hombre se
 apoderó de la Corona.<FAC1025<NOD<CLR<FAC1125
 La misión de los robots fue
 terminada y la isla quedó
@@ -284,8 +284,9 @@ capturar la corona convirtió
 a los Mimigas en bestias,<FAC1025<NOD<FAC1125
 y ellos comenzaron
 atacando a la superficie.<FAC1025<NOD<CLR<FAC1125
-Me enfrenté a él e hice lo
-mejor para derrotarlo.<FAC1025<NOD<FAC1125
+Me enfrenté contra él
+e hice lo mejor para
+derrotarlo.<FAC1025<NOD<FAC1125
 Tú estabas conmigo
 en ese entonces.<FAC1025<NOD<CLR
 .....<NOD<CLR<FAC1125
@@ -358,7 +359,7 @@ se fueron ahora.<FAC0022<NOD<CLR<FAC0122
 ...Esto quiere decir que él
 podría ya estar utilizando
 la flor roja.<FAC0022<NOD<CLR<FAC0122
-Bien, entonces.<FAC0022<NOD<CLR<FAC0122
+Bueno, entonces.<FAC0022<NOD<CLR<FAC0122
 Por favor, súbete al cohete
 y date prisa en llegar al
 trono del Doctor.<FAC0022<NOD<END
@@ -402,7 +403,7 @@ Si vas a luchar contra el Doctor.<NOD
 #0460
 <PRI<MSG<TUR
 ¡Cuidado con los Peces Cañón!
-Nota: Pueden usarse como plataformas.<NOD<END
+Nota: Puede usarse como plataformas.<NOD<END
 #0480
 <KEY<HMC
 <FON0481:0016

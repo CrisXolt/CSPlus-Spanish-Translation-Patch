@@ -35,7 +35,7 @@ Oh, ¿eres un robot asesino?<NOD<CLR
 ¿Viniste a matarnos?<NOD<END
 #0401
 <PRI<MSG
-¡Déjanos salir de aquí!<NOD<END
+¡Sácanos de aquí!<NOD<END
 #0402
 <PRI<MSG
 ¡Que se vaya al diablo el maldito Doctor!<NOD<END
@@ -49,8 +49,8 @@ robots asesinos de la superficie!<NOD<END
 #0404
 <PRI<MSG
 ¿Conoces a la persona Sakamoto?<NOD
-Ella podría estar oculto en alguna parte
-de la Plantación...<NOD<END
+Ella podría estar escondida en alguna
+parte de la Plantación...<NOD<END
 #0405
 <PRI<MSG
 Había algunos humanos aquí también,

@@ -57,7 +57,7 @@ más adelante...<NOD<RMU<END
 <CNP0291:0217:0000<ANP0291:0040:0000<WAI0050
 <ANP0290:0000:0000<WAI0020
 <MSG<FAC1128
-Nivel de combuistible es
+Nivel de combuistible
 suficiente.
 ¡Podemos irnos cuando sea!<FAC1028<NOD<CLR<FAC1128
 Ja ja...<FAC1028<NOD<CLR<FAC1128
@@ -67,7 +67,7 @@ vida a la superficie...<FAC1028<NOD<CLO<FAC0000
 <ANP0291:0050:0000<WAI0016
 <MSG<FAC0122
 Me pregunto si esos niños
-estarán bien o no...<FAC0022<NOD<CLO
+están bien o no...<FAC0022<NOD<CLO
 <FAC0000<WAI0016
 <QUA0010
 <ANP0290:0003:0000
@@ -124,7 +124,7 @@ posible!<FAC1001<NOD<CLO<KEY
 <MSG<FAC1122
 La isla, se está cayendo...<FAC1022<NOD<CLR<FAC1128
 ¡Es muy peligroso si nos
-quedamos aquí más tiempo!<FAC1028<NOD<CLR<FAC1128
-¡Tenemos que irnos YA!<FAC1028<NOD<CLO<FAO0004
+esperamos aquí más tiempo!<FAC1028<NOD<CLR<FAC1128
+¡Tenemos que salir YA!<FAC1028<NOD<CLO<FAO0004
 <CMU0035<TRA0049:1200:0098:0006
 #0500

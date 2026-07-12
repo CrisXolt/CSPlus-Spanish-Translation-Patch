@@ -43,8 +43,8 @@ ese tiempo.<FAC0019<NOD<CLR<FAC0119
 Si esta roca se mueve,
 podemos continuar hacia la
 salida del Laberinto.<FAC0019<NOD<CLR<FAC0119
-Hay rumores de que hay una
-criatura cerca.<FAC0019<NOD<FAC0119
+Hay rumores de que hay
+criaturas cerca.<FAC0019<NOD<FAC0119
 Hay que estar en alerta para
 lo que viene.<FAC0019<NOD<CLR<FAC0119
 Muy bien, y ahora, hay que
@@ -55,11 +55,11 @@ extremo y...<FAC0019<NOD<CLO
 #0301
 <KEY<ANP0300:0000:0000
 <MSG<FAC0119
-¿Qué pasa?<FAC0019<NOD<FAC0119
+¿Qué sucede?<FAC0019<NOD<FAC0119
 No te estás poniendo
-nervioso, ¿cierto?<FAC0019<NOD<CLR<FAC0119
+nervioso, ¿verdad?<FAC0019<NOD<CLR<FAC0119
 ¡Pues claro que no!<FAC0019<NOD<FAC0119
-Ahora, agarra al extremo ya.<FAC0019<NOD<ANP0300:0020:0000<END
+Ahora agarra al extremo.<FAC0019<NOD<ANP0300:0020:0000<END
 #0302
 <PRI<MSG
 Está inconsciente.<NOD<END
@@ -109,23 +109,23 @@ dos...<FAC0025<NOD<FAC0000<CLO
 <MSG<FAC0119
 ¡Eres tú!<FAC0019<NOD<CLR<FAC0114
 Je je.<FAC0014<NOD<CLR<FAC0114
-¡Ustedes dos aún SIGUEN
+¡Ustedes dos ESTÁN
 con vida!<FAC0014<NOD<CLR<FAC0114
 Y no solo eso, ¡están
 intentando escapar del
 Laberinto!<FAC0014<NOD<CLR<FAC0114
 ¿No se supone que deberían
 de descansar en vez de
-hacer esto?<FAC0014<NOD<CLR<FAC0114
-Saben que no pueden
+hacer esto, eh?<FAC0014<NOD<CLR<FAC0114
+Recuerden que no pueden
 desafiar al amo, ni siquiera
-yo.<FAC0014<NOD<CLR<FAC0114
+yo mismo.<FAC0014<NOD<CLR<FAC0114
 ¡Muy bien, entonces!<FAC0014<NOD<FAC0114
 ¡Terminaré con esto!<FAC0014<NOD<CLR<FAC0114
 Se quedarán aquí como el
 resto de chatarra.<FAC0014<NOD<CLR<FAC0119
-¡Oh, esto es perfecto!<FAC0019<NOD<FAC0119
-Puedes sujetarlo en el
+¡Oh, eso es perfecto!<FAC0019<NOD<FAC0119
+Puedes agarrarlo en el
 centro...<FAC0019<NOD<FAC0000<CLO<CMU0000
 <WAI0100
 <ANP0310:0060:0002<WAI0048
@@ -177,7 +177,7 @@ Pero a cambio...<FAC0005<NOD<ANP0330:0000:0000<CLR<FAC0105
 Mantén esto en secreto por
 el simple hecho de que les
 ayudé a mover la roca.<FAC0005<NOD<CLR<FAC1119
-¡No te preocupes por eso!<FAC1019<NOD<FAC0000<CLO
+¡Sí, descuida!<FAC1019<NOD<FAC0000<CLO
 <ANP0330:0060:0000<WAI0040
 <ANP0330:0050:0002<WAI0020
 <MYD0003<ANP0300:0020:0000

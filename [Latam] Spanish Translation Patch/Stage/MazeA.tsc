@@ -35,13 +35,13 @@ salida al mover este pedazo de roca
 gigantesca...<NOD<END
 #0220
 <PRI<FLJ1020:0221<MSG
-Gaah... quiero comer Mimiga...<NOD<CLR
+Gaah... quiero comer un Mimiga...<NOD<CLR
 ¿Qué es ese olor?<NOD<CLR
 Huele un poco de Mimiga en ti.<NOD<END
 #0221
 <PRI<MSG
 Ja ja ja...<NOD<CLR
-Eres el chistoso aquí.<NOD<END
+Tú eres el chistoso.<NOD<END
 #0230
 <PRI<MSG
 ¿Has visto alguna vez el exterior de
@@ -89,14 +89,14 @@ No está recibiendo energia.<NOD<END
 Hola.<NOD<CLR
 ¡Esta es la Tienda de Laberinto!<NOD
 Desafortunadamente, alguien robó
-toda las cosas aquí.<NOD
+toda las cosas aquí recientemente.<NOD
 Por lo que no tenemos nada que vender.<NOD
-Perdón por la molestia.<NOD<CLO<AMJ0002:0401<AMJ0013:0404<EVE0402
+Disculpe la molestia.<NOD<CLO<AMJ0002:0401<AMJ0013:0404<EVE0402
 #0401
 <KEY<MSG
-¿Y esto qué es?<NOD<CLR
-Traes algo bueno ahí.<NOD<CLR
-¡Esto es la =Estrella Polar=
+¿Pero qué tenemos ahí?<NOD<CLR
+Traes algo bueno.<NOD<CLR
+¡Eso es la =Estrella Polar=
 y la =Bola de Fuego=!<NOD<CLR
 ¿Puedo echarles un vistazo?<YNJ0403<CLO
 <AM-0003
@@ -104,14 +104,14 @@ y la =Bola de Fuego=!<NOD<CLR
 Entregaste la =Estrella Polar=.<NOD
 <GIT0003Y la =Bola de Fuego=.<NOD<GIT0000<CLR
 <SOU0044¡¡¡Hmph!!!<NOD<CLR<FL+0721<GIT0001<CLR
-<TAM0002:0001:0000<CMU0010¡La =Serpiente= está terminada! <WAI0160<NOD<RMU<END
+<TAM0002:0001:0000<CMU0010¡La =Serpiente= está terminada!<WAI0160<NOD<RMU<END
 #0402
 <KEY<FL+0721<MSG
 Ah...<NOD<CLR
 Mira, te daré esto.<NOD<CLR<GIT1020<CLR
 <CMU0010<IT+0020<EQ+0008Te dio la =Turbocarga=.<WAI0160<NOD<RMU<GIT0000<CLR
-Es gratis, no cobro mucho.<NOD
-Ni siquiera tienes dinero, ¿verdad?<NOD<END
+Es gratis, no lo cobro.<NOD
+Tampoco tienes dinero, ¿verdad?<NOD<END
 #0403
 <KEY<MSG<CLR
 ¡Te arrepentirás más tarde!<NOD<END
@@ -120,7 +120,7 @@ Ni siquiera tienes dinero, ¿verdad?<NOD<END
 Ah...<NOD<CLR
 Mira, te daré esto.<NOD<CLR<GIT1038<CLR
 <CMU0010<IT+0038Te dio la =Estrella Caprichosa=.<WAI0160<EQ+0128<FL+0722<NOD<RMU<GIT0000<CLR
-Por el momento es más como un adorno.<NOD
+Bueno, ahora es más como un adorno.<NOD
 Es todo lo que puedo ofrecerte ya que
 posees un arma definitiva.<NOD<END
 #0410
