@@ -9,6 +9,9 @@
 <MNA<CMU0006<FAI0003<END
 #0094
 <MNA<CMU0006<FAI0004<END
+
+
+
 #0600
 <MNA<KEY<HMC<WAI0010<CNP0603:0150:0000<CNP0604:0150:0100<FON0603:0016<CMU0006<FAI0004<MSG
 ¡¡Huzzah!!<NOD<CLO
@@ -23,13 +26,14 @@ Vaya, aún sigues con vida...<FAC0015<NOD<FAC0000<CLO
 <ANP0601:0013:0000<WAI0050<CNP0601:0082:0000
 <MSG<FAC0115
 Esto me recuerda que habia...<FAC0015<NOD<FAC0115
-otra robot fuerte igual 
+otro robot fuerte igual 
 que tú...<FAC0015<NOD<CLR<FAC0115
-Parece que las cosas se
-complicarán sí solo te
-enfrentamos directamente.<FAC0015<NOD<CLR
-<FAC0116Así que...
-Te enviaré al Laberinto.<FAC0016<NOD<FAC0000<CLO
+Él tenía una gorra y
+era incluso muy persistente
+que usted....<FAC0015<NOD<FAC0115
+Pero se me está
+acabando la panciencia.<FAC0015<NOD<CLR
+<FAC0116Te enviaré al Laberinto.<FAC0016<NOD<FAC0000<CLO
 <ANP0601:0030:0000<WAI0050<ANP0603:0020:0002<ANP0604:0020:0002<WAI0050
 <ANP0602:0030:0002<WAI0050
 <MSG<FAC0116
@@ -44,3 +48,4 @@ Y tú también.<FAC0016<NOD<CLR
 #0601
 #0602
 #0603
+

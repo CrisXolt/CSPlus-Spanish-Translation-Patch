@@ -32,7 +32,7 @@ alguna parte, jovencito.<FAC1013<NOD<END
 <2MV0000
 <KEY<MSG<FAC1113
 ¡Oh, oh!<FAC1013<NOD<CLR<GIT1014<FAC1113
-¡Ese es mi perrito!<FAC1013<NOD<CLR
+¡Este es mi perrito!<FAC1013<NOD<CLR
 <GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0300:0130:0000<PSH0500<FAC1113
 Me lo devolviste.<FAC1013<NOD<FAC1113
 Qué amable de tu parte.<FAC1013<NOD<CLR<FAC1113
@@ -121,7 +121,7 @@ por tu esfuerzo.<FAC1013<NOD<END
 #0220
 <KEY<MSG<FAC1113
 ¡Qué rápido!<FAC1013<NOD<CLR<GIT1014<FAC1113
-Ese es sin duda uno de mis
+Este es sin duda uno de mis
 queridos perritos.<FAC1013<NOD<CLR
 <GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0301:0130:0000<PSH0500<FAC1113
 Por cierto...<FAC1013<NOD<FAC1113
@@ -156,10 +156,10 @@ Sé que puedes hacerlo.<FAC1013<NOD<FL+0591<END
 <KEY<MSG<FAC1113
 Oooh.<FAC1013<NOD<CLR<GIT1014<FAC1113
 Definitivamente.<FAC1013<NOD<FAC1113
-Ese es el mio.<FAC1013<NOD<CLR
+Este es el mio.<FAC1013<NOD<CLR
 <GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0302:0130:0000<PSH0500<FAC1113
 Muchísimas gracias.
-Con eso va tres...<FAC1013<NOD<CLR
+Con eso van tres...<FAC1013<NOD<CLR
 .....<NOD<CLR<FAC1113
 ¿Has visto alguna vez a un 
 Mimiga enfurecido?<FAC1013<NOD<CLR<FAC1113
@@ -228,7 +228,7 @@ Solo queda uno.<FAC1013<NOD<FL+0593<END
 #0223
 <KEY<MSG<FAC1113
 Así es.<FAC1013<NOD<CLR<GIT1014<FAC1113
-Ese es el último.<FAC1013<NOD<CLR
+Este es el último.<FAC1013<NOD<CLR
 <GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<PSH0500<CNP0304:0130:0000<FAC1013
 ...<FAC1013<NOD<FAC1113
 Ya me hiciste un gran favor

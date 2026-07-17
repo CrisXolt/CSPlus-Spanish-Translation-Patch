@@ -9,11 +9,14 @@
 <MNA<CMU0025<FAI0003<END
 #0094
 <MNA<CMU0025<FAI0004<END
+
 #0100
 <KEY<FAO0000<TRA0052:0090:0020:0010
+
 #0120
 <KEY<SOU0011<ANP0120:0000:0002<FAO0004<TRA0055:0094:0012:0009
-
+<MSG
+Ya no más...<NOD<END
 
 #0130
 <KEY<ITJ0032:0131<SOU0011<ANP0130:0000:0002<FAO0000<TRA0069:0090:0018:0008
@@ -23,11 +26,14 @@
 ¡Ya estoy en casa!<NOD<CLO
 <ACH0079
 <FAO0000<TRA0069:0090:0018:0008
+
 #0140
 <KEY<FAO0000<MYD0000<TRA0094:0090:0017:0007
+
 #0200
 <PRI<MSG
 ¿Un letrero?<NOD<END
+
 #0400
 <KEY<FLJ0960:0401<MSG<FAC0110
 Si vas a buscar el Núcleo de
@@ -51,8 +57,8 @@ Y sujétate bien.<FAC1010<NOD<CLO<FAC0000
 <ANP0410:0020:0002<WAI0250
 <ANP0410:0010:0002<WAI0200
 <MSG
-Y así fue como tú y Kazuma escaparon
-con vida de la isla.<WAI0200<CLR
+Y así fue como Curly y Kazuma
+escaparon con vida de la isla.<WAI0200<CLR
 Poco después, el Doctor podría usar la
 isla como una fortaleza flotante y así
 atacar a la superficie.<WAI0200<CLR
@@ -60,18 +66,21 @@ atacar a la superficie.<WAI0200<CLR
 superficie resistir los ataques
 implacables del Doctor?<WAI0200<CLR<FAO0002
 Pues tampoco te importa tanto...<WAI0200<CLR
-Tras escapar, tú y Kazuma viven una
+Tras escapar, ella y Kazuma viven una
 vida humilde, ocultos en lo profundo de
 las montañas...<WAI0200<CLR
 ...y fuera del alcance del Doctor.<WAI0200<CLR<CMU0026
 <ACH0049
 <TUR                           ¿Es el fin? <WAI9999
 <END
+
+
 #0410
 <KEY<MSG
 Grrrrrr...<NOD<END
 #0420
-#0421
+
+
 #0600
 <KEY<MSG
 Thanks for helping debut this game!<NOD
@@ -80,3 +89,4 @@ I'm thinking I'll make this next
 stage ahead the last one.<NOD
 With two more months we'll see
 how far I can get...<NOD<END
+

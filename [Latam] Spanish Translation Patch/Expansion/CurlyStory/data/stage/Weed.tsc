@@ -52,9 +52,9 @@ Usaste la =Llave Oxidada=.<NOD<CLO
 <PRI
 <FLJ0222:0111
 <ITJ0010:0110
-<MSG
-Parece que está bloqueada.<NOD
-En la puerta está escrito: "Chicle".<NOD<END
+<MSG<FAC1119
+Parece que está bloqueada.<FAC1019<NOD<FAC1119
+En la puerta está escrito: "Chicle".<FAC1019<NOD<END
 #0110
 <SOU0022<MSG<GIT1010
 Usaste la =Llave de Chicle=.<NOD<CLO
@@ -80,9 +80,10 @@ Usaste la =Llave de Chicle=.<NOD<CLO
 Obtuviste la =Llave de Santa=.<WAI0160<NOD<CLO
 <GIT0000<RMU<END
 #0201
-<PRI<FLJ0228:0207<FL+0228<MSG
-¿Oh?<NOD<CLR
-¿Eres el soldado de la superficie?<NOD
+<PRI<FLJ0228:0207<FL+0228<MSG<FAC1119
+¡Oye, es el chico verde!<FAC1019<NOD<CLR<FAC0000
+¿Eres la chica soldado de la
+superficie?<NOD
 ¿No que había acabado ya la guerra?<NOD<CLR
 Bueno, ya no importa...<NOD<CLO<EVE0207
 #0202
@@ -114,9 +115,11 @@ Si quieres seguir avanzando, ten cuidado
 con esos bichos azules gigantes.<NOD
 Intentarán aplastarte.<NOD<END
 #0210
-<PRI<MSG
-Esta moto que conducía Kazuma ha visto
-como días mejores.<NOD<END
+<PRI<MSG<FAC1125
+Vaya, esa moto que
+conducía Kazuma ha visto
+como días mejores...<FAC1025<NOD<END
+
 #0220
 <ITJ0013:0250
 <FLJ0221:0240
@@ -133,7 +136,7 @@ No se abre...<NOD<CLO
 <FLJ0215:0232
 <PRI<MSG
 Hay alguien en esa grieta...<NOD<CLR
-¡Oye, tú! ¡Muchacho!<NOD<CLR
+¡Oye, tú! ¡Señorita!<NOD<CLR
 Necesito salir de aquí.<NOD
 ¿Podrías, eh, ayudarme por favor?
 <YNJ0231<CLR
@@ -151,30 +154,36 @@ Es una pena...<NOD<END
 Por favor.<NOD
 Abre la puerta.<NOD<END
 #0233
-<PRI<MSG
+<PRI<MSG<FAC1119
+Oye, es la llave equivocada.<FAC1019<NOD<CLR<FAC0000
 Eh, ¿qué quieres decir con eso?<NOD
 ¿¡¿Que no es la llave
 adecuada para esta puerta?!?<NOD
 Pero que decepción.<NOD<CLR
 .....<NOD<FL+0223<EVE0235
 #0234
-<PRI<FL+0216<MSG
-No hay cerradura.<NOD
-Parece estar oxidada.<NOD<END
+<PRI<FL+0216<MSG<FAC1125
+No hay cerradura.<FAC1025<NOD<FAC1125
+Parece que está oxidada.<FAC1025<NOD<END
 #0235
 <PRI<MSG
 Si no hay cerradura...
 ...entonces hay que destruir esa puerta.<NOD
 Pero cómo...<NOD<END
 #0236
-<PRI<MSG
+<PRI<MSG<FAC1119
+¡Vamos fabricar una Bomba!<FAC1019<NOD<CLR<FAC0000
 ¿Cómo?
-¿¿Usar la BOMBA??
+¿¿La BOMBA??
 ¿¿¿En esa puerta???<NOD<CLR
-Sí, puede funcionar...<NOD
-¿Y por eso estás buscando los
-materiales necesarios?<NOD<CLR
-.....<NOD<CLR
+Sí, puede funcionar...<NOD<CLR<FAC1119
+Y estoy buscando los
+materiales para fabricarlo.<FAC1019<NOD<CLR<FAC0000
+Dijiste materiales, ¿cierto?<NOD<CLR<FAC1119
+Sip, estoy buscando el
+=Carbón Vegetal=,<FAC1019<NOD<FAC1119
+=Jugo de Medusa=, y<FAC1019<NOD<FAC1119
+=Base de Chicle=.<FAC1019<NOD<CLR<FAC0000
 Espera, ¿dijiste Base de Chicle?<NOD
 Espera un segundo...<NOD<CLO<WAI0100
 <MSG
@@ -183,17 +192,18 @@ Tomala.<NOD<GIT1010<IT+0010<FL+0221<CLR
 Estaba colgada en la pared.
 La palabra "Chicle" lleva escrito en el.<NOD
 Estoy seguro que está algo relacionado.<NOD
-¡Cuento contigo, chico!<NOD<END
+¡Cuento contigo, señorita!<NOD<END
 #0237
 <PRI<MSG
 ¿Ya está lista la bomba?<NOD<END
 #0239
-<PRI<MSG
-Oxidada como siempre...<NOD<CLO
+<PRI<MSG<FAC1120
+Oxidada como siempre...<FAC1020<NOD<CLO
 <CNP0230:0106:0000<MYD0002<END
 #0240
-<PRI<MSG
-Oxidada como siempre...<NOD<END
+<PRI<MSG<FAC1120
+Oxidada como siempre...<FAC1020<NOD<END
+
 #0250
 <PRI<FL+0521<FL+0522<IT-0013
 <MSG<GIT1013
@@ -212,28 +222,33 @@ Vida máxima incrementada por 5.<NOD<END
 #0400
 #0401
 #0450
-<PRI<MSG
-¿Qué clase de moto es este?<NOD<END
+<PRI<MSG<FAC1119
+¿Qué clase de moto es este?<FAC1019<NOD<END
 #0451
 #0452
 #0500
 <PRI
 <FLJ0211:0501
 <FL+0211
-<MSG
-Hola.<NOD<CLR
-Mi nombre es Santa.<NOD<CLR
+<MSG<FAC1119
+¡Hola!<FAC1019<NOD<CLR<FAC0000
+Hola. Mi nombre es Santa.<NOD<CLR
 Fui por agua y me atacaron estos
 monstruos.<NOD
 Y entonces, me salí corriendo a la casa,
 pero perdí la llave por el camino.<NOD<CLR
 Y ahora ya no me puedo regresar a
-casa.<NOD<END
+casa.<NOD<CLR<FAC1119
+Quizá pueda ayudarte a
+recuperar esa llave.<FAC1019<NOD<CLR<END
 #0501
 <PRI<MSG
 Ya no me puedo regresar sin la llave...
-Oh, ¿qué debo hacer?<NOD
-¿¿¿Qué debo hacer???<NOD<END
+Oh, ¿qué debo hacer?<NOD<CLR<FAC1119
+¡Descuida, voy a recuperar
+esa llave por ti!<FAC1019<NOD<END
+
+
 #0502
 <ITJ0003:0503<END
 #0503

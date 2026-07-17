@@ -1,0 +1,104 @@
+
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<MNA<CMU0008<FAI0004<END
+
+#0100
+<PRI<FAO0004<TRA0002:0094:0220:0007
+
+#0150
+<KEY<MSG<FAC1125
+Veo pétalos de flor roja
+esparcidos por el suelo...<FAC1025<NOD<END
+
+#0200
+<KEY<MSG
+Hay una nota aquí.<NOD<CLR<TUR
+No puedo acercarme más a la
+Sala de Observación por el escudo.<NOD<CLR<TUR
+Debe haber una terminal que pueda
+desactivar el escudo en algún lado...<NOD<END
+
+#0300
+<PRI<FLJ0200:0001<FL+0200
+<SOU0022<CNP0300:0021:0000
+<MSG
+Abriste un cofre del tesoro.<NOD<CLR<EVE0030
+
+
+#0500
+
+#0501
+<PRI<MS3
+Huevo de Dragón Núm. 01
+Error: Se encuentra anormal.
+Se requiere examinación.<NOD<END
+#0502
+<PRI<MS3<TUR
+Huevo de Dragón Núm. 02
+Se encuentra normal.<NOD<END
+#0503
+<PRI<MS3<TUR
+Huevo de Dragón Núm. 03
+Se encuentra normal.<NOD<END
+#0504
+<PRI<MS3<TUR
+Huevo de Dragón Núm. 04
+Se encuentra normal.<NOD<END
+#0505
+<PRI<MS3<TUR
+Huevo de Dragón Núm. 05
+Se encuentra normal.<NOD<END
+#0506
+<PRI<MS3
+Huevo de Dragón Núm. 06
+Error: Se encuentra anormal.
+Se requiere examinación.<NOD<END
+#0507
+<PRI<MS3<TUR
+Huevo de Dragón Núm. 07
+Se encuentra normal.<NOD<END
+#0508
+<PRI<MSG<TUR
+Huevo de Dragón Núm. 08
+Se encuentra normal.<NOD<END
+#0509
+<PRI<MSG<TUR
+Huevo de Dragón Núm. 09
+Se encuentra normal.<NOD<END
+#0510
+<PRI<MSG<TUR
+Huevo de Dragón Núm. 10
+Se encuentra normal.<NOD<END
+#0511
+<PRI<MSG<TUR
+Huevo de Dragón Núm. 11
+Se encuentra normal.<NOD<END
+#0512
+<PRI<MSG<TUR
+Huevo de Dragón Núm. 12
+Se encuentra normal.<NOD<END
+#0513
+<PRI<MSG<TUR
+Huevo de Dragón Núm. 13
+Se encuentra normal.<NOD<END
+#0514
+<PRI<MSG<TUR
+Huevo de Dragón Núm. 14
+Se encuentra normal.<NOD<END
+#0515
+<PRI<MSG<TUR
+Huevo de Dragón Núm. 15
+Se encuentra normal.<NOD<END
+#0516
+<PRI<MSG<TUR
+Huevo de Dragón Núm. 16
+Se encuentra normal.<NOD<END
+

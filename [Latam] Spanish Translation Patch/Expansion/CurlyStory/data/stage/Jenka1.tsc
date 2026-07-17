@@ -32,7 +32,7 @@ alguna parte, jovencita.<FAC1013<NOD<END
 <2MV0000
 <KEY<MSG<FAC1113
 ¡Oh, oh!<FAC1013<NOD<CLR<GIT1014<FAC1113
-¡Ese es mi perrito!<FAC1013<NOD<CLR
+¡Este es mi perrito!<FAC1013<NOD<CLR
 <GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0300:0130:0000<PSH0500<FAC1113
 Me lo devolviste.<FAC1013<NOD<FAC1113
 Qué amable de tu parte.<FAC1013<NOD<CLR<FAC1113
@@ -159,7 +159,7 @@ Definitivamente.<FAC1013<NOD<FAC1113
 Este es el mio.<FAC1013<NOD<CLR
 <GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0302:0130:0000<PSH0500<FAC1113
 Muchísimas gracias.
-Con este va tres...<FAC1013<NOD<CLR
+Con eso van tres...<FAC1013<NOD<CLR
 .....<NOD<CLR<FAC1113
 ¿Has visto alguna vez a un 
 Mimiga enfurecido?<FAC1013<NOD<CLR<FAC1113
@@ -168,9 +168,9 @@ más fuerte."<FAC1013<NOD<FAC1113
 Una gran cantidad de
 Mimigas creyeron en esto y
 decidieron comer la flor roja.<FAC1013<NOD<FAC1113
-Then, and only then did 
-they fight back against the 
-battalions of robots.<FAC1013<NOD<CLR<FAC1113
+Y así, solamente fueron a
+luchar contra un batallón de
+robots.<FAC1013<NOD<CLR<FAC1113
 Pero...<FAC1013<NOD<CLR<FAC1113
 ¿¿¿Sabes lo qué le pasa
 después a un Mimiga todo
@@ -201,7 +201,7 @@ Dos perritos más...<FAC1013<NOD<FL+0592<END
 #0222
 <KEY<MSG<FAC1113
 ¡Eres la chica popular!<FAC1013<NOD<FAC1113
-A mis perritos tampoco se
+A mis perritos tampoco
 confían a los problematicos...<FAC1013<NOD<CLR<GIT1014<FAC1113
 De verdad aprecio todo el 
 esfuerzo que haces.<FAC1013<NOD<CLR
@@ -233,7 +233,7 @@ Solo queda uno.<FAC1013<NOD<FL+0593<END
 #0223
 <KEY<MSG<FAC1113
 Así es.<FAC1013<NOD<CLR<GIT1014<FAC1113
-Ese es el último.<FAC1013<NOD<CLR
+Este es el último.<FAC1013<NOD<CLR
 <GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<PSH0500<CNP0304:0130:0000<FAC1013
 ...<FAC1013<NOD<FAC1113
 Ya me hiciste un gran favor

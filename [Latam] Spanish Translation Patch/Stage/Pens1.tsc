@@ -42,9 +42,9 @@ El texto se muestra en pantalla...<NOD<CLR<TUR
 "Kazuma: Pero, para que sepas, que si
 llego a ese punto, lo haré"<NOD<FLJ0153:0000<CLR<MSG
 ¿Permitir viajar hacia el
-Corredor Ovíparo?<YNJ0000<CLR
+Pasillo Ovíparo?<YNJ0000<CLR
 Ahora puedes viajar hacia el
-Corredor Ovíparo con el teletransporte.<NOD<FL+0153<PS+0001:6001<END
+Pasillo Ovíparo con el teletransporte.<NOD<FL+0153<PS+0001:6001<END
 #0201
 <KEY<MSG
 El texto se muestra en pantalla...<NOD<CLR
@@ -63,7 +63,7 @@ Conectado a la Zona de Arena.<NOD<END
 #0205
 <KEY<MSG
 El texto se muestra en pantalla...<NOD<CLR<TUR
-Viaja hacia el Corredor Ovíparo...
+Viaja hacia el Pasillo Ovíparo...
  - Kazuma<NOD<END
 #0210
 <KEY<MSG
@@ -346,7 +346,7 @@ aun siendo humanos.<FAC1018<NOD<END
 <KEY<CMU0000<FAO0004<TRA0024:0700:0005:0000
 #6001
 <PRI<MSG
-¿Viajar hacia Corredor Ovíparo?<YNJ0000<CLO
+¿Viajar hacia Pasillo Ovíparo?<YNJ0000<CLO
 <KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
 <WAI0100<FAO0004<FLJ0159:6011<TRA0002:0099:0005:0006
 #6002

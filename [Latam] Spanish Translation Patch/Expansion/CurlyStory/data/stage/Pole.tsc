@@ -53,13 +53,13 @@ Vaya vergüenza...<NOD<END
 #0302
 <KEY<MSG<CMU0000<MYB0002
 ¡¡Espera!!<NOD<CLR
-¡¡Esa es MI arma!!<NOD<CLR<GIT0002
+¡¡Esta es MI arma!!<NOD<CLR<GIT0002
 ¡¿Por qué la tienes?!
 ¡No la fabriqué eso para ti!<NOD<CLR
 ¡¡Devuélvemela!!<NOD<CLR<CNP0210:0150:0012<WAI0012<GIT0000<HMC
 Te han confiscado la =Estrella Polar=...<NOD<CLR
 ¡Hmph!<NOD
-Parece que la usaste de forma
+Parece que la has usado de forma
 significantiva.<NOD<CLR
 .....<NOD<CLR
 Yo...<NOD fui criado pensando que las armas

@@ -47,23 +47,23 @@ Oh, eso es terrible.<NOD<EVE0403
 
 #0404
 <KEY<MSG
-¿Pero no necesitas eso entonces?<YNJ0405<EVE0408
+¿Pero entonces no la necesitas?<YNJ0405<EVE0408
 #0405
 <KEY<MSG
-Espera, ¿de verdad quieres eso?<YNJ0409<EVE0406
+Espera, ¿de veras la quieres?<YNJ0409<EVE0406
 #0406
 <KEY<MSG
-¿DE VERDAD quieres eso sin importar qué?<YNJ0409<EVE0407
+¿DE VERITAS la quieres sin importar?<YNJ0409<EVE0407
 #0407
 <KEY<MSG
-¿Entonces no necesitas eso?<YNJ0410<EVE0409
+¿Entonces no la necesitas?<YNJ0410<EVE0409
 
 #0408
 <KEY<MSG
 Oh, ya veo.<NOD<END
 #0409
 <KEY<MSG
-No necesitas eso...<NOD<END
+No la necesitas...<NOD<END
 
 #0410
 <KEY<MSG
@@ -88,7 +88,7 @@ Eso solo una medalla normal.<NOD<CLR
 ¡Ni pienses que por un momento
 permitiré que me comas sin ni siquiera
 pelear!<NOD<CLR<CMU0004
-IT'S ON!!<NOD<CLO<FL+1564
+¡¡TE MATARÉ!!<NOD<CLO<FL+1564
 <CNP0500:0313:0000<WAI0002
 <ANP0500:0100:0000<DNP0400
 <BSL0500<END

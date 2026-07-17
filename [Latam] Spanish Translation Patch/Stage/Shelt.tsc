@@ -37,7 +37,7 @@ Parece que está inactivo...<NOD<END
 <WAI0050<MYD0002<MOV0009:0010<2MV0000
 <CMU0010<MSG<FAC0110
 ¡Muy bien!<FAC0210<WAI0160<NOD<CMU0008<CLR<FAC0110
-¡Lo hiciste genial chico!<FAC0010<NOD<FAC0110
+¡Bien hecho muchacho!<FAC0010<NOD<FAC0110
 Con solo mirar y sabía...<FAC0010<NOD<FAC0110
 ¡Sabía que lo harías!<FAC0010<NOD<CLR<FAC0010
 .....<NOD
@@ -78,7 +78,8 @@ Sí, más o menos.<FAC0018<NOD<CLO
 ¿Cómo está Sue?<FAC0018<NOD<FAC0118
 ¡¿Está bien?!<FAC0018<NOD<CLR<FAC1110
 Está en la Aldea Mimiga.<FAC1010<NOD<FAC1110
-Ese chico nos llevará allí.<FAC1010<NOD<CLO
+Este muchacho
+nos llevará allí.<FAC1010<NOD<CLO
 <WAI0020<ANP0210:0000:0000<WAI0010
 <FAC0000<MSG<FAC0118
 Oh...<FAC0018<NOD<CLO

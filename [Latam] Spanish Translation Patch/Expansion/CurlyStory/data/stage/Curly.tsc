@@ -136,10 +136,10 @@ Has ganado.<WAI0140<NOD<CLO
 <ACH0032
 <KEY<ANP0400:0006:0005<WAI0002<PRI
 <WAI0050<CMU0002
-<MSG<FAC0120
-Discúlpame...<FAC0020<NOD<FAC0120
+<MSG<FAC0119
+Discúlpame por eso...<FAC0019<NOD<FAC0119
 Pero no me dejaste
-otra opción.<FAC0020<NOD<CLR<FAC0120
+otra alternativa...<FAC0019<NOD<CLR<FAC0120
 ¿En serio crees que vine
 a eliminar esos Mimigas?<FAC0020<YNJ0410<CLR<FAC0120
 Ya veo...<FAC0020<NOD<CLR<FAC0120
@@ -148,13 +148,13 @@ Que mal...<FAC0020<NOD<PRI<CLO
 
 #0410
 <KEY<FL+0562<MSG<FAC0119
-¡Así es!<FAC0019<NOD<FAC0000<CLO
+¡Oh!<FAC0019<NOD<FAC0000<CLO
 <ANP0400:0010:0000<WAI0050
 <MSG<FAC0119
-¡También soy la aliada
-de los Mimigas!<FAC0019<NOD<CLR<FAC0119
-Ya sé, ¡no fue su culpa!<FAC0019<NOD<CLR<FAC0119
-Soy Curly,<FAC1019<NOD<FAC1119 Curly Brace.<FAC1019<NOD<FAC1119
+¿Eres el aliado de
+los Mimigas también?<FAC0019<NOD<CLR<FAC0119
+Ya sé, ¡no fue culpa de ellos!<FAC0019<NOD<CLR<FAC0119
+Soy Curly,<FAC0019<NOD<FAC0119 Curly Brace.<FAC0019<NOD<FAC0119
 ¿Lo recuerdas?<FAC0019<NOD<CLR<FAC0125
 ¿En serio no puedes
 recordar cómo te fue antes...?<FAC0025<NOD<FAC0125
@@ -168,8 +168,8 @@ robots asesinos...<FAC0020<NOD<CLO
 #0415
 <KEY<MSG<FAC0119
 ¡Oooh!<FAC0019<NOD<CLR<FAC0119
-Esa Ameralladora que
-llevas, se te ve muy increíble,
+Esta Ameralladora que
+llevas, se ve muy increíble,
 ¿cierto?<FAC0019<NOD<FAC0119
 Te lo intercambio por mi
 Estrella Polar, ¿Qué dices?<FAC0019<YNJ0420<FL+0563<FAC0000<CLR
@@ -194,7 +194,7 @@ de opinión?<FAC0019<NOD<PRI<CLO
 <FLJ0562:0515
 <MSG<FAC0119
 ¿Eh?<FAC0019<NOD<CLR<FAC0119
-Hola Señor.<FAC0019<NOD<CLR<FAC0119
+Hola Señorito.<FAC0019<NOD<CLR<FAC0119
 ¿Aún piensas que voy a
 eliminar a todo los Mimigas?<FAC0019<YNJ0510<CLR<FAC0120
 Entiendo...<FAC0020<NOD<CLR<FAC0120
@@ -205,7 +205,7 @@ Sí que juzgas muy mal...<FAC0020<NOD<END
 ¡Así es!<FAC0019<NOD<CLR<FAC0119
 ¡También soy la aliada
 de los Mimigas!<FAC0019<NOD<CLR<FAC0119
-Ya sé, ¡no fue su culpa!<FAC0019<NOD<CLR<FAC0119
+Ya sé, ¡no fue culpa de ellos!<FAC0019<NOD<CLR<FAC0119
 Soy Curly,<FAC1019<NOD<FAC1119 Curly Brace.<FAC1019<NOD<FAC1119
 ¿Estuviste cuidando a estos
 pequeños desde antes de que
@@ -222,8 +222,8 @@ robots asesinos...<FAC0020<NOD<CLO
 #0515
 <KEY<MSG<FAC0119
 ¡Oooh!<FAC0019<NOD<CLR<FAC0119
-Esa Ameralladora que
-llevas, se te ve muy increíble,
+Esta Ameralladora que
+llevas, se ve muy increíble,
 ¿cierto?<FAC0019<NOD<FAC0119
 Te lo intercambio por mi
 Estrella Polar, ¿Qué dices?<FAC0019<YNJ0520<FL+0563<FAC0000<CLR

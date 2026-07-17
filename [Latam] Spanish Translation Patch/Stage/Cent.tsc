@@ -211,7 +211,7 @@ Similar de los eventos anteriores que
 también ocurrieron en el pasado...<NOD<END
 #0311
 <PRI<MSG
-Esa chica cayó cerca del manantial.<NOD
+Esta chica cayó cerca del manantial.<NOD
 Ella no recuerda quién es...<NOD<CLR
 Probablemente sea una chatarra ahora.<NOD<FL+1044<EVE0312
 #0312
@@ -220,8 +220,8 @@ Solo una cosa...<NOD
 He oído sobre algún tipo de hongo
 especial que supuestamente ayuda a
 recuperar la memoria de quien lo coma.<NOD
-¿Me pregunto si con esto puede
-funcionar también con esa pobre chica?<NOD<END
+¿Me pregunto si con eso funcionará
+también con esta pobre chica?<NOD<END
 #0313
 <PRI<MSG
 Su memoria regresó...
@@ -305,7 +305,7 @@ ataques en aquella vez.<FAC1025<NOD<CLR
 Estoy bien.<FAC1019<NOD<FAC1119
 ¡No te preocupes por mí! <FAC1019<NOD<CLR<FAC1125
 Oh,<FAC1025<NOD<FAC1125 aquí.<FAC1025<NOD<CLR<FAC1119
-Por favor<GIT1039 quedatelo...<FAC1019<NOD<CLR<FAC0000
+Por favor,<GIT1039 quedatelo...<FAC1019<NOD<CLR<FAC0000
 <FL+1046<IT+0039Te dio el =Vinculo de Hierro=.<WAI0020<NOD<GIT0000<END
 #0325
 <PRI<MSG<FAC1119
@@ -332,7 +332,7 @@ El cohete está terminado.<FAC0022<NOD<CLR<FAC0122
 Seguro que puedes vencer
 al Doctor, ¿verdad?<FAC0022<NOD<FAC0122
 Se que puedes.<FAC0022<NOD<CLR<FAC0122
-Por favor, toma esto...<FAC0022<NOD<CLO<FAC0000<FLJ0162:0371
+Por favor, tomalo...<FAC0022<NOD<CLO<FAC0000<FLJ0162:0371
 <IT+0018<GIT1018
 <CMU0010<MSG
 Te devolvió la =Booster v0.8=.<WAI0160<NOD<RMU<CLO

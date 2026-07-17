@@ -195,8 +195,8 @@ Está dentro de la cubeta.<NOD<END
 Está dentro de la cubeta.<NOD<END
 #0262
 <PRI<MSG
-¿A qué pertenece esa llave?<NOD<CLR
-Por lo que veo, esa llave debería
+¿A qué pertenece esta llave?<NOD<CLR
+Por lo que veo, esta llave debería
 funcionar en una puerta cercana...<NOD<CLR
 Estoy hambriento...<NOD<END
 #0263
@@ -246,7 +246,7 @@ Similar de los eventos anteriores que
 también ocurrieron en el pasado...<NOD<END
 #0311
 <PRI<MSG
-Ese chico cayó cerca del manantial.<NOD
+Este chico cayó cerca del manantial.<NOD
 Él no recuerda quién es...<NOD<CLR
 Probablemente sea una chatarra ahora.<NOD<FL+1044<EVE0312
 #0312
@@ -255,8 +255,8 @@ Solo una cosa...<NOD
 He oído sobre algún tipo de hongo
 especial que supuestamente ayuda a
 recuperar la memoria de quien lo coma.<NOD
-¿Me pregunto si con esto puede
-funcionar también con esa pobre chico?<NOD<END
+¿Me pregunto si con eso funcionará
+también con este pobre chico?<NOD<END
 #0313
 <PRI<MSG
 Sí, su memoria regresó...
@@ -275,7 +275,7 @@ Pero tampoco habla tanto...<NOD<END
 <PRI<MSG<FAC0120
 Aún no me recuerdas...<FAC0020<NOD<FAC0120
 Soy yo, Curly.<FAC0020<NOD<FAC0120
-Solo que me puse esa
+Solo que me puse esta
 máscara...<FAC0020<NOD<ITJ0034:0322<END
 
 #0322
@@ -332,8 +332,7 @@ El portador de la corona fue
 herido por nuestros
 ataques en aquella vez.<FAC0025<NOD<CLR
 <FAC0119¿Y bien?
-¿Ya lo recuerdas de todo?
-¿Ya te sientes mejor?<FAC0019<NOD<CLO
+¿Ya lo recuerdas de todo?<FAC0019<NOD<CLO
 <FL+1045<RMU<FLJ1020:0323<EVE0324<END
 
 #0323
@@ -346,14 +345,15 @@ bien ahora.<FAC0019<NOD<FAC0119
 ¡Descuida, también voy
 a estar bien!<FAC0019<NOD<CLR<FAC0125
 Oh,<FAC0025<NOD<FAC0125 ¿para mí?<FAC0025<NOD<CLR<FAC0119
-¿Quieres que<GIT1039 me quede con eso?<FAC0019<NOD<CLR<FAC0000
+¿Quieres qué<GIT1039 me lo quede?<FAC0019<NOD<CLR<FAC0000
 <FL+1046<IT+0039Te dio el =Vinculo de Hierro=.<WAI0020<NOD<GIT0000<END
 
 
 #0325
 <PRI<MSG<FAC0119
 Vas a estar bien.
-¡Descansa un poco!<FAC0019<NOD<END
+¡Solo descansa un poco!
+¿Sí?<FAC0019<NOD<END
 
 #0350
 <PRI<MSG
@@ -378,7 +378,7 @@ El cohete está terminado.<FAC0022<NOD<CLR<FAC0122
 Seguro que puedes vencer
 al Doctor, ¿verdad?<FAC0022<NOD<FAC0122
 Se que puedes.<FAC0022<NOD<CLR<FAC0122
-Por favor, toma esto...<FAC0022<NOD<CLO<FAC0000<FLJ0162:0371
+Por favor, tomalo...<FAC0022<NOD<CLO<FAC0000<FLJ0162:0371
 <IT+0018<GIT1018
 <CMU0010<MSG
 Te devolvió la =Booster v0.8=.<WAI0160<NOD<RMU<CLO
@@ -387,12 +387,12 @@ Te devolvió la =Booster v0.8=.<WAI0160<NOD<RMU<CLO
 #0371
 <IT+0023<GIT1023
 <CMU0010<MSG
-Te devolvió la =Booster v2.0=.WAI0160<NOD<RMU<CLO
+Te devolvió la =Booster v2.0=.<WAI0160<NOD<RMU<CLO
 <GIT0000<EVE0375
 
 #0375
 <PRI<MSG<FAC0122
-Ya no necesitaras más esa
+Ya no necesitaras más esta
 máscara.<FAC0022<NOD<CLO<FAC0000
 <MSG<GIT1024<IT-0024<EQ-0064<FL-1020
 Se llevó la =Máscara Mimiga=.<NOD<CLO<GIT0000<EVE0380

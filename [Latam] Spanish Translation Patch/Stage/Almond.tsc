@@ -101,7 +101,7 @@ cantidad de daño.<NOD<END
 #0258
 #0300
 <KEY<MSG<FAC0119
-Es un lugar extraño.<FAC0019<NOD<FAC0119
+Esto es un lugar extraño.<FAC0019<NOD<FAC0119
 ¿Quizá esto fue una base?<FAC0019<NOD<END
 #0301
 <KEY<FLJ0823:0302<MSG<FAC1125
@@ -232,7 +232,7 @@ trajo aquí!<FAC0019<NOD<CLR<FAC0119
 ¡Tampoco actúes como si
 fueras su madre!<FAC1016<NOD<CLR<FAC1116
 ¡¿¡Tienen idea de lo qué
-es esa cosa?!?<FAC1016<NOD<CLR
+es esta cosa?!?<FAC1016<NOD<CLR
 <FAC0119¿Eh?<FAC0019<NOD<CLR<FAC1116
 ¡¡¡Esta es la razón del porqué
 ODIO A LOS ROBOTS!!!<FAC1016<NOD<CLR<FAC1116

@@ -82,7 +82,8 @@ Revisa el Cuarto Pequeño.<NOD<FL+0564<END
 teníamos un visitante!!<FAC1019<NOD<CLR<FAC1119
 Sí, ¡sé lo que quieres hacer!<FAC1019<NOD<FAC1119
 ¡Pero despierta!<FAC1019<NOD<FAC1119
-¡Esas no son el enemigo!<FAC1019<NOD<FAC1119
+¡Esos Mimigas no son
+el enemigo!<FAC1019<NOD<FAC1119
 ¡¡Son inofensivos!!<FAC1019<NOD<CLR<FAC1119
 Lo siento pero...<FAC1019<NOD<CLO
 <WAI0020<SOU0004<CNP0400:0118:0002<DNP0500
@@ -133,7 +134,7 @@ Que malo eres...<FAC1020<NOD<PRI<CLO
 <MSG<FAC1119
 ¿Eres el aliado de
 los Mimigas también?<FAC1019<NOD<CLR<FAC1119
-Ya sé, ¡no fue su culpa!<FAC1019<NOD<CLR<FAC1119
+Ya sé, ¡no fue culpa de ellos!<FAC1019<NOD<CLR<FAC1119
 Soy Curly,<FAC1019<NOD<FAC1119 Curly Brace.<FAC1019<NOD<FAC1119
 Me he estado cuidando estos
 pequeños desde antes de que
@@ -142,15 +143,15 @@ En serio no me puedo
 recordar cómo me fue antes...<FAC1025<NOD<FAC1125
 Tal vez tenga, amnesia,
 supongo.<FAC1025<NOD<CLR<FAC1120
-Pero lo que sí sé, es que
-probablemente yo era uno de
+Pero eso sí, yo era
+probablemente uno de
 los robots asesinos...<FAC1020<NOD<CLO
 <EVE0415
 #0415
 <KEY<MSG<FAC1119
 ¡Oooh!<FAC1019<NOD<CLR<FAC1119
-Esa Estrella Polar que llevas,
-se te ve muy obsoleta.<FAC1019<NOD<FAC1119
+Esta Estrella Polar que llevas,
+se ve muy obsoleta.<FAC1019<NOD<FAC1119
 Te lo intercambio por mi
 Ametralladora, ¿Qué dices?<FAC1019<YNJ0420<FL+0563<FAC0000<CLR
 <TAM0002:0004:0100<GIT0002Le diste a Curly la =Estrella Polar=.<NOD<CLR
@@ -179,7 +180,7 @@ Sí que eres malo...<FAC1020<NOD<END
 ¡Oooh!<FAC1019<NOD<CLR<FAC1119
 ¿También eres aliado de los
 Mimigas?<FAC1019<NOD<CLR<FAC1119
-Ya sé, ¡no tiene nada de malo!<FAC1019<NOD<CLR<FAC1119
+Ya sé, ¡no fue culpa de ellos!<FAC1019<NOD<CLR<FAC1119
 Soy Curly,<FAC1019<NOD<FAC1119 Curly Brace.<FAC1019<NOD<FAC1119
 Me he estado cuidando estos
 pequeños desde antes de que
@@ -195,8 +196,8 @@ los robots asesinos...<FAC1020<NOD<CLO
 #0515
 <KEY<MSG<FAC1119
 ¡Oooh!<FAC1019<NOD<CLR<FAC1119
-Esa Estrella Polar que llevas,
-se te ve muy obsoleta.<FAC1019<NOD<FAC1119
+Esta Estrella Polar que llevas,
+se ve muy obsoleta.<FAC1019<NOD<FAC1119
 Te lo intercambio por mi
 Ametralladora, ¿Qué dices?<FAC1019<YNJ0520<FL+0563<FAC0000<CLR
 <TAM0002:0004:0100<GIT0002Le diste la =Estrella Polar= a Curly.<NOD<CLR

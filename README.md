@@ -8,6 +8,8 @@ There may still be a few grammatical errors to fix and some reworks still to be 
 
 And don't worry, the updates will continue. There are still other expansions and mods to be translated.
 
+Update: The "Curly Story" Expansion is now fully translated, yay!
+
 ---
 ## Features:
 
@@ -53,7 +55,7 @@ Inspired by Aeon Genesis Translation Patch.
 ---
 ## Notes before installation:
 
-Before downloading the file, make sure you've purchased **Cave Story+** on **Steam** and that you're using the **latest version (build 26-06-09)**.
+Before downloading the file, make sure you've purchased **Cave Story+** on **Steam** and that you're using the **latest version (build 26-06-30)**.
 
 If you purchased it from other stores like Epic Games or GOG and it includes the **2026 version**, then it might work as well.
 
@@ -79,14 +81,8 @@ Create the file `mods.txt` (if you don't have it) in the path I mentioned, and t
 + [Latam] Spanish Translation Patch
 ```
 
-#### 4. StringTable (Optional).
-There is a file called `StringTable.sta` that you need to move to the game's data folder if you want to translate some of the text in the game menu: `steamapps\common\Cave Story+\data`
-
-And that's because it can't be modded via mods folder...
-
-It's optional, but experimental, use it at your own risk...
-
-**Don't forget to back up the original file before replacing it!**
+#### 4. StringTable.
+Update: `StringTable.sta` can now be overridden with the version from 26-06-30, so I've moved the file to the main folder.
 
 <details>
 <summary>Details</summary>

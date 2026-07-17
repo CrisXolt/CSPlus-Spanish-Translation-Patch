@@ -42,8 +42,7 @@ Parece que está inactivo...<NOD<END
 <WAI0050<MYD0002<MOV0009:0010<2MV0000
 <CMU0010<MSG<FAC0110
 ¡Muy bien!<FAC0210<WAI0160<NOD<CMU0008<CLR<FAC0110
-¡Lo hiciste genial
-señorita!<FAC0010<NOD<FAC0110
+¡Bien hecho señorita!<FAC0010<NOD<FAC0110
 Con solo mirar y sabía...<FAC0010<NOD<FAC0110
 ¡Sabía que lo harías!<FAC0010<NOD<CLR<FAC0010
 .....<NOD
@@ -58,7 +57,7 @@ del Doctor, pero entonces...<FAC0010<NOD<FAC0110
 Fui teletransportado aquí.<FAC0010<NOD<FAC0110
 Sentia que me iba a morir
 de hambre total...<FAC0010<NOD<FAC0110
-¡Eres todo una salvavidas!<FAC0010<NOD<CLR<FAC0110
+¡Eres toda una salvavidas!<FAC0010<NOD<CLR<FAC0110
 Por cierto...<FAC0010<NOD<CLR<FAC0110
 ¿Has oído de un lugar
 llamado Aldea Mimiga?<FAC0010<NOD<CLR<FAC1119
@@ -70,8 +69,9 @@ Espera...
 Ya veo...<FAC0010<NOD<FAC0110
 Así que tú viniste aquí en
 lugar de Sue a buscarme.<FAC0010<NOD<CLR<FAC1119
-¡Muy bien!<FAC1019<NOD<CLR<FAC0110
-¡Vamos!
+¡Así es!<FAC1019<NOD<CLR<FAC0110
+Entiendo.<FAC0010<NOD<FAC0110
+¡Entonces vamos!
 ¡Llévame a la Aldea!<FAC0010<NOD<SOU0043<ANP0102:0001:0000<WAI0030<ANP0210:0000:0002<CLR
 <FAC1010?!<NOD<CLO<FAC0000
 <CNP0303:0113:0000<ANP0303:0030:0000<WAI0100
@@ -87,7 +87,8 @@ Sí, más o menos.<FAC0018<NOD<CLO
 ¿Cómo está Sue?<FAC0018<NOD<FAC0118
 ¡¿Está bien?!<FAC0018<NOD<CLR<FAC1110
 Está en la Aldea Mimiga.<FAC1010<NOD<FAC1110
-Esa chica nos llevará allí.<FAC1010<NOD<CLO
+Esta chica
+nos llevará allí.<FAC1010<NOD<CLO
 <WAI0020<ANP0210:0000:0000<WAI0010
 <FAC0000<MSG<FAC0118
 Oh...<FAC0018<NOD<CLO

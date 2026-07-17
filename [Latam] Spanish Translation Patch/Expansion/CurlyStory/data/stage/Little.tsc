@@ -22,7 +22,7 @@
 <MSG
 ¡Hogar dulce hogar!<NOD<CLR
 Vaya, vaya...<NOD
-Esa espada que llevas es hermosa.
+Esta espada que llevas es hermosa.
 ¿Qué tal si lo intercambiamos por
 mi esplendida arma?<YNJ0201<FL+1372<CLR
 <TAM0009:0012:0000<GIT0009Le diste la =Espada=.<NOD<CLR
