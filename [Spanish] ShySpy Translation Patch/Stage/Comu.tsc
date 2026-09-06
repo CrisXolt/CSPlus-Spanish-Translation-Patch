@@ -1,0 +1,73 @@
+
+#0090
+<MNA<FLJ0341:0095<CMU0009<FAI0000<END
+#0091
+<MNA<FLJ0341:0096<CMU0009<FAI0001<END
+#0092
+<MNA<FLJ0341:0097<CMU0009<FAI0002<END
+#0093
+<MNA<FLJ0341:0098<CMU0009<FAI0003<END
+#0094
+<MNA<FLJ0341:0099<CMU0009<FAI0004<END
+#0095
+<CMU0028<FAI0000<END
+#0096
+<CMU0028<FAI0001<END
+#0097
+<CMU0028<FAI0002<END
+#0098
+<CMU0028<FAI0003<END
+#0099
+<CMU0028<FAI0004<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0011:0094:0043:0034
+#0200
+<FLJ0327:0201
+<KEY<MSG<FAC1107La llave de la Casa de
+Arthur...<FAC1007<NOD<FAC1107
+Creo que hay al menos otra.<FAC1007<NOD<CLR<FAC1107
+Maldita Toroko, actuando
+como si no lo supieras...<FAC1007<NOD<CLR<FAC1107Bueno, quizá Jack sepa
+dónde encontrarla...<FAC1007<NOD<END
+#0201
+<KEY<MSG<FAC1107Toroko...
+No me lo puedo creer...<FAC1007<NOD<CLR<FAC1107
+El hermano mayor de Toroko,
+Arthur, era un guerrero
+fabuloso.<FAC1007<NOD<FAC1107
+Pero fue asesinado por uno
+de los esbirros del Doctor.<FAC1007<NOD<FAC1107
+Y ahora, yo... Yo no he
+podido protegerla.<FAC1007<NOD<END
+#0210
+<KEY<MSG<FAC0109Hay dos llaves de la
+Casa de Arthur.<FAC0009<NOD<FAC0109
+Toroko tiene una.<FAC0009<NOD<FAC0109
+La otra está escondida en
+el cementerio Mimiga.<FAC0009<NOD<END
+#0220
+<KEY<MSG<FAC1109Arthur, el hermano de
+Toroko, luchó contra un
+monstruo rojo horrible...<FAC1009<NOD<CLR<FAC1109El terrorífico demonio de
+esta isla que se alimenta
+de Mimigas.<FAC1009<NOD<CLR<FAC1109No es el Doctor, es...
+Otra cosa.<FAC1009<NOD<FAC1109
+Ese demonio ha vivido en
+esta isla durante siglos.<FAC1009<NOD<CLR<FAC1109Vino aquí, a nuestro
+pueblo,<FAC1009<NOD<FAC1109 pero Arthur lo
+derrotó él solo.<FAC1009<NOD<FAC1109
+Su galante figura
+defendiendo nuestro pueblo
+sin ayuda alguna...<FAC1009<NOD<CLR<FAC1109Nunca lo olvidaré.<FAC1009<NOD<CLR<FAC1109Puede que el Doctor lo
+haya matado, pero fue
+un verdadero héroe.<FAC1009<NOD<END
+#0300
+<ITJ0008:0301
+<KEY<MSG*Crujido* *¡Clac!*<NOD<FLJ0442:0000<CLRVes algo tras las llamas.<NOD<END
+#0301
+<KEY<GIT1008<MSG¿Quieres usar el =Zumo de Medusa=?<YNJ0000<CLO<GIT0000
+<IT-0008<ANP0300:0010:0000<WAI0030<FLJ0442:0302<FL+0442
+<MSGEncuentras algo en las cenizas...<NOD<CLR<GIT0007<AM+0007:0100
+<CMU0010¡Has conseguido la =Burbuja=!<WAI0160<NOD<CLO<RMU<DNP0300<END
+#0302
+<KEY<DNP0300<END

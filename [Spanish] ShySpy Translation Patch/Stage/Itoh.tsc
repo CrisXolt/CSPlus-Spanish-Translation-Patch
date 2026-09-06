@@ -1,0 +1,74 @@
+#0090
+<MNA<CMU0008<FAI0000<END
+#0091
+<MNA<CMU0008<FAI0001<END
+#0092
+<MNA<CMU0008<FAI0002<END
+#0093
+<MNA<CMU0008<FAI0003<END
+#0094
+<KEY<FLJ1000:0095<MNA<CMU0008<FAI0004<EVE0200
+#0095
+<MNA<CMU0008<FAI0004<END
+#0100
+<KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0053:0094:0075:0005
+#0110
+<KEY<SOU0011<ANP0110:0000:0002<FAO0000<TRA0056:0090:0118:0083
+#0200
+<KEY<FL+1000<FL+1025<FL+1038<MYD0002<WAI0050
+<ANP0400:0010:0000<MSG
+¡Uwah!<NOD<CLO
+<ANP0400:0020:0000<WAI0050<END
+#0400
+<KEY
+<FLJ1003:0404
+<FLJ1102:0403
+<FLJ1002:0402
+<FLJ1001:0401<FL+1001<FL+1038
+<2MV0000
+<ANP0400:0010:0000
+<MSG¡Eyaahh!<MYB0002<NOD<CLR¡No me mates!<NOD
+¡Soy humano! ¡Sólo he sido
+transformado mágicamente en
+Mimiga!<NOD
+¡Soy humano!<NOD¿Huh?<NOD<CLR.....<NOD<CLR<ANP0400:0000:0000<FAC0128¿Qué ocurre?
+¿No eres uno de esos
+robots asesinos?<FAC0028<NOD<FAC0128
+¡Me habías asustado,
+apareciendo así tan
+de repente!<FAC0028<NOD<CLR<FAC0128¿No serás ese salvador
+del que hablan?<FAC0028<NOD<END
+#0401
+<KEY<FL+1002
+<MSG<FAC0128Soy Itoh, uno de los
+humanos que vinieron a
+esta isla a investigar.<FAC0028<NOD<FAC0128
+Esa bruja de Misery me
+transformó en esto...<FAC0328<NOD<FAC0128
+Conseguí escapar, pero...
+Mira como estoy.<FAC0028<NOD<CLR<FAC0128¡Y ahora estoy atrapado
+aquí!<FAC0028<NOD<CLR<FAC0128Has venido escalando por
+el exterior, ¿verdad?<FAC0028<NOD<FAC0128
+Soy un ingeniero de
+talento considerable,<FAC0028<NOD<FAC0128
+pero le tengo mucho
+miedo a las alturas...<FAC0028<NOD<CLR<FAC0128Oh, pobre de mí...<FAC0028<NOD<CLR<FAC0128Nunca debería haber
+venido a esta isla.<FAC0028<NOD<END
+#0402
+<KEY<MSG<FAC0128No, no, seguro que no
+necesitas a un inútil y
+patético hombrecillo como yo.<FAC0028<NOD<END
+#0403
+<KEY<MSG<FL+1003<FAC0128¿Itoh?<FAC0028<NOD<FAC0128 Sí, soy yo.<FAC0028<NOD<CLR<FAC0128¿Qué dices?<FAC0028<NOD<FAC0128
+¿Sakamoto está haciendo
+un cohete?<FAC0028<NOD<CLR<FAC0128Así que sigue viva...<FAC0028<NOD<FAC0128
+Qué mujer más dura.<FAC0028<NOD<FAC0128
+No puedo decir lo
+mismo de mí...<FAC0028<NOD<CLR<FAC0128Está bien.<FAC0028<NOD<FAC0128
+Toma esto.<FAC0028<NOD<FAC0000<GIT1027<IT+0027<CLR
+<CMU0010Conseguiste el =Controlador=.<WAI0160<NOD<RMU
+<CLR<FAC0128Creo que esto es lo
+que está buscando.<FAC0028<NOD<GIT0000<EVE0404
+#0404
+<KEY<MSG<FAC0128Dale recuerdos a la
+Sra. Sakamoto de mi parte.<FAC0028<NOD<END

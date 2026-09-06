@@ -1,0 +1,289 @@
+
+#0090
+<MNA<CMU0002<FAI0000<END
+#0091
+<MNA<CMU0002<FAI0001<END
+#0092
+<MNA<CMU0002<FAI0002<END
+#0093
+<MNA<CMU0002<FAI0003<END
+#0094
+<MNA<FLJ0341:0095<CMU0002<FAI0004<END
+#0095
+<CMU0014<FAI0004<END
+#0098
+<CMU0014
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+#0099
+<KEY<MNA<FLJ0341:0098<CMU0002
+<ANP0500:0001:0000<FAI0004
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<END
+#0100
+<PRI<FAO0004<TRA0010:0094:0018:0032
+#0101
+<PRI<FAO0004<TRA0012:0094:0037:0011
+#0102
+<FLJ0155:0103<PRI<SOU0011<DNP0102<FAO0004<TRA0011:0094:0016:0053
+#0103
+<PRI<SOU0011<CMU0000<DNP0102<FAO0004<TRA0011:0400:0016:0053
+#0200
+<FLJ0159:0205
+<FLJ0158:0204
+<FLJ0157:0203
+<FLJ0325:0202
+<FLJ0154:0201
+<KEY<MSGUnas palabras iluminan la
+pantalla...<NOD<CLR<TUR"...Aunque, si lo necesito,
+quizá lo haré..."<NOD<FLJ0153:0000<CLR<MSG¿Quieres permitir el acceso
+al Pasillo Oval?<YNJ0000<CLRAcceso al Pasillo Oval permitido.<NOD<FL+0153<PS+0001:6001<END
+#0201
+<KEY<MSGUnas palabras iluminan la
+pantalla...<NOD<CLR
+<TURConectando con Villavergel...<NOD<END
+#0202
+<KEY<MSG<TUR
+Conectado con Villavergel.<NOD<END
+#0203
+<KEY<MSG<TUR
+Introduce un comando.<NOD<END
+#0204
+<KEY<MSG<TUR
+Conectado con Zona Desértica.<NOD<END
+#0205
+<KEY<MSGUnas palabras iluminan la
+pantalla...<NOD<CLR<TUR
+Ven al Pasillo Oval.
+                           --Kazuma<NOD<END
+#0210
+<KEY<MSG¿Flores...?<NOD<END
+#0300
+#0301
+#0303
+#0500
+<KEY<MSGUn teletransportador.<NOD<SLP<NOD<END
+#0600
+<FLJ0325:0601
+<KEY<MSG<FAC0109Bienvenido de nuevo.<FAC0009<NOD<CLR<FAC0109Sue ha vuelto.<FAC0009<NOD<FAC0109
+La hemos encerrado en una
+jaula ahí fuera.<FAC0009<NOD<FAC0109
+Cuando los esbirros del
+Doctor vengan, vamos a
+intentar recuperar a
+Toroko.<FAC0009<NOD<FAC0109
+A cambio de Sue, claro.<FAC0009<NOD<CLR<FAC0109No es que esté bien,
+ya lo sé, pero Toroko
+es una de los nuestros.<FAC0009<NOD<FAC0109
+Eso es lo que ocurre
+cuando actúas solo.<FAC0009<NOD<END
+#0601
+<KEY<MSG<FAC0109Espero que Toroko esté 
+bien...<FAC0009<NOD<END
+#0620
+<KEY<CMU0000<FL+0156<FL+0444
+<ANP0500:0001:0000
+<WAI0002<CNP0622:0055:0000<WAI0010
+<FAI0004
+<CNP0621:0113:0000
+<ANP0621:0030:0000<WAI0100
+<MSG<FAC0118Oooohh...<FAC0018<NOD<CLR<FAC0110¿...Estás bien?<FAC0010<NOD<CLO<FAC0000
+<WAI0030<ANP0621:0000:0002
+<MSG<FAC1118...Mmm.<FAC1018<NOD<CLR<FAC1118Mi vida pasó por
+delante de mis ojos.<FAC1018<NOD<CLR<FAC0010.....<NOD<CLO<FAC0000
+<ANP0500:0000:0000<WAI0030
+<ANP0102:0000:0002<SOU0011
+<CNP0625:0042:0000
+<MSG<FAC0101¡¡Kazuma!!<FAC0001<NOD<ANP0622:0000:0002<CLR<FAC0101¡Y el Profesor Booster!<FAC0001<NOD<CLR<FAC1118¡Oh!<FAC1018<NOD<CLO<FAC0000
+<ANP0621:0003:0002<WAI0080
+<ANP0621:0000:0002
+<MSG<FAC1118¡¿Estáis todos bien?!<FAC1018<NOD<CLR<FAC0101Bueno, más o menos.<FAC0001<NOD<CLO<FAC0000
+<CNP0624:0061:0000
+<ANP0625:0003:0000<WAI0016
+<ANP0624:0008:0000<WAI0016
+<ANP0624:0000:0000
+<SOU0011<ANP0102:0000:0000<WAI0048
+<ANP0625:0000:0000
+<MSG<FAC0007.....<NOD<CLR<FAC1118¿Quién es ese Mimiga?<FAC1018<NOD<CLO<FAC0000
+<WAI0030
+<ANP0625:0000:0002<WAI0030
+<ANP0624:0000:0002<WAI0050
+<ANP0625:0000:0000<WAI0020
+<MSG<FAC0101Es King.<FAC0001<NOD<CLR<FAC0101Un amigo mío del pueblo.<FAC0001<NOD<CLR<FAC0101Aquí habían antes muchos
+Mimigas.<FAC0001<NOD<FAC0101
+Sin embargo, casi todos
+ellos han sido capturados
+por los esbirros del
+Doctor.<FAC0001<NOD<CLR<FAC0101Incluso King ha
+perdido amigos...<FAC0001<NOD<CLO
+<CMU0002
+<ANP0500:0001:0000
+<CNP0301:0112:0002<WAI0100
+<ANP0500:0000:0000
+<MYD0002<SMC<DNP0301<FL-0157<END
+#0621
+<KEY<FLJ0158:0631<MSG<FAC1118Los planes del Doctor van
+justo como él había
+planeado...<FAC1018<NOD<FAC1118
+Si no hacemos algo
+pronto...<FAC1018<NOD<END
+#0622
+<KEY<FLJ0158:0632<MSG<FAC1110Gracias por tu ayuda.<FAC1010<NOD<CLR<FAC1110Nuestro transporte no
+sobrevivió, pero al menos
+nosotros lo hemos hecho.<FAC1010<NOD<END
+#0624
+<KEY<FLJ0158:0634<MSG<FAC1107Toroko como un arma
+mortal...<FAC1007<NOD<CLR<FAC1107
+¡No! ¡Nunca lo permitiré!<FAC1007<NOD<END
+#0625
+<KEY<FLJ0158:0635<2MV0001<MYB0000<WAI0030<MYD0000<ANP0625:0000:0002<MSG
+<FAC1101¡Bienvenido de nuevo!<FAC1001<NOD<CLR<FAC1101Parece que te debo otra.<FAC1001<NOD<FAC1101
+Con la ayuda de mi hermano,<FAC1001<NOD<FAC1101
+deberíamos ser capaces de
+conseguir la contraseña
+para eclosionar ese huevo.<FAC1001<NOD<CLO<FAC0000
+<ANP0625:0003:0000<WAI0008
+<ANP0625:0000:0000<MSG<FAC0101¡Booster!<FAC0001<NOD<CLR<FAC0101¿Podemos llevarnos a este
+chico cuando nos vayamos?<FAC0001<NOD<CLO<FAC0000
+<ANP0622:0003:0002<WAI0015
+<ANP0622:0005:0002
+<MSG<FAC1018<CMU0000.....<NOD<CLR
+<FAC1110Profesor.<FAC1010<NOD<CLR<FAC0001???<NOD<CLR<FAC1118Sue, querida...<FAC1018<NOD<FAC1118
+Tenemos que suspender
+nuestra huida.<FAC1018<NOD<CLR<FAC1118El Doctor ha localizado
+las flores rojas.<FAC1018<NOD<ANP0624:0000:0000<CLR
+<FAC0007!!!<NOD<CLR<FAC0101¿Qué?<FAC0001<NOD<CLR<FAC1118Sólo es cuestión de
+tiempo que las consiga.<FAC1018<NOD<FAC1118
+La localización es la
+Zona Desértica.<FAC1018<NOD<CLR<FAC1118Al parecer, las flores
+están en algún sitio de la
+Zona Desértica.<FAC1018<NOD<CLR
+<FAC0107¿La Zona Desértica?<FAC0007<NOD<CLR<FAC0107¿Quieres decir que allí 
+encontraremos al Doctor?<FAC0007<NOD<CLR<FAC1118Bueno,<FAC1018<NOD<FAC1118 más bien a uno
+de sus sirvientes.<FAC1018<NOD<FAC1118
+Si no destruimos esas
+flores antes de que las
+consigan...<FAC1018<NOD<CLR<FAC1118Sin embargo, la
+Zona Desértica es
+extremadamente peligrosa.<FAC1018<NOD<FAC1118
+Incluso aunque lleguemos
+a salvo,<FAC1018<NOD<FAC1118 no es seguro
+que volvamos vivos...<FAC1018<NOD<CLR
+<FAC0107¿Estás tirando la toalla?<FAC0007<NOD<CLR<FAC1118En realidad...<FAC1018<NOD<CLR<FAC1118Hay uno de nosotros
+que haría este trabajo
+perfectamente.<FAC1018<NOD<CLO<FAC0000
+<ANP0621:0003:0002<ANP0625:0003:0000<WAI0020
+<ANP0621:0000:0002<WAI0002<ANP0625:0000:0002
+<MSG<FAC1118Eres tú.<FAC1018<NOD<CLR
+<CMU0002<FAC1110¿...Quién ES él?<FAC1010<NOD<CLR<FAC1118De hecho...<FAC1018<NOD<CLR<FAC1118Éste es uno de los robots
+armados de reconocimiento
+que enviaron a esta isla<FAC1018<NOD<FAC1118
+hace 10 años.<FAC1018<NOD<CLR<FAC1110¡¿Un robot?!<FAC1010<NOD<CLR<FAC1118Creí que todos
+habían sido aniquilados,<FAC0018<ANP0621:0000:0000<NOD<FAC0118
+pero no estaba seguro.<FAC0018<NOD<FAC0118
+Era completamente posible
+que uno de ellos hubiese...<FAC0018<NOD<CLR<FAC1110Profesor.<FAC1010<NOD<FAC1110
+He conectado con la
+Zona Desértica.<FAC1110<NOD<CLR<FAC0118Ya veo.<FAC0018<NOD<CLO<FAC0000
+<ANP0622:0003:0000<WAI0015
+<ANP0622:0000:0002
+<ANP0621:0000:0002<WAI0030<MSG<FAC1118Eres el más adecuado
+para explorar esta isla.<FAC1018<NOD<CLR<FAC1118Por favor.
+Échanos una mano.<FAC1018<NOD<FL+0158<PS+0003:6003<END
+#0631
+<KEY<MSG<FAC1118Puedes llegar a la
+Zona Desértica usando el
+teletransportador.<FAC1018<NOD<FAC1118
+Encuentra las flores rojas
+y quémalas todas.<FAC1018<NOD<END
+#0632
+<KEY<MSG<FAC1110Así que eres uno de los...<FAC1010<NOD<CLR<FAC1110No me había dado cuenta.<FAC1010<NOD<CLR<FAC1110Vaya, vaya, sí que estás
+bien construido.<FAC1010<NOD<END
+#0634
+<KEY<MSG<FAC0107La Zona Desértica...<FAC0007<NOD<END
+#0635
+<KEY<MSG<FAC1101Si te deshaces de las
+flores, podremos prevenir
+la guerra por ahora.<FAC1001<NOD<CLR<FAC1101Es una gran
+responsabilidad.<FAC1001<NOD<END
+#0650
+<KEY<MSG<FAC1118Llévate a Sue contigo
+y escapad de esta isla...<FAC1018<NOD<FAC1118
+Te lo ruego...<FAC1018<NOD<END
+#0651
+<DNP0651<KEY<MYD0000
+<ANP0500:0001:0000<WAI0050
+<MNP0650:0009:0007:0002
+<CNP0650:0113:0002
+<ANP0650:0030:0002<WAI0100
+<ANP0650:0000:0002
+<ANP0500:0000:0000<WAI0050
+<ANP0650:0003:0002<WAI0064
+<ANP0650:0000:0000
+<MSG
+<FAC0018.....<NOD<CLO<FAC0000
+<ANP0650:0000:0002<WAI0050
+<MSG<FAC1118Sólo estás tú...<FAC1018<NOD<CLR<FAC1118...El Doctor ha adquirido
+las flores rojas.<FAC1018<NOD<CLR<FAC1118...Todos los Mimigas de
+la isla han caído en
+sus manos.<FAC1018<NOD<CLR<FAC1118La tragedia se ha vuelto
+inevitable...<FAC1018<NOD<CLR<FAC1118Al menos debería haber
+dejado escapar a Sue<FAC1018<NOD<FAC1118
+cuando tuve la
+oportunidad...<FAC1018<NOD<CLO<FAC0000
+<ANP0650:0003:0002<WAI0022
+<ANP0650:0005:0002
+<IT+0023<FL+0744<FL+0162<GIT1023
+<MSG
+Conseguiste el =Booster v2.0=.<WAI0030<NOD<CLO<GIT0000
+<ANP0650:0000:0002
+<MSG<FAC1118Ésta es mi última petición.<FAC1018<NOD<CLR<FAC1118Si vuelves a ver a Sue,<FAC1018<NOD<FAC1118
+quiero que escapes
+con ella de esta isla.<FAC1018<NOD<CLR<FAC1118Esa chica es la hija
+de Sakamoto,<FAC1018<NOD<FAC1118
+y ella nunca quiso
+venir aquí.<FAC1018<NOD<FAC1118
+Pero no podíamos dejar
+a la niña sola,<FAC1018<NOD<FAC1118
+así que no tuvo otra
+opción que venir con
+nosotros.<FAC1018<NOD<FAC1118
+Te lo ruego.<FAC1018<NOD<CLR<FAC1118Escapa de esta isla
+junto a Sue.<FAC1018<NOD<CLO
+<FL-0160<FL+0161<FL+0741<PS+0004:6004<END
+#0660
+<KEY<FLJ1020:0661<MSG<FAC1118Llévate a Sue contigo
+y escapad de esta isla...<FAC1018<NOD<FAC1118
+Te lo ruego...<FAC1018<NOD<END
+#0661
+<KEY<MSG<FAC1118Siento mucho todo el caos
+que ha sufrido vuestra
+isla.<FAC1018<NOD<CLR<FAC1118Los humanos tenemos toda
+la culpa.<FAC1018<NOD<END
+#0700
+<KEY<CMU0000<FAO0004<TRA0024:0700:0005:0000
+#6001
+<PRI<MSG¿Quieres ir al Pasillo Oval?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<FLJ0159:6011<TRA0002:0099:0005:0006
+#6002
+<PRI<MSG¿Quieres ir a Villavergel?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0006:0098:0004:0018
+#6003
+<PRI<MSG¿Quieres ir a la Zona Desértica?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0010:0099:0036:0033
+#6004
+<PRI<MSG¿Quieres ir al Laberinto?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0043:0099:0013:0034
+#6005
+<PRI<MSG¿Quieres ir a la Plantación?<YNJ0000<CLO
+<KEY<CNP0300:0111:0002<HMC<WAI0060<ANP0500:0001:0000
+<WAI0100<FAO0004<TRA0060:0099:0012:0009
+#6011
+<KEY<TRA0049:0099:0007:0006

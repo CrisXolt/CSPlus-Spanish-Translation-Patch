@@ -1,0 +1,185 @@
+
+#0090
+<MNA<CMU0019<FAI0000<END
+#0091
+<MNA<CMU0019<FAI0001<END
+#0092
+<MNA<CMU0019<FAI0002<END
+#0093
+<MNA<CMU0019<FAI0003<END
+#0094
+<MNA<CMU0019<FAI0004<END
+#0100
+<PRI<SOU0011<DNP0100<FAO0004<TRA0010:0094:0035:0026
+#0200
+<KEY
+<ITJ0014:0201
+<FLJ0594:0214
+<FLJ0593:0213
+<FLJ0592:0212
+<FLJ0591:0211
+<FLJ0590:0210
+<KEY<MSG<FAC1113¿Quién eres tú...?<FAC1013<NOD<FAC1113
+No recuerdo haberte
+visto antes por aquí.<FAC1013<NOD<END
+#0201
+<FLJ0594:0224
+<FLJ0593:0223
+<FLJ0592:0222
+<FLJ0591:0221
+<FLJ0590:0220
+<2MV0000
+<KEY<MSG<FAC1113¡Oh, vaya!<FAC1013<NOD<CLR<GIT1014<FAC1113¡Mi preciado cachorro!<FAC1013<NOD<CLR
+<GIT0000<FAC0000Le diste el =Cachorro=.<NOD<CLR<CNP0300:0130:0000<PSH0500<FAC1113¿Lo recogiste por mí?<FAC1013<NOD<FAC1113
+Muchas gracias.<FAC1013<NOD<CLR<FAC1113¿Qué dices?<FAC1013<NOD<FAC1113
+¿ =Flores rojas= ?<FAC1013<NOD<FAC0000<CLR<CMU0000<MSG¡Huzzah!<NOD<CLO
+<CNP0400:0009:0000<WAI0010<MYD0002<CNP0300:0132:0002<ANP0300:0100:0002<WAI0120<CMU0011
+<CNP0400:0012:0000
+<MSG<FAC0105¿Cómo te va, Jenka?<FAC0005<NOD<CLR<FAC1113Ah, Balrog.<FAC1013<NOD<ANP0300:0120:0002<FAC1113
+Al parecer a ti te va bien.<FAC1013<NOD<FAC1113
+¿Qué tal le va a la
+idiota de mi hija?<FAC1013<NOD<CLR<FAC0014¡Jee-jee-jee!<NOD<FAC0105
+¿Idiota? ¿Te refieres a
+Misery?<FAC0005<NOD<FAC0105
+Está bien, bastante bien.<FAC0005<NOD<CLR<FAC0105Un nuevo amo ha aparecido.<FAC0005<NOD<FAC0014
+¡¡Esta vez, la tierra
+será nuestra!!<NOD<CLR<FAC1113Así que otra vez
+planeáis...<FAC1013<NOD<CLR<FAC0105No estoy aquí para
+darte problemas.<FAC0005<NOD<FAC0105
+Sólo he venido a conseguir
+la llave del almacén.<FAC0005<NOD<CLR<FAC0105¡Aquél en el que están
+guardadas las semillas
+de flores rojas!<FAC0005<NOD<CLR<FAC1013.....<NOD<CLR<FAC1113Vaya...<FAC1013<NOD<FAC1113
+¿De qué diablos me
+estás hablando?<FAC1013<NOD<CLR
+<ANP0400:0030:0000<FAC0014¡Jojo!<NOD<CLR¡¿Con que haciéndote
+la loca, eh?!<NOD<CLR<FAC0005.....<NOD<CLR<FAC0105Ya sé lo que pasa.<FAC0005<NOD<FAC0105
+Intentas traicionarnos.<FAC0005<NOD<CLO<CMU0000
+<WAI0050<FAC0105<MSGLo lamentarás.<FAC0005<NOD<CLO
+<FAC0000<ANP0400:0010:0000<WAI0200<CMU0019
+<MSG<FAC1113<CNP0300:0130:0000Un nuevo amo...<FAC1013<NOD<FAC1113
+Eso no es nada bueno.<FAC1013<NOD<MYD0200<CLR.....<NOD<CLR<FAC1113Hay cuatro más cachorros.<FAC1013<NOD<FAC1113
+Cuatro más de mis
+cachorros...<FAC1013<NOD<CLR<FAC1113Y me duelen mucho las
+caderas.<FAC1013<NOD<CLR<FAC1113¿Podría pedirte esta
+anciana que le ayudases
+a buscar a sus cachorros?<FAC1013<NOD<FL+0590<END
+#0210
+<KEY<MSG<FAC1113Aún quedan cuatro...<FAC1013<NOD<FAC1113
+¿Podría pedirte esta
+anciana que le ayudases
+a buscar a sus cachorros?<FAC1013<NOD<END
+#0211
+<KEY<MSG<FAC1113Aún quedan tres.<FAC1013<NOD<FAC1113
+Buena suerte.<FAC1013<NOD<END
+#0212
+<KEY<MSG<FAC1113Creo que mis pequeños
+te han cogido cariño.<FAC1013<NOD<CLR<FAC1113
+Aún quedan dos...<FAC1013<NOD<END
+#0213
+<KEY<MSG<FAC1113Sólo queda uno...<FAC1013<NOD<FAC1113
+De verdad, me encantaría
+que dejases de buscar las
+flores rojas.<FAC1013<NOD<END
+#0214
+<KEY<MSG<FAC1113Me has hecho un gran favor,
+al reunir a mis cachorros...<FAC1013<NOD<CLR<FAC1113Vuelve en un momento,
+tendré algo de recompensa
+por tu esfuerzo.<FAC1013<NOD<END
+
+#0220
+<KEY<MSG<FAC1113Vaya vaya, qué rápido.<FAC1013<NOD<CLR<GIT1014<FAC1113Éste es sin duda uno de
+mis queridos cachorros.<FAC1013<NOD<CLR
+<GIT0000<FAC0000Le diste la =Mascota=.<NOD<CLR<CNP0301:0130:0000<PSH0500<FAC1113Hmmm...<FAC1013<NOD<FAC1113
+Eres un soldado de la
+superficie, a que sí.<FAC1013<NOD<CLR.....<NOD<CLR<FAC1113No hace mucho enviaron
+cientos de robots como
+tú a esta isla.<FAC1013<NOD<FAC1113
+Incontables Mimigas
+perecieron en sus manos.<FAC1013<NOD<FAC1113
+Al igual que los humanos
+que intentaron protegerlos.<FAC1013<NOD<CLR<FAC1113Acorralados, los Mimigas
+finalmente consumieron las
+flores rojas prohibidas,<FAC1013<NOD<FAC1113
+y en su furia asesina
+empezaron a contraatacar
+a los robots.<FAC1013<NOD<CLR<FAC1113Si las flores rojas no
+hubieran existido,<FAC1013<NOD<FAC1113
+los Mimigas habrían
+desaparecido por completo
+de esta isla...<FAC1013<NOD<CLR<FAC1113Aún quedan tres.<FAC1013<NOD<FAC1113
+Buena suerte.<FAC1013<NOD<FL+0591<END
+#0221
+<KEY<MSG<FAC1113Oooh.<FAC1013<NOD<CLR<GIT1014<FAC1113Sí, sí.<FAC1013<NOD<FAC1113
+Éste es sin duda uno de
+mis queridos cachorros.<FAC1013<NOD<CLR
+<GIT0000<FAC0000Le diste la =Mascota=.<NOD<CLR<CNP0302:0130:0000<PSH0500<FAC1113Muchas gracias, de verdad.
+Ya tenemos tres...<FAC1013<NOD<CLR.....<NOD<CLR<FAC1113¿Has visto alguna vez
+un Mimiga descontrolado?<FAC1013<NOD<CLR<FAC1113Los acorralados Mimigas
+esperaron que las flores
+rojas les dieran fuerza.<FAC1013<NOD<FAC1113
+Las consumieron, y después
+combatieron a los robots.<FAC1013<NOD<CLR<FAC1113
+Sin embargo...<FAC1013<NOD<CLR<FAC1113¿Sabes qué les pasó 
+después?<FAC1013<NOD<CLR.....<NOD<CLR<FAC1113Es una historia triste...<FAC1013<NOD<FAC1113
+Los furiosos Mimigas,
+incapaces de controlarse.
+desaparecieron sin dejar<FAC1013<NOD<FAC1113
+rastro.<FAC1013<NOD<FAC1113
+Si los rumores son
+ciertos, descendieron
+a la superficie,<FAC1013<NOD<FAC1113
+donde habitan los humanos.<FAC1013<NOD<CLR<FAC1113Un ejército de Mimigas
+furiosos sueltos por la
+tierra...<FAC1013<NOD<FAC1113
+Si eso fuera cierto...<FAC1013<NOD<CLR<FAC1113¿Lo comprendes ahora?<FAC1013<NOD<FAC1113
+¿Comprendes lo peligrosas
+que son las flores rojas?<FAC1013<NOD<CLR.....<NOD<CLR<FAC1113Aún quedan dos...<FAC1013<NOD<FL+0592<END
+#0222
+<KEY<MSG<FAC1113Parece que te han
+cogido cariño.<FAC1013<NOD<FAC1113
+Mis cachorros no le
+cogen afecto a cualquiera.<FAC1013<NOD<CLR<GIT1014<FAC1113Muchas gracias...<FAC1013<NOD<CLR
+<GIT0000<FAC0000Le diste la =Mascota=.<NOD<CLR<CNP0303:0130:0000<PSH0500
+<FAC1013.....<NOD<CLR<FAC1113Quieres conseguir la llave
+del Almacén, ¿verdad?<FAC1013<NOD<FAC1113
+Donde se encuentran
+guardadas las semillas
+de las flores rojas...<FAC1013<NOD<CLR<FAC1113No me importa quién seas,<FAC1013<NOD<FAC1113
+no te voy a dar la llave.<FAC1013<NOD<FAC1113
+Abrir ese almacén<FAC1013<NOD<FAC1113 podría
+repetir la tragedia una
+y otra vez...<FAC1013<NOD<CLR<FAC1113Uno, dos, tres...<FAC1013<NOD<CLR<FAC1113Sólo falta uno.<FAC1013<NOD<FL+0593<END
+
+#0223
+<KEY<MSG<FAC1113De eso no hay duda.<FAC1013<NOD<CLR<GIT1014<FAC1113Es el último cachorro.<FAC1013<NOD<CLR
+<GIT0000<FAC0000Le diste la =Mascota=.<NOD<CLR<PSH0500<CNP0304:0130:0000<FAC1013...<FAC1013<NOD<FAC1113
+Me has hecho un gran favor,
+al reunir a mis cachorros...<FAC1013<NOD<CLR<FAC1113Vuelve en un momento,
+tendré algo de recompensa
+por tu esfuerzo.<FAC1013<NOD<FL+0594<END
+#0300
+<FLJ0590:0310<END
+#0301
+<FLJ0591:0311<END
+#0302
+<FLJ0592:0312<END
+#0303
+<FLJ0593:0313<END
+#0304
+<FLJ0594:0314<END
+#0310
+<KEY<MSG¡Arf!<NOD<END
+#0311
+<KEY<MSG¡Arf arf!<NOD<END
+#0312
+<KEY<MSG¡Arf arf arf!<NOD<END
+#0313
+<KEY<MSGAuuuuuh...<NOD<END
+#0314
+<KEY<MSG¡Cinco!<NOD<END
+#0400
+#0401
+
+#0500
+<FF-3000:3004<IT-0014<POP

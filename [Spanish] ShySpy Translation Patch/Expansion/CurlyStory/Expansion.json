@@ -1,0 +1,8 @@
+{
+	"save_slot_identifier" : "CurlyStory",
+	"full_name" : "Modo Curly",
+	"description" : "¡Juega Cave Story siendo Curly Brace!",
+	"difficulties" : true,
+	"requirement" : "item",
+	"requirement_number" : 35
+}

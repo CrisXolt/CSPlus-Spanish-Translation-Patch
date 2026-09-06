@@ -48,7 +48,7 @@ The texture files have also been modified for **Classic Graphics**.
 
 </details>
 
-#### 4. Legacy Version (Coming Soon).
+#### 4. Legacy Version.
 **The Spanish (Spain) version**, made by the legendary [ShySpy](https://www.elotrolado.net/hilo_v1-22-traduccion-al-espanol-del-cave-story_1318928#p1717835918), from freeware 2010 version.
 Inspired by Aeon Genesis Translation Patch.
 
@@ -72,6 +72,7 @@ It is not currently compatible with **doukutsu-rs**, but it will soon be.
 #### 2. Extract the files.
 
 Extract the base folder `[Latam] Spanish Translation Patch`
+or `[Spanish] ShySpy Translation Patch`
 in the following path: `Documents\My Games\Cave Story+\Mods`
 
 #### 3. The "mods" text file.
@@ -79,6 +80,12 @@ in the following path: `Documents\My Games\Cave Story+\Mods`
 Create the file `mods.txt` (if you don't have it) in the path I mentioned, and then, open the file and add the following at the bottom path (if you have more mods installed):
 ```
 + [Latam] Spanish Translation Patch
+```
+
+or 
+
+```
++ [Spanish] ShySpy Translation Patch
 ```
 
 #### 4. StringTable.
