@@ -1,0 +1,96 @@
+
+#0090
+<MNA<CMU0036<FAI0000<END
+#0091
+<MNA<CMU0036<FAI0001<END
+#0092
+<MNA<CMU0036<FAI0002<END
+#0093
+<EQ+0256<FRE<MNA<CMU0036<SVP<FAI0003<END
+#0094
+<MNA<CMU0036<FAI0004<END
+
+
+#0100
+<KEY<FAO0002<TRA0080:0090:0021:0097
+
+#0110
+<KEY<FLJ1531:0111
+<FOM0016<FAO0002<TRA0081:0092:0002:0013
+#0111
+<WAI0010<HMC<WAI0050
+<MYD0000<SMC<END
+
+#0200
+<PRI<MSG<TUR
+<PS29000<NOD<END
+
+
+#0400
+<PRI<SOU0022<DNP0400
+<PS29001<NOD<ML+0005
+<PS29002<NOD<END
+
+#0420
+<DNP0420
+<ANP0430:0030:0000<FON0430:0016
+<ANP0500:0032:0000<END
+#0430
+
+
+#0500
+<PRI<FL-1531<FL+1532<MS3<FAC0120
+<PS29003<FAC0020<NOD<CLR<FAC0000
+<CNP0500:0259:0000<GIT1030<PS29004<NOD<END
+
+
+#0900
+<DNP0900<SKJ0020:0000<SK+0020
+<PRI<MS3<PS29005<NOD
+<PS29006<NOD
+<PS29007<NOD<END
+
+#0901
+<DNP0901<SKJ0021:0000<SK+0021
+<PRI<MS3<PS29008<NOD
+<PS29009<NOD<CLR<PS29010<NOD<END
+
+#9000
+¡Bienvenido al Infierno!<POP
+
+#9001
+Obtuviste una =Cápsula de Vida=.<POP
+
+#9002
+Vida máxima incrementada por 5.<POP
+
+#9003
+Ooow...<POP
+
+#9004
+Amarraste a curly con la
+=Cuerda de Remolque=.<POP
+
+#9005
+¿Sabías qué la mujer llamada Jenka
+tenía un hermano menor?<POP
+
+#9006
+Su nombre era Ballos.<POP
+
+#9007
+Al igual que su hermana mayor, tenía
+los poderes más poderoso que los
+seres mortales...<POP
+
+#9008
+Él usó su poder mágico para
+guiar y ayudar a la gente,<POP
+
+#9009
+y la gente lo amaban y confiaban
+en el a su vez.<POP
+
+#9010
+Incluso más que en su
+propio rey...<POP

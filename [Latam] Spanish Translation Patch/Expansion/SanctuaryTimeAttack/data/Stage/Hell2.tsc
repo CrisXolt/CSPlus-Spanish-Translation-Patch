@@ -1,0 +1,74 @@
+
+#0090
+<MNA<CMU0036<FAI0000<END
+#0091
+<MNA<CMU0036<FAI0001<END
+#0092
+<MNA<CMU0036<FAI0002<END
+#0093
+<MNA<CMU0036<FAI0003<END
+#0094
+<MNA<CMU0036<FAI0004<END
+
+#0095
+<KEY<MYB0000<WAI0002<PRI<FAI0001<END
+
+
+#0100
+<KEY<FAO0002<TRA0080:0090:0021:0097
+
+#0110
+<PRI<FAO0003<TRA0082:0095:0157:0002
+
+
+#0200
+<PRI<MSG<TUR
+<PS29000<NOD<END
+
+
+
+#0900
+<DNP0900
+<END
+<SKJ0022:0000<SK+0022
+<PRI<MS3<PS29001<NOD
+<PS29002<NOD
+<PS29003<NOD<END
+
+#0901
+<DNP0901
+<END
+<SKJ0023:0000<SK+0023
+<PRI<MS3<PS29004<NOD
+<PS29005<NOD
+<PS29006<NOD<END
+
+#9000
+No hay vuelta atrás...<POP
+
+#9001
+El envidioso del Rey tuvo a Ballos
+en captura y tirado en la prisión,<POP
+
+#9002
+donde su castigo fue
+severo y cruel.<POP
+
+#9003
+Los humanos puede ser unas
+criaturas terribles...<POP
+
+#9004
+Bajo la extrema presión de la
+tortura, el poder mágico de Ballos
+fue finalmente desatado.<POP
+
+#9005
+El rey quedó envuelto en
+el remolino de magia y
+fue destruido en un instante.<POP
+
+#9006
+En una sola noche, el reino
+que él tanto amaba fue reducido
+en cenizas.<POP
