@@ -180,8 +180,52 @@
             <string>難易度：</string>
         </key>
         <key name="GameOption_Speed">
-            <string>Fotogramas:</string>
+            <string>Velocidad:</string>
             <string>スピード：</string>
+        </key>
+        <key name="GameOption_Controls">
+            <string>Controles...</string>
+            <string>Controls...</string>
+        </key>
+        <key name="GameOption_ScreenType">
+            <string>Modo de Pantalla:</string>
+            <string>Screen Type:</string>
+        </key>
+        <key name="GameOption_Window">
+            <string>En Ventana</string>
+            <string>Window</string>
+        </key>
+        <key name="GameOption_Full">
+            <string>Completa</string>
+            <string>Full</string>
+        </key>
+        <key name="GameOption_AspectRatio">
+            <string>Formato de Imagen:</string>
+            <string>Aspect Ratio:</string>
+        </key>
+        <key name="GameOption_FourByThree">
+            <string>4:3</string>
+            <string>4:3</string>
+        </key>
+        <key name="GameOption_SixteenByTen">
+            <string>16:10</string>
+            <string>16:10</string>
+        </key>
+        <key name="GameOption_SixteenByNine">
+            <string>16:9</string>
+            <string>16:9</string>
+        </key>
+        <key name="GameOption_ScreenScaling">
+            <string>Escalado de Pantalla:</string>
+            <string>Screen Scaling:</string>
+        </key>
+        <key name="GameOption_ForceHoliday">
+            <string>Forzar Modo Festivo:</string>
+            <string>Force Holiday:</string>
+        </key>
+        <key name="GameOption_DeveloperMode">
+            <string>Modo Desarrollador:</string>
+            <string>Developer Mode:</string>
         </key>
         <key name="MusicType_Original">
             <string>Organya</string>
@@ -276,7 +320,7 @@
             <string>ゲームを辞める</string>
         </key>
         <key name="PauseMenu_QuitConfirm">
-            <string>¿Salir al Menú Principal? ¿¿En serio??</string>
+            <string>¿Salir al Menú Principal? ¿¿De veras??</string>
             <string>メインメニューに戻りますか？本当に？？</string>
         </key>
         <key name="PauseMenu_QuitWarning">
