@@ -55,7 +55,7 @@ Inspired by Aeon Genesis Translation Patch.
 ---
 ## Notes before installation:
 
-Before downloading the file, make sure you've purchased **Cave Story+** on **Steam** and that you're using the **latest version (build 26-06-30)**.
+Before downloading the file, make sure you've purchased **Cave Story+** on **Steam** and that you're using the **latest version (build 26-09-04)**.
 
 If you purchased it from other stores like Epic Games or GOG and it includes the **2026 version**, then it might work as well.
 
