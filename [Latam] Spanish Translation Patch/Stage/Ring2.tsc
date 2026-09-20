@@ -1,189 +1,163 @@
-#0090
-<KEY<MNA<CMU0030<FAI0000<END
-#0091
-<KEY<MYB0002<WAI0002<PRI
-<MNA<CMU0030<FAI0001<END
-#0092
-<KEY<MNA<CMU0030<FAI0002<END
-#0093
-<KEY<FLJ1341:0099<FLJ1270:0098
-<MNA<CMU0030<FAI0003<END
-#0094
-<KEY<MNA<CMU0030<FAI0004<END
-#0098
-<KEY
-<CMP0003:0013:0021
-<CMP0003:0009:0021
-<CMP0003:0006:0021
-<CMP0003:0003:0021
-<CMP0003:0000:0000
-<MNA<CMU0030<FAI0003<END
-#0099
-<KEY
-<CMP0003:0009:0021
-<CMP0003:0006:0021
-<CMP0003:0003:0021
-<CMU0018<FAI0003<END
-#0100
-<PRI<FAO0003<TRA0064:0093:0003:0001
-#0110
-<PRI<FAO0001<MYD0002<TRA0068:0091:0003:0014
-#0200
-<KEY
-<FLJ1272:0204
-<FLJ1270:0202
-<FLJ1271:0201<MSG
-Oye, tu eres el viajero que conocí
-hace tiempo en mi casa.<NOD<FLJ1020:0205<CLR
-¿Llegaste a salvarme?<NOD<END
-#0201
-<PRI<MSG
-¡Buena suerte!<NOD<END
-#0202
-<KEY<MSG
-Lo hiciste bien.<NOD<CLR
-Me siento un poco como una princesa.<NOD<CLR
-¿Sue?<NOD<CLR
-Sí, la conozco.<NOD
-Esa chica parece un Mimiga,
-pero es una humana, ¿verdad?<NOD
-Bueno, mis ojos no me engañan.<NOD
-Aunque ella no está aquí.<NOD<CLO
-<FL+1272<END
-#0203
-#0204
-<KEY<MSG
-Eres fuerte, ¿verdad?<NOD
-Como nuestro gran heroe, Arthur.<NOD<FLJ1274:0000<FL+1274<CLR
-Je.<NOD<CLO
-<ANP0250:0010:0005
-<ANP0251:0010:0005
-<ANP0252:0010:0005
-<ANP0253:0010:0005
-<ANP0254:0010:0005
-<ANP0255:0010:0005
-<END
-#0205
-<KEY<MSG
+#9000
+Oye, tú eres el viajero que conocí
+hace tiempo en mi casa.<POP
+
+#9001
+¿Viniste a salvarme?<POP
+
+#9002
+¡Buena suerte!<POP
+
+#9003
+¡Lo hiciste genial!<POP
+
+#9004
+Me siento un poco como una princesa.<POP
+
+#9005
+¿Sue?<POP
+
+#9006
+Sí, la conozco.<POP
+
+#9007
+Esa chica parece una Mimiga,
+pero es una humana, ¿verdad?<POP
+
+#9008
+Bueno, mis ojos no me engañan.<POP
+
+#9009
+Aunque, ella no está aquí.<POP
+
+#9010
+Eres fuerte, ¿verdad?<POP
+
+#9011
+Como nuestro gran heroe, Arthur.<POP
+
+#9012
+Je je.<POP
+
+#9013
 ¡Es una máscara!
-A mi no me engañas.<NOD<END
-#0210
-<PRI<FLJ1270:0212
-<FLJ1271:0211
-<MSG
-El Doctor nos tiene miedo.<NOD
-Por eso nos metió en la reja.<NOD
-No hay duda de ello.<NOD<END
-#0211
-<PRI<MSG
-¡Contamos contigo!<NOD<END
-#0212
-<PRI<MSG
-¡Nada mal!<NOD<END
-#0220
-<PRI<FLJ1270:0222
-<FLJ1271:0221
-<MSG
-¡Ah!<NOD<CLR
-Tú eres el de aquella vez...<NOD<END
-#0221
-<PRI<MSG
+A mi no me engañas.<POP
+
+#9014
+El Doctor nos tiene miedo.<POP
+
+#9015
+Por eso estamos tras las rejas.<POP
+
+#9016
+No hay duda de ello.<POP
+
+#9017
+¡Contamos contigo!<POP
+
+#9018
+¡Nada mal de todo!<POP
+
+#9019
+¡Ah!<POP
+
+#9020
+Tú eres el de aquella vez...<POP
+
+#9021
 ¡Cuidado!
-¡¡¡Detrás de ti!!!<NOD<END
-#0222
-<KEY<MSG
-¿Te acuerdas de mí?<NOD
+¡¡¡Detrás de ti!!!<POP
+
+#9022
+¿Te acuerdas de mí?<POP
+
+#9023
 La vez que perdi mi llave en
-Tierras Verdes...<NOD<FLJ1020:0223<CLR
-Te entiendo...<NOD<CLR
-Sí, ese doctor es muy malo.<NOD<END
-#0223
-<KEY<MSG
+Tierras Verdes...<POP
+
+#9024
+Está bien...<POP
+
+#9025
+Y sí, ese doctor sí que es muy malo.<POP
+
+#9026
 ¡¿¡Por qué llevas una Máscara de
-Mimiga!?!<NOD<END
-#0250
-#0251
-#0252
-#0253
-#0254
-#0255
-#0400
-#0401
-#0410
-<KEY<FON0410:0016<ANP0410:0500:0004<WAI0050
-<CMU0000<MS3
-¡¡Aahhh!!<MYB0410<NOD<CLR
-Ooooh...<WAI0020 ¡¡¡NOOOoooo!!!<WAI0020<CLR
-¡El poder... está fuera de... CONTROL!<NOD<CLO
-<ACH0043
-<WAI0050<CNP0420:0267:0004<WAI0100
-<FOM0016
-<ANP0420:0007:0004<BSL0420<DNP0410<FL-1270<CMU0031<END
-#0420
-<KEY<FON0420:0016<FL+1270
-<ANP0420:0500:0004<WAI0100
-<MS3
-¡¡BWAAAAH!!<MYB0420<NOD<CLO
-<ANP0420:0510:0004<WAI0450<CMU0015
-<FOM0016<ANP0420:0520:0000<MS3
-¡El Doctor ha sido Derrotado!<WAI0140<NOD<CMU0000<CLO
-<ACH0044
-<FON0450:0016<WAI0050
-<CMP0003:0009:0021<SOU0012<WAI0020
-<CMP0003:0006:0021<SOU0012<WAI0020
-<CMP0003:0003:0021<SOU0012<WAI0020
-<CMP0003:0000:0000<SOU0012<WAI0020
-<WAI0050
-<FOM0016<CMU0030<DNP0420<END
-#0450
-#0500
-<2MV0000
-<KEY<DNP0500<SKJ0001:0501<SK+0001<EVE0502
-#0501
-<KEY<SAT<EVE0502
-#0502
-<CMU0017<MYD0002
-<CMP0003:0013:0021
-<MS3<FAC0121<ANP0400:0010:0000
-¡JA JA JA!<FAC0021<NOD<CLR<FAC0121
-Finalmente, está terminado.<FAC0021<NOD<CLO<FAC0000
-<WAI0020<ANP0400:0020:0000<WAI0030
-<MS3<FAC0121
+Mimiga!?!<POP
+
+#9027
+Aahhh!!<POP
+
+#9028
+Ooooh...<POP
+
+#9029
+¡¡¡NOOOoooo!!!<POP
+
+#9030
+¡El poder... está fuera de... CONTROL!<POP
+
+#9031
+¡¡BWAAAAH!!<POP
+
+#9032
+¡El Doctor ha sido Derrotado!<POP
+
+#9033
+¡JA JA JA!<POP
+
+#9034
+Finalmente, está terminado.<POP
+
+#9035
 Los Mimigas se enfurecen
 cuando le aplicamos la flor
-roja como medicamento.<FAC0021<NOD<CLR<FAC0121
-La causa es bastante simple.<FAC0021<NOD<CLR<FAC0121
+roja como medicamento.<POP
+
+#9036
+La causa es bastante simple.<POP
+
+#9037
 La flor roja trae las
-habilidades latentes.<FAC0021<NOD<CLR<FAC0121
+habilidades latentes.<POP
+
+#9038
 Y no solo eso, también
 contiene un compuesto que
-destruye la razón de uno.<FAC0021<NOD<CLR<FAC0121
+destruye la razón de uno.<POP
+
+#9039
 Y ahora he logrado extraerlo
-e intensificarlo con exito.<FAC0021<NOD<CLR<FAC0121
-Esto es...<FAC0021<NOD<CLO<FAC0000
-<WAI0020<DNP0401<ANP0400:0040:0000<WAI0020
-<MS3<FAC0121
-...El Cristal Rojo.<FAC0021<WAI0030<NOD<CLR<FAC0121
-Y este Cristal Rojo...<FAC0021<NOD<FAC0121
+e intensificarlo con exito.<POP
+
+#9040
+Esto es...<POP
+
+#9041
+...El Cristal Rojo.<POP
+
+#9042
+Y este Cristal Rojo...<POP
+
+#9043
 también funciona con
-humanos.<FAC0021<NOD<CLR<ANP0400:0050:0000
-¡Ja ja!<FAC0021<NOD<CLR<FAC0121
-¡Esto es Increíble!<FAC0021<NOD<CLR<FAC0121
+humanos.<POP
+
+#9044
+¡Ja ja!<POP
+
+#9045
+¡Esto es Increíble!<POP
+
+#9046
 ¿Entiendes lo extraordinario
 que es esto?
-No lo entiendes, ¿verdad?<FAC0021<NOD<CLR<FAC0121
-¡Bueno, entonces!<FAC0021<NOD<CLR<FAC0121
-¡¡¡Te dare una leccion muy
-especial ahora mismo!!!<FAC0021<NOD<CLO
-<CNP0410:0263:0000<WAI0005
-<ANP0410:0002:0000<WAI0050
-<CMP0003:0013:0021<DNP0400
-<FL-1270<FL+1271<WAI0050<BSL0410<CMU0007<END
-#0501
-<KEY<DNP0500<CMU0017<MYD0002
-<CMP0003:0013:0021
-<DNP0401<ANP0400:0040:0000
-<CNP0410:0263:0000<WAI0005
-<ANP0410:0002:0000<WAI0050
-<CMP0003:0013:0021<DNP0400
-<FL-1270<FL+1271<WAI0050<BSL0410<CMU0007<END
+No lo entiendes, ¿verdad?<POP
+
+#9047
+Bueno...<POP
+
+#9048
+¡¡¡Entonces te dare una
+leccion muy especial ahora
+mismo!!!<POP

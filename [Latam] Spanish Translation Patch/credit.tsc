@@ -21,17 +21,17 @@
 [ Itoh                                             ]0000-0064
 -0063
 [  ALDEA MIMIGA                                    ]0000-0064
-[ Dulce y valiente                                 ]0000-0016
-[                                                  ]0013-0016
+[ Dulce y                                          ]0000-0016
+[ valiente                                         ]0013-0016
 [ Toroko                                           ]0000-0064
 [ El líder                                         ]0000-0016
-[                                                  ]0014-0016
+[ de la aldea                                      ]0014-0016
 [ King                                             ]0000-0064
-[ El segundo líder                                 ]0000-0016
-[                                                  ]0015-0016
+[ El segundo                                       ]0000-0016
+[ líder                                            ]0015-0016
 [ Jack                                             ]0000-0064
-[ Come, come, y come                               ]0000-0016
-[                                                  ]0016-0016
+[ Come, come,                                      ]0000-0016
+[ y come                                           ]0016-0016
 [ Mahin                                            ]0000-0064
 [ El pescador                                      ]0000-0016
 [                                                  ]0020-0016
@@ -41,28 +41,28 @@
 [ Sandaime                                         ]0000-0064
 -0063
 [  TIERRAS VERDES                                  ]0000-0064
-[ El cobarde solitario                             ]0000-0016
-[                                                  ]0017-0016
+[ Un cobarde                                       ]0000-0016
+[ solitario                                        ]0017-0016
 [ Santa                                            ]0000-0064
-[ La Mimiga colorida                               ]0000-0016
-[                                                  ]0018-0016
+[ Una Mimiga                                       ]0000-0016
+[ colorida                                         ]0018-0016
 [ Chako                                            ]0000-0064
-[ El Robot de la Sala de Generador                 ]0000-0016
-[                                                  ]0025-0016
+[ El Robot de la                                   ]0000-0016
+[ Sala de Generador                                ]0025-0016
 [ Malco                                            ]0000-0064
 -0063
 [  ZONA DE ARENA                                   ]0000-0064
-[ Aliada de los Mimiga                             ]0000-0016
-[                                                  ]0007-0016
+[ Aliada de                                        ]0000-0016
+[ los Mimiga                                       ]0007-0016
 [ Curly Brace                                      ]0000-0064
-[ Los niños Mimiga                                 ]0000-0016
-[                                                  ]0008-0016
+[ Los niños                                        ]0000-0016
+[ Mimiga                                           ]0008-0016
 [ Los Colons                                       ]0000-0064
 [ La Guardiana de                                  ]0000-0016
 [ la Zona de Arena                                 ]0009-0016
 [ Jenka                                            ]0000-0064
 -0031
-[ Perritos de Jenka                               ]0000-0032
+[ Perritos de Jenka                                ]0000-0032
 [ Hajime                                           ]0010-0032
 [ Shinobu                                          ]0010-0032
 [ Kakeru                                           ]0010-0032
@@ -81,14 +81,14 @@
 [ Enfermera Hasumi                                 ]0000-0064
 -0063
 [  PLANTACIÓN                                      ]0000-0064
-[ La pequeña Mimiga                                ]0000-0016
-[                                                  ]0023-0016
+[ La pequeña                                       ]0000-0016
+[ Mimiga                                           ]0023-0016
 [ Chie                                             ]0000-0064
-[ El abuelo Mimiga                                 ]0000-0016
-[                                                  ]0024-0016
+[ El abuelo                                        ]0000-0016
+[ Mimiga                                           ]0024-0016
 [ Zett                                             ]0000-0064
-[ Gestor de aspersores                             ]0000-0016
-[                                                  ]0022-0016
+[ Gestor de                                        ]0000-0016
+[ aspersores                                       ]0022-0016
 [ Megane                                           ]0000-0064
 [ Seguidores del                                   ]0000-0016
 [ Doctor                                           ]0021-0016
@@ -97,19 +97,19 @@
 
 f2000:0090
 [  VILLANOS                                        ]0000-0064
-[ El traidor con sed de poder.                     ]0000-0016
-[                                                  ]0006-0016
+[ El traidor con                                   ]0000-0016
+[ sed de poder.                                    ]0006-0016
 [ El Doctor                                        ]0000-0064
-[ La sirvienta del Doctor                          ]0000-0016
-[                                                  ]0011-0016
+[ La sirvienta                                     ]0000-0016
+[ del Doctor                                       ]0011-0016
 [ Misery                                           ]0000-0064
-[ Subordinado de Misery                            ]0000-0016
-[                                                  ]0012-0016
+[ Subordinado                                      ]0000-0016
+[ de Misery                                        ]0012-0016
 [ Balrog                                           ]0000-0064
 -0063
 [ TAMBIÉN...                                       ]0000-0064
-[ El Armero Ermitaño                               ]0000-0016
-[                                                  ]0035-0016
+[ El Armero                                        ]0000-0016
+[ Ermitaño                                         ]0035-0016
 [ Tetsuzou Kamadani                                ]0000-0064
 [ Un Hongo                                         ]0000-0016
 [ delicioso                                        ]0045-0016
@@ -128,19 +128,19 @@ j0100
 
 l0090
 [ VILLANOS                                         ]0000-0064
-[ Atraído por la Corona                            ]0000-0016
-[                                                  ]0006-0016
+[ Atraído                                          ]0000-0016
+[ por la Corona                                    ]0006-0016
 [ El Doctor                                        ]0000-0064
-[ Maldecida por la Corona                          ]0000-0016
-[                                                  ]0011-0016
+[ Maldecida                                        ]0000-0016
+[ por la Corona                                    ]0011-0016
 [ Misery                                           ]0000-0064
-[ Y un nuevo amigo                                 ]0000-0016
-[                                                  ]0012-0016
+[ Y un                                             ]0000-0016
+[ nuevo amigo                                      ]0012-0016
 [ Balrog                                           ]0000-0064
 -0063
 [ TAMBIÉN                                          ]0000-0064
-[ El Armero Ermitaño                               ]0000-0016
-[                                                  ]0035-0016
+[ El Armero                                        ]0000-0016
+[ Ermitaño                                         ]0035-0016
 [ Tetsuzou Kamadani                                ]0000-0064
 [ Un Hongo                                         ]0000-0016
 [ delicioso                                        ]0045-0016
@@ -346,13 +346,8 @@ l0300
 -0063
 [¡Muchísimas gracias!                              ]0129-0032
 -0240
-p2:0390
-+0241
-j0400
-l0390
-+0257
-l0400
-[Cave Story+ El Final                              ]0000
++0188
+[Cave Story+    Fin                                ]0000
 -0280
 /
 

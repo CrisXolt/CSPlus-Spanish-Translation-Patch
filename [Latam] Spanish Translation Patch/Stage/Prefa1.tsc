@@ -1,45 +1,34 @@
+#9000
+Es una nota del Profesor Booster.<POP
 
-#0090
-<MNA<CMU0030<FAI0000<END
-#0091
-<MNA<CMU0030<FAI0001<END
-#0092
-<MNA<CMU0030<FAI0002<END
-#0093
-<MNA<CMU0030<FAI0003<END
-#0094
-<MNA<CMU0030<FAI0004<END
+#9001
+¿Quieres leerla?<POP
 
-#0100
-<KEY<ANP0100:0000:0002<SOU0011<FAO0004<TRA0062:0094:0079:0073
-
-
-#0150
-<KEY<DNP0150<CNP0016:0016:0002<END
-
-
-
-#0200
-<KEY<MSG
-Es una nota del Profesor Booster.<NOD
-¿Quieres leerla?<YNJ0000<CLR<TUR
+#9002
 La investigación de la isla es viable si se
 dispone de un dispositivo que ayude
-con la movilidad aerea.<NOD<CLR
+con la movilidad aerea.<POP
+
+#9003
 Para ello, comenzaré el desarrollo del
-cohete Booster.<NOD<CLR
+cohete Booster.<POP
+
+#9004
 El desarrollo de este dispositivo aerea
 tendra varias fases, con dos versiones
-de Booster: v0.8 y v2.0.<NOD<CLR
+de Booster: v0.8 y v2.0.<POP
+
+#9005
 El plan es fabricar la v0.8 para ser
 equipada y permitir alguna forma de
-propulsión aerea.<NOD<CLR
+propulsión aerea.<POP
+
+#9006
 Y mientras logre sobrevivir, también
-terminaré la v2.0.<NOD
-Siendo esta aún más indispensable.<NOD<CLO
-<FLJ0161:0000<WAI0050<MS2
-    Siempre y cuando no muera...<WAI0050<NOD<END
+terminaré la v2.0.<POP
 
+#9007
+Siendo esta aún más indispensable.<POP
 
-
-
+#9008
+    Siempre y cuando no muera...<POP

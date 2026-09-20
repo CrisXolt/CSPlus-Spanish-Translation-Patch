@@ -1,19 +1,17 @@
-#1000
-<KEY<MSG<TUR
-Sin permiso de teletransporte.<WAI9999<END
-#1001
-<KEY<MSG<TUR
-Pasillo Ovíparo<WAI9999<END
-#1002
-<KEY<MSG<TUR
-Tierras Verdes<WAI9999<END
-#1003
-<KEY<MSG<TUR
-Zona de Arena<WAI9999<END
-#1004
-<KEY<MSG<TUR
-Laberinto<WAI9999<END
-#1005
-<KEY<MSG<TUR
-Plantación<WAI9999<END
+#9000
+Sin permiso de teletransporte.<POP
 
+#9001
+Pasillo Ovíparo<POP
+
+#9002
+Tierras Verdes<POP
+
+#9003
+Zona de Arena<POP
+
+#9004
+Laberinto<POP
+
+#9005
+Plantación<POP

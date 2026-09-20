@@ -1,268 +1,421 @@
+#9000
+¿Quién eres?<POP
 
-#0090
-<MNA<CMU0019<FAI0000<END
-#0091
-<MNA<CMU0019<FAI0001<END
-#0092
-<MNA<CMU0019<FAI0002<END
-#0093
-<MNA<CMU0019<FAI0003<END
-#0094
-<MNA<CMU0019<FAI0004<END
-#0100
-<PRI<SOU0011<DNP0100<FAO0004<TRA0010:0094:0035:0026
-#0200
-<KEY
-<ITJ0014:0201
-<FLJ0594:0214
-<FLJ0593:0213
-<FLJ0592:0212
-<FLJ0591:0211
-<FLJ0590:0210
-<KEY<MSG<FAC1113
-¿Quién eres?<FAC1013<NOD<FAC1113
+#9001
 Jamás te había visto por
-alguna parte, jovencito.<FAC1013<NOD<END
-#0201
-<FLJ0594:0224
-<FLJ0593:0223
-<FLJ0592:0222
-<FLJ0591:0221
-<FLJ0590:0220
-<2MV0000
-<KEY<MSG<FAC1113
-¡Oh, oh!<FAC1013<NOD<CLR<GIT1014<FAC1113
-¡Este es mi perrito!<FAC1013<NOD<CLR
-<GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0300:0130:0000<PSH0500<FAC1113
-Me lo devolviste.<FAC1013<NOD<FAC1113
-Qué amable de tu parte.<FAC1013<NOD<CLR<FAC1113
-¿¿¿Cómo???<FAC1013<NOD<FAC1113
-¿Las flores rojas?<FAC1013<NOD<FAC0000<CLR<CMU0000<MSG
-¡¡Huzzah!!<NOD<CLO
-<CNP0400:0009:0000<WAI0010<MYD0002<CNP0300:0132:0002<ANP0300:0100:0002<WAI0120<CMU0011
-<CNP0400:0012:0000
-<MSG<FAC0105
-¿Cómo te va, Jenka?<FAC0005<NOD<CLR<FAC1113
-Oh, eres tú, Balrog.<FAC1013<NOD<ANP0300:0120:0002<FAC1113
-Te ves bien.<FAC1013<NOD<FAC1113
-¿Y cómo le va últimamente a
-mi estúpida hija?<FAC1013<NOD<CLR<FAC0014
-¡Ja!<NOD<FAC0105
+alguna parte, jovencito.<POP
+
+#9002
+¡Oh, oh!<POP
+
+#9003
+¡Este es mi perrito!<POP
+
+#9004
+Le devolviste al =Perro=.<POP
+
+#9005
+Me lo devolviste.<POP
+
+#9006
+Qué amable de tu parte.<POP
+
+#9007
+¿¿¿Cómo???<POP
+
+#9008
+¿Las flores rojas?<POP
+
+#9009
+¡¡Huzzah!!<POP
+
+#9010
+¿Cómo te va, Jenka?<POP
+
+#9011
+Oh, eres tú, Balrog.<POP
+
+#9012
+Te ves bien.<POP
+
+#9013
+¿Y cómo le va a mi estúpida
+hija últimamente?<POP
+
+#9014
+¡Ja!<POP
+
+#9015
 Estúpida hija dices...
-¿Te refieres a Misery?<FAC0005<NOD<FAC0105
-También está bien.<FAC0005<NOD<CLR<FAC0105
-Un nuevo amo apareció.<FAC0005<NOD<FAC0014
-¡Esta vez, conquistaremos
-finalmente la superficie!<NOD<CLR<FAC1113
+¿A Misery te refieres?<POP
+
+#9016
+Ella está bien.<POP
+
+#9017
+Un nuevo amo apareció.<POP
+
+#9018
+Y esta vez, conquistaremos
+finalmente la superficie!<POP
+
+#9019
 Aún siguen intentando hacer
-estas mañas, ustedes dos...<FAC1013<NOD<CLR<FAC0105
+estas mañas, ustedes dos...<POP
+
+#9020
 Oh, no vine a causarte
-problemas.<FAC0005<NOD<FAC0105
+problemas.<POP
+
+#9021
 Solamente vine a recoger
-la llave del Almacén.<FAC0005<NOD<CLR<FAC0105
+las llaves del Almacén.<POP
+
+#9022
 Ya sabes, ¡¡el Almacén con las
-semillas de las flores!!<FAC0005<NOD<CLR<FAC1013
-.....<NOD<CLR<FAC1113
-Huh...<FAC1013<NOD<FAC1113
+semillas de las flores!!<POP
+
+#9023
+.....<POP
+
+#9024
+Huh...<POP
+
+#9025
 No tengo idea de que estás
-hablando, Balrog.<FAC1013<NOD<CLR
-<ANP0400:0030:0000<FAC0014Ah sí...<NOD<CLR
+hablando, Balrog.<POP
+
+#9026
+Ah sí...<POP
+
+#9027
 ¿¡¿Pretendiendo que
-no lo sabes?!?<NOD<CLR<FAC0005
-.....<NOD<CLR<FAC0105
-Ya veo.<FAC0005<NOD<FAC0105
-Entonces estás pensando
-en traicionarnos...<FAC0005<NOD<FAC0105 ¿es eso?<FAC0005<NOD<CLO<CMU0000
-<WAI0050<FAC0105<MSG
-¡Lamentarás por eso!<FAC0005<NOD<CLO
-<FAC0000<ANP0400:0010:0000<WAI0200<CMU0019
-<MSG<FAC1113<CNP0300:0130:0000
-Un nuevo amo...<FAC1013<NOD<FAC1113
+no lo sabes?!?<POP
+
+#9028
+.....<POP
+
+#9029
+Ya veo.<POP
+
+#9030
+De veras estás pensando
+en traicionarnos...<POP
+
+#9031
+ ¿es eso?<POP
+
+#9032
+¡Lamentarás por eso!<POP
+
+#9033
+Un nuevo amo...<POP
+
+#9034
 Debe ser otro idiota más con
-la misma maña.<FAC1013<NOD<MYD0200<CLR
-.....<NOD<CLR<FAC1113
-Sobre mis perritos...
-Aún quedan cuatro más.<FAC1013<NOD<FAC1113
-Mis preciados perritos...<FAC1013<NOD<CLR<FAC1113
+la misma maña.<POP
+
+#9035
+.....<POP
+
+#9036
+Sobre mis perros...
+Aún quedan cuatro más.<POP
+
+#9037
+Mis preciados perritos...<POP
+
+#9038
 Pero mis piernas están
 muy frágiles como para no
-poder caminar...<FAC1013<NOD<CLR<FAC1113
+poder caminar bien...<POP
+
+#9039
 Disculpe la molestia... pero,
 ¿te importaría encontrar el
-resto de mis perritos por mí?<FAC1013<NOD<FL+0590<END
-#0210
-<KEY<MSG<FAC1113
-Aún quedan cuatro más...<FAC1013<NOD<FAC1113
+resto de mis perros por mí?<POP
+
+#9040
+Aún quedan cuatro más...<POP
+
+#9041
 Disculpe la molestia... pero,
 ¿te importaría encontrar el
-resto de mis perritos por mí?<FAC1013<NOD<END
-#0211
-<KEY<MSG<FAC1113
-Quedan tres más.<FAC1013<NOD<FAC1113
-Cuento contigo jovencito.<FAC1013<NOD<END
-#0212
-<KEY<MSG<FAC1113
+resto de mis perritos por mí?<POP
+
+#9042
+Quedan tres más.<POP
+
+#9043
+Cuento contigo jovencito.<POP
+
+#9044
 En serio les agradas mucho
-jovencito.<FAC1013<NOD<CLR<FAC1113
-Quedan dos más...<FAC1013<NOD<END
-#0213
-<KEY<MSG<FAC1113
-Queda uno más...<FAC1013<NOD<FAC1113
-¿Por qué no te rindes en
-encontrar las flor roja...?<FAC1013<NOD<END
-#0214
-<KEY<MSG<FAC1113
+jovencito.<POP
+
+#9045
+Quedan dos más...<POP
+
+#9046
+Queda uno más...<POP
+
+#9047
+¿Por qué no abandonas en
+encontrar las flor roja...?<POP
+
+#9048
 Ya me hiciste un gran favor
-al reunir mis perritos...<FAC1013<NOD<CLR<FAC1113
+al reunir todo mis perritos...<POP
+
+#9049
 Vuelve en un momento,
 tendré algo de recompensa
-por tu esfuerzo.<FAC1013<NOD<END
+por tu esfuerzo.<POP
 
-#0220
-<KEY<MSG<FAC1113
-¡Qué rápido!<FAC1013<NOD<CLR<GIT1014<FAC1113
+#9051
+¡Qué rápido!<POP
+
+#9052
 Este es sin duda uno de mis
-queridos perritos.<FAC1013<NOD<CLR
-<GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0301:0130:0000<PSH0500<FAC1113
-Por cierto...<FAC1013<NOD<FAC1113
+queridos perritos.<POP
+
+#9053
+Le devolviste al =Perro=.<POP
+
+#9054
+Por cierto...<POP
+
+#9055
 Tú debes ser el soldado de
-la superficie.<FAC1013<NOD<CLR
-.....<NOD<CLR<FAC1113
+la superficie.<POP
+
+#9056
+.....<POP
+
+#9057
 Fue un largo tiempo desde
 que llegaron los robots como
-tú a esta isla.<FAC1013<NOD<FAC1113
+tú a esta isla.<POP
+
+#9058
 Fueron los responsables de
 la muerte de tantos Mimigas
-indefensos...<FAC1013<NOD<FAC1113
+indefensos...<POP
+
+#9059
 Y de las vidas de hombres y
 mujeres valientes que trataron
-de defender a los Mimigas.<FAC1013<NOD<CLR<FAC1113
+de defender a los Mimigas.<POP
+
+#9060
 Debido a los efectos de
 consumir la flor roja
-prohibida...<FAC1013<NOD<FAC1113
+prohibida...<POP
+
+#9061
 ...los Mimigas acorralados se
-volvieron rabiosos.<FAC1013<NOD<CLR<FAC1113
+volvieron rabiosos.<POP
+
+#9062
 Contraatacaron de manera
 victoriosa contra los robots
-que invadieron a la isla.<FAC1013<NOD<CLR<FAC1113
+que invadieron a la isla.<POP
+
+#9063
 Y quién sabe, de no haber
 existido las flores rojas,
-es posible que los Mimiga<FAC1013<NOD<FAC1113 
+es posible que los Mimiga<POP
+
+#9064
+ 
 en esta isla podría haber
-sido aniquilados...<FAC1013<NOD<CLR<FAC1113
-Quedan tres.<FAC1013<NOD<FAC1113
-Sé que puedes hacerlo.<FAC1013<NOD<FL+0591<END
-#0221
-<KEY<MSG<FAC1113
-Oooh.<FAC1013<NOD<CLR<GIT1014<FAC1113
-Definitivamente.<FAC1013<NOD<FAC1113
-Este es el mio.<FAC1013<NOD<CLR
-<GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0302:0130:0000<PSH0500<FAC1113
+sido aniquilados...<POP
+
+#9065
+Quedan tres más.<POP
+
+#9066
+Sé que puedes hacerlo.<POP
+
+#9067
+Oooh.<POP
+
+#9068
+Definitivamente.<POP
+
+#9069
+Este es el mio.<POP
+
+#9070
+Le devolviste al =Perro=.<POP
+
+#9071
 Muchísimas gracias.
-Con eso van tres...<FAC1013<NOD<CLR
-.....<NOD<CLR<FAC1113
+Con eso van tres...<POP
+
+#9072
+.....<POP
+
+#9073
 ¿Has visto alguna vez a un 
-Mimiga enfurecido?<FAC1013<NOD<CLR<FAC1113
+Mimiga enfurecido?<POP
+
+#9074
 "Comer la flor roja me hará 
-más fuerte."<FAC1013<NOD<FAC1113
+más fuerte."<POP
+
+#9075
 Muchos de los Mimigas
 creyeron en esto y decidieron
-comer la flor roja.<FAC1013<NOD<FAC1113
+comer la flor roja.<POP
+
+#9076
 Y así, solamente fueron a
 luchar contra un batallón de
-robots.<FAC1013<NOD<CLR<FAC1113
-Pero...<FAC1013<NOD<CLR<FAC1113
+robots.<POP
+
+#9077
+Pero...<POP
+
+#9078
 ¿¿¿Sabes lo qué le pasa
 después a un Mimiga todo
-enfurecido???<FAC1013<NOD<CLR
-.....<NOD<CLR<FAC1113
-Fue tan terrible...<FAC1013<NOD<FAC1113
+enfurecido???<POP
+
+#9079
+.....<POP
+
+#9080
+Fue tan terrible...<POP
+
+#9081
 Tal vez no podían
-controlarse a sí mismos...<FAC1013<NOD<FAC1113
+controlarse a sí mismos...<POP
+
+#9082
 La mayoría de los Mimigas que
 consumieron la flor roja no
-pudieron volverse nunca más.<FAC1013<NOD<CLR<FAC1113
-Se perdieron.<FAC1013<NOD<CLR<FAC1113
+pudieron volverse nunca más.<POP
+
+#9083
+Desaparecieron.<POP
+
+#9084
 Oí el rumor de que
 supuestamente cayeron a la
-superficie...<FAC1013<NOD<FAC1113
-Donde viven los humanos.<FAC1013<NOD<CLR<FAC1113
+superficie...<POP
+
+#9085
+Donde viven los humanos.<POP
+
+#9086
 Y pensar que los Mimigas
 enfurecidos en la superficie
-podrian acercarse a los...<FAC1013<NOD<FAC1113
-humanos...<FAC1013<NOD<FAC1113
-Si esto es verdad...<FAC1013<NOD<CLR<FAC1113
-¿Ya te das cuenta?<FAC1013<NOD<FAC1113
+podrian acercarse a los...<POP
+
+#9087
+
+humanos...<POP
+
+#9088
+Si esto es verdad...<POP
+
+#9089
+¿Ya te das cuenta?<POP
+
+#9090
 ¿Ya te das cuenta de lo
 peligrosas que son las
-flores rojas?<FAC1013<NOD<CLR
-.....<NOD<CLR<FAC1113
-Dos perritos más...<FAC1013<NOD<FL+0592<END
-#0222
-<KEY<MSG<FAC1113
-¡Eres el chico popular!<FAC1013<NOD<FAC1113
+flores rojas?<POP
+
+#9091
+.....<POP
+
+#9092
+Dos perritos más...<POP
+
+#9093
+¡Eres el chico popular!<POP
+
+#9094
 A mis perritos tampoco
-confían a los problematicos...<FAC1013<NOD<CLR<GIT1014<FAC1113
+confían a los problematicos...<POP
+
+#9095
 De verdad aprecio todo el 
-esfuerzo que haces.<FAC1013<NOD<CLR
-<GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<CNP0303:0130:0000<PSH0500
-<FAC1013.....<NOD<CLR<FAC1113
+esfuerzo que haces.<POP
+
+#9096
+Le devolviste al =Perro=.<POP
+
+#9097
+.....<POP
+
+#9098
 Entonces, ¿es la llave del
-Almacén que buscas?<FAC1013<NOD<FAC1113
+Almacén que buscas?<POP
+
+#9099
 Del mismo Almacén que
 contiene toda las semillas
-de la flor roja...<FAC1013<NOD<CLR<FAC1113
+de la flor roja...<POP
+
+#9100
 Pues no me importa quien seas
 o cual será tus intenciones,
-¿te quedó claro?<FAC1013<NOD<FAC1113
+¿te quedó claro?<POP
+
+#9101
 No te puedo dar esa llave del
-Almacén, lo siento mucho.<FAC1013<NOD<FAC1113
-Abriendo el Almacén,<FAC1013<NOD<FAC1113
+Almacén, lo siento mucho.<POP
+
+#9102
+Abriendo el Almacén,<POP
+
+#9103
 podría volver de manera
 tonta a repetir esa misma
-tragedia de antes...<FAC1013<NOD<CLR<FAC1113
-Veamos, uno... dos... tres... y
-cuatro.<FAC1013<NOD<CLR<FAC1113
-Solo queda uno.<FAC1013<NOD<FL+0593<END
+tragedia de antes...<POP
 
-#0223
-<KEY<MSG<FAC1113
-Así es.<FAC1013<NOD<CLR<GIT1014<FAC1113
-Este es el último.<FAC1013<NOD<CLR
-<GIT0000<FAC0000Le devolviste al =Perro=.<NOD<CLR<PSH0500<CNP0304:0130:0000<FAC1013
-...<FAC1013<NOD<FAC1113
+#9104
+Veamos, uno... dos... tres... y
+cuatro.<POP
+
+#9105
+Solo queda uno.<POP
+
+#9106
+Así es.<POP
+
+#9107
+Es el último.<POP
+
+#9108
+Le devolviste al =Perro=.<POP
+
+#9109
+...<POP
+
+#9110
 Ya me hiciste un gran favor
-al reunir mis perritos...<FAC1013<NOD<CLR<FAC1113
+al reunir todo mis perritos...<POP
+
+#9111
 Vuelve en un momento,
 tendré algo de recompensa
-por tu esfuerzo.<FAC1013<NOD<FL+0594<END
-#0300
-<FLJ0590:0310<END
-#0301
-<FLJ0591:0311<END
-#0302
-<FLJ0592:0312<END
-#0303
-<FLJ0593:0313<END
-#0304
-<FLJ0594:0314<END
-#0310
-<KEY<MSG
-¡Arf!<NOD<END
-#0311
-<KEY<MSG
-¡Woof woof!<NOD<END
-#0312
-<KEY<MSG
-¡Bow wow wow!<NOD<END
-#0313
-<KEY<MSG
-¡Woof woof woof woof!<NOD<END
-#0314
-<KEY<MSG
-¡Arf woof bow wow wow!<NOD<END
-#0400
-#0401
+por tu esfuerzo.<POP
 
-#0500
-<FF-3000:3004<IT-0014<POP
+#9113
+¡Arf!<POP
+
+#9114
+¡Woof woof!<POP
+
+#9115
+¡Bow wow wow!<POP
+
+#9116
+¡Woof woof woof woof!<POP
+
+#9117
+¡Arf woof bow wow wow!<POP

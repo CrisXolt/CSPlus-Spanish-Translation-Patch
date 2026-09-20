@@ -1,216 +1,250 @@
+#9000
+¡No se abre!<POP
 
-#0090
-<MNA<FLJ0341:0095<CMU0002<FAI0000<END
-#0091
-<MNA<CMU0002<FAI0001<END
-#0092
-<MNA<CMU0002<FAI0002<END
-#0093
-<MNA<CMU0002<FAI0003<END
-#0094
-<MNA<FLJ0341:0099<CMU0002<FAI0004<END
-#0095
-<CMU0028<FAI0000<END
-#0099
-<CMU0028<FAI0004<END
-#0100
-<KEY<FLJ0561:0102<SOU0011<ANP0100:0000:0002
-<FAO0002<TRA0010:0092:0003:0012
-#0101
-<KEY<FLJ0561:0102<SOU0011<ANP0101:0000:0002
-<FAO0004<TRA0032:0094:0011:0009
-#0102
-<PRI<MSG
-¡La puerta se atascó!<NOD<END
-#0200
-<KEY
-<FLJ0564:0204
-<FLJ0562:0206
-<MSG
-No tengo nada que decirte...<NOD<END
-#0201
-<KEY<MSG
+#9001
+No tengo por qué decirte...<POP
+
+#9002
 Ten cuidado con esos Croco-Arenas.
 Te morderán de repente si caminas en
-algún piso de arena.<NOD
-¡Y sí que hace daño bastante!<NOD<END
-#0202
-<FLJ0273:0205
-<KEY<MSG
+algún piso de arena.<POP
+
+#9003
+¡Y sí que hace daño bastante!<POP
+
+#9005
 Debes deshacer la maldición para mover
-las Piedras del Sol.<NOD<END
-#0203
-<KEY<MSG
-¡Nyaa!<NOD<CLR
+las Piedras del Sol.<POP
+
+#9006
+¡Nyaa!<POP
+
+#9007
 Quiero comer un delicioso atún.
-¡Nyaa!<NOD<END
-#0204
-<MSG
+¡Nyaa!<POP
+
+#9008
 La Abuela Jenka cuidaba de la Zona
 de Arena desde HAAACE tiempo con
-todo sus perritos.<NOD<CLR
-La Casa de la Abuela Jenka está...<NOD<CLR
-Mmm...<NOD<CLR
-Por alguna parte de la Zona de Arena.<NOD<END
-#0205
-<KEY<MSG
+todo sus perritos.<POP
+
+#9009
+La Casa de la Abuela Jenka está...<POP
+
+#9010
+Digamos que...<POP
+
+#9011
+Por alguna parte de la Zona de Arena.<POP
+
+#9013
 Nuestra verdadera madre fue asesinada
-por un robot.<NOD<CLR
+por un robot.<POP
+
+#9014
 Y ella es el quien nos crío, incluso
-antes de que pudiéramos abrir los ojos.<NOD<END
-#0206
-<KEY<MSG
-¿Estás buscando a las flores rojas?<NOD
+antes de que pudiéramos abrir los ojos.<POP
+
+#9015
+¿Buscas a las flores rojas?<POP
+
+#9016
 Una ancianita llamada Jenka puede
-saber algo al respecto.<NOD<CLR
-Ah sí, casi se me olvida...<NOD<CLR
+saber algo al respecto.<POP
+
+#9017
+Ah sí, casi se me olvida...<POP
+
+#9018
 Si vas hacia su casa, asegúrate de
 llevarte un perrito, está frente la cama.
-Revisa el Cuarto Pequeño.<NOD<FL+0564<END
-#0300
-<KEY<DNP0300<MM0<MYD0000<CMU0000
-<FL+0561<MSG
-¡Aaaaahhhh!<NOD<CLO<KEY
-<ANP0500:0003:0002<WAI0079<ANP0500:0000:0002
-<MSG<FAC1119
-¡¡OIGAN!!<FAC1019<NOD<CLO
-<CNP0310:0122:0002<DNP0200<WAI0010
-<CNP0311:0122:0002<DNP0201<WAI0010
-<CNP0312:0122:0002<DNP0202<WAI0010
-<CNP0313:0122:0002<DNP0203<MSG<FAC1119
+Revisa el Cuarto Pequeño.<POP
+
+#9019
+¡Aaaaahhhh!<POP
+
+#9020
+¡¡OIGAN!!<POP
+
+#9021
 ¡¡Miren, hace tiempo que no
-teníamos un visitante!!<FAC1019<NOD<CLR<FAC1119
-Sí, ¡sé lo que quieres hacer!<FAC1019<NOD<FAC1119
-¡Pero despierta!<FAC1019<NOD<FAC1119
-¡Esos Mimigas no son
-el enemigo!<FAC1019<NOD<FAC1119
-¡¡Son inofensivos!!<FAC1019<NOD<CLR<FAC1119
-Lo siento pero...<FAC1019<NOD<CLO
-<WAI0020<SOU0004<CNP0400:0118:0002<DNP0500
-<WAI0010
-<MSG<FAC1119
+teníamos un visitante!!<POP
+
+#9022
+Sí, ¡sé lo que quieres hacer!<POP
+
+#9023
+¡Pero despierta!<POP
+
+#9024
+¡Estos Mimigas no son
+el enemigo!<POP
+
+#9025
+¡¡Son inofensivos!!<POP
+
+#9026
+Lo siento pero...<POP
+
+#9027
 ¡¡Soy la aliada de los
 Mimigas y no pienso
-perder contra ti!!<FAC1019<NOD<CLO
-<BSL0400
-<CMU0004
-<ANP0400:0010:0002
-<ANP0310:0010:0002
-<ANP0311:0010:0002
-<ANP0312:0010:0002
-<ANP0313:0010:0002
-<END
-#0310
-#0311
-#0312
-#0313
-#0400
-<KEY<MYD0400
-<FL-0561<FL-0565
-<ANP0310:0020:0005
-<ANP0311:0020:0005
-<ANP0312:0020:0005
-<ANP0313:0020:0005
-<CNP0400:0117:0005
-<ANP0400:0005:0005<WAI0002
-<ANP0400:0030:0004<SOU0070
-<WAI0100<PRI<CMU0015<MSG
-¡Has ganado!<WAI0140<NOD<CLO
-<ACH0032
-<KEY<ANP0400:0006:0005<WAI0002<PRI
-<WAI0050<CMU0002
-<MSG<FAC1120
-Me diste...<FAC1020<NOD<FAC1120
-Fui derrotada...<FAC1020<NOD<CLR<FAC1120
+perder contra ti!!<POP
+
+#9029
+¡Ganaste!<POP
+
+#9030
+Me diste...<POP
+
+#9031
+Fui derrotada...<POP
+
+#9032
 ¿En serio planeas eliminar a
-los Mimigas?<FAC1020<YNJ0410<CLR<FAC1120
-Ya veo...<FAC1020<NOD<CLR<FAC1120
-Que malo eres...<FAC1020<NOD<PRI<CLO
-<FAO0004<TRA0029:0090:0015:0009
-#0410
-<KEY<FL+0562<MSG<FAC1119
-¡Oooh!<FAC1019<NOD<FAC0000<CLO
-<ANP0400:0010:0000<WAI0050
-<MSG<FAC1119
-¿Eres el aliado de
-los Mimigas también?<FAC1019<NOD<CLR<FAC1119
-Ya sé, ¡no fue culpa de ellos!<FAC1019<NOD<CLR<FAC1119
-Soy Curly,<FAC1019<NOD<FAC1119 Curly Brace.<FAC1019<NOD<FAC1119
-Me he estado cuidando estos
-pequeños desde antes de que
-me pudiera recordar.<FAC1019<NOD<CLR<FAC1125
-En serio no me puedo
-recordar cómo me fue antes...<FAC1025<NOD<FAC1125
-Tal vez tenga, amnesia,
-supongo.<FAC1025<NOD<CLR<FAC1120
-Pero eso sí, yo era
-probablemente uno de
-los robots asesinos...<FAC1020<NOD<CLO
-<EVE0415
-#0415
-<KEY<MSG<FAC1119
-¡Oooh!<FAC1019<NOD<CLR<FAC1119
-Esta Estrella Polar que llevas,
-se ve muy obsoleta.<FAC1019<NOD<FAC1119
-Te lo intercambio por mi
-Ametralladora, ¿Qué dices?<FAC1019<YNJ0420<FL+0563<FAC0000<CLR
-<TAM0002:0004:0100<GIT0002Le diste a Curly la =Estrella Polar=.<NOD<CLR
-<CMU0010<GIT0004Y has recibido la =Ametralladora=.<WAI0160<NOD<RMU<CLO
-<FAO0004<TRA0029:0090:0015:0009
-#0420
-<KEY<MSG<FAC1119
-¿En serio?<FAC1019<NOD<CLR<FAC1119
-Igual puedes regresarte
-cuando quieras, yo estaré
-aquí si cambias de opinión.<FAC1019<NOD<PRI<CLO<MYD0000
-<FAO0004<TRA0029:0090:0015:0009
-#0500
-<KEY
-<FLJ0563:0530
-<FLJ0562:0515
-<MSG<FAC1119
-¿Eh?<FAC1019<NOD<CLR<FAC1119
-Hola Señor Máquina de Matar.<FAC1019<NOD<CLR<FAC1119
-¿Aún piensas en eliminar a
-todo los Mimigas?<FAC1019<YNJ0510<CLR<FAC1120
-Entiendo...<FAC1020<NOD<CLR<FAC1120
-Sí que eres malo...<FAC1020<NOD<END
-#0510
-<KEY<FL+0562<MSG<FAC1119
-¡Oooh!<FAC1019<NOD<CLR<FAC1119
+los Mimigas?<POP
+
+#9033
+Ya veo...<POP
+
+#9034
+Que malo eres...<POP
+
+#9035
+¡Oooh!<POP
+
+#9036
 ¿También eres aliado de los
-Mimigas?<FAC1019<NOD<CLR<FAC1119
-Ya sé, ¡no fue culpa de ellos!<FAC1019<NOD<CLR<FAC1119
-Soy Curly,<FAC1019<NOD<FAC1119 Curly Brace.<FAC1019<NOD<FAC1119
+Mimigas?<POP
+
+#9037
+Ya sé, ¡no fue culpa de ellos!<POP
+
+#9038
+Soy Curly Brace.<POP
+
+#9039
 Me he estado cuidando estos
 pequeños desde antes de que
-me pudiera recordar.<FAC1019<NOD<CLR<FAC1125
+me pudiera recordar.<POP
+
+#9040
 En serio no me puedo
-recordar cómo me fue antes...<FAC1025<NOD<FAC1125
+recordar cómo me fue antes...<POP
+
+#9041
 Tal vez tenga, amnesia,
-supongo.<FAC1025<NOD<CLR<FAC1120
+supongo.<POP
+
+#9042
 Pero eso sí, yo era
 probablemente uno de
-los robots asesinos...<FAC1020<NOD<CLO
-<EVE0515
-#0515
-<KEY<MSG<FAC1119
-¡Oooh!<FAC1019<NOD<CLR<FAC1119
+los robots asesinos...<POP
+
+#9043
+¡Oooh!<POP
+
+#9044
 Esta Estrella Polar que llevas,
-se ve muy obsoleta.<FAC1019<NOD<FAC1119
-Te lo intercambio por mi
-Ametralladora, ¿Qué dices?<FAC1019<YNJ0520<FL+0563<FAC0000<CLR
-<TAM0002:0004:0100<GIT0002Le diste la =Estrella Polar= a Curly.<NOD<CLR
-<CMU0010<GIT0004Y has recibido la =Ametralladora=.<WAI0160<NOD<RMU<END
-#0520
-<KEY<MSG<FAC1119
-¿En serio?<FAC1019<NOD<CLR<FAC1119
+se ve muy obsoleta.<POP
+
+#9045
+Te lo cambio por mi
+Ametralladora, ¿Qué dices?<POP
+
+#9046
+Le diste a Curly la =Estrella Polar=.<POP
+
+#9047
+Y recibiste la =Ametralladora=.<POP
+
+#9049
+¿De veras?<POP
+
+#9050
 Igual puedes regresarte
-cuando quieras, yo estaré
-aquí si cambias de opinión.<FAC1019<NOD<END
-#0530
-<KEY<MSG<FAC1125
+cuando quieras, estaré aquí
+por si cambias de opinión.<POP
+
+#9051
+¿Eh?<POP
+
+#9052
+Hola Señor Máquina de Matar.<POP
+
+#9053
+¿Aún piensas en eliminar a
+todo los Mimigas?<POP
+
+#9054
+Entiendo...<POP
+
+#9055
+Sí que eres malo...<POP
+
+#9056
+¡Oooh!<POP
+
+#9057
+¿También eres aliado de los
+Mimigas?<POP
+
+#9058
+Ya sé, ¡no fue culpa de ellos!<POP
+
+#9059
+Soy Curly,<POP
+
+#9060
+ Curly Brace.<POP
+
+#9061
+Me he estado cuidando estos
+pequeños desde antes de que
+me pudiera recordar.<POP
+
+#9062
+En serio no me puedo
+recordar cómo me fue antes...<POP
+
+#9063
+Tal vez tenga, amnesia,
+supongo.<POP
+
+#9064
+Pero eso sí, yo era
+probablemente uno de
+los robots asesinos...<POP
+
+#9065
+¡Oooh!<POP
+
+#9066
+Esta Estrella Polar que llevas,
+se ve muy obsoleta.<POP
+
+#9067
+Te lo cambio por mi
+Ametralladora, ¿Qué dices?<POP
+
+#9068
+Le diste la =Estrella Polar= a Curly.<POP
+
+#9069
+Y recibiste la =Ametralladora=.<POP
+
+#9071
+¿De veras?<POP
+
+#9072
+Igual puedes regresarte
+cuando quieras, estaré aquí
+por si cambias de opinión.<POP
+
+#9073
 Sí, ¡todo eso tiene la
-culpa de los humanos!<FAC1025<NOD<FAC1125
+culpa de los humanos!<POP
+
+#9074
 Los Mimigas sólo está siendo
-utilizados por ellos.<FAC1025<NOD<END
+utilizados por ellos.<POP

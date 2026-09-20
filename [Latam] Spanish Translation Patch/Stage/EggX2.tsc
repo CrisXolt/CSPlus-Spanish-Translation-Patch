@@ -1,112 +1,135 @@
+#9000
+Sientes una brisa fría aquí...<POP
 
-#0090
-<MNA<CMU0014<FAI0000<END
-#0091
-<MNA<CMU0014<FAI0001<END
-#0092
-<MNA<CMU0014<FAI0002<END
-#0093
-<MNA<CMU0014<FAI0003<END
-#0094
-<FLJ0120:0095<ANP0200:0010:0002<EVE0095
-#0095
-<MNA<CMU0014<FAI0004<END
-#0100
-<KEY<SOU0011<ANP0100:0000:0002<FAO0004<TRA0049:0094:0290:0008
-#0110
-<KEY<FLJ0940:0111<MSG
-Sientes una brisa fría aquí...<NOD<END
-#0111
-<KEY<FAO0002<TRA0053:0092:0004:0165
-#0110
-#0400
-#0500
-<KEY<MSG
-El texto se muestra en pantalla.<NOD<CLR
-<TUR>_ INCUBACÍON EXITOSA.<NOD<FLJ0941:0000<CLO
-<2MV0000
-<FL+0941
-<WAI0020<CMU0000<MSG
-¿Quién anda ahí?<MYD0002<NOD<CLO
-<WAI0050<CNP0400:0055:0000
-<WAI0010<ANP0400:0003:0000
-<WAI0048<ANP0400:0000:0000
-<CMU0014<MSG<FAC0110
-Oh, eres tú.<FAC0010<NOD<CLR<FAC0110
-No sabía si estabas vivo o no.<FAC0010<NOD<FAC0110
-Soy el único aquí.<FAC0010<NOD<CLR<FAC0110
+#9001
+El texto se muestra en pantalla.<POP
+
+#9002
+>_ INCUBACÍON EXITOSA.<POP
+
+#9003
+¿Quién anda ahí?<POP
+
+#9004
+Oh, eres tú.<POP
+
+#9005
+No sabía si estabas
+vivo o no.<POP
+
+#9006
+Soy el único aquí.<POP
+
+#9007
 Tras irte a la Zona de Arena,
 aceleramos los preparativos
-para asegurar un escape.<FAC0010<NOD<CLR<FAC0110
+para asegurar un escape.<POP
+
+#9008
 Fue entonces cuando
-apareció Misery.<FAC0010<NOD<FAC0110
-Se llevaron a Sue...<FAC0010<NOD<FAC0110
+apareció Misery.<POP
+
+#9009
+Se llevaron a Sue...<POP
+
+#9010
 y el Professor Booster,
-desapareció en algún parte...<FAC0010<NOD<CLR
-.....<NOD<CLR<FAC0110
+desapareció en algún parte...<POP
+
+#9011
+.....<POP
+
+#9012
 Parece que el Doctor ha
 conseguido las semillas de la
-flor roja.<FAC0010<NOD<CLR<FAC0110
-Aunque,<FAC0010<NOD<FAC0110 no te culpo por eso.<FAC0010<NOD<ANP0400:0000:0002<FAC1110
+flor roja.<POP
+
+#9013
+Aunque,<POP
+
+#9014
+ no fue tu culpa.<POP
+
+#9015
 La victoria del Doctor era
 segura desde que tomó la
-Corona Demoniaca.<FAC1010<NOD<CLR<FAC1110
+Corona Demoniaca. <POP
+
+#9016
 Es cuestión de tiempo que su
 ejército Mimiga esté listo para
-atacar a la superficie...<FAC1010<NOD<CLR<FAC1110
+atacar a la superficie...<POP
+
+#9017
 Si esto ocurre, será inútil 
-intentar derrotar al Doctor,<FAC1010<NOD<FAC1110
-incluyéndote.<FAC1010<NOD<CLO<FAC0000
-<WAI0010<ANP0400:0003:0002
-<WAI0016<ANP0400:0000:0002
-<MSG<FAC1110
+intentar derrotar al Doctor,<POP
+
+#9018
+
+incluso para ti.<POP
+
+#9019
 No tenemos otra opción mas
-que salir de aquí...<FAC1010<NOD<CLR<FAC1110
+que salir de aquí...<POP
+
+#9020
 En fin, el escape es posible,
 pero solo usando un Dragón
-Volador.<FAC1010<NOD<FAC1110
+Volador.<POP
+
+#9021
 Por eso llegué hasta aquí
-por mi cuenta...<FAC1010<NOD<CLR<FAC1110
+por mi cuenta...<POP
+
+#9022
 Para que el Dragón Volador
 que necesito pueda nacer
-sano y salvo.<FAC1010<NOD<CLO<FAC0000
-<WAI0050<ANP0400:0000:0000<WAI0100
-<MSG<FAC0110
-¿Quieres escapar conmigo?<FAC0010<YNJ0501<FL+0960<CLR<ANP0400:0000:0002<FAC1110
-Lo sé, ya no queda remedio.<FAC1010<NOD<FAC1110
-Hiciste lo que pudiste.<FAC1010<NOD<CLO
-<WAI0010<ANP0400:0003:0002
-<WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
-<WAI0020<CNP0400:0000:0000<FL+0940
-<END
-#0501
-<KEY<WAI0020<ANP0400:0000:0002
-<MSG<FAC1110
-Ya veo...<FAC1010<NOD<CLO<FAC0000
-<WAI0050<ANP0400:0000:0000
-<WAI0010<ANP0400:0005:0000
-<MSG<FAC0110
-A decir verdad...<FAC0010<NOD<FAC0110
+sano y salvo.<POP
+
+#9023
+¿Quieres escapar conmigo?<POP
+
+#9024
+Lo sé, ya no queda remedio.<POP
+
+#9025
+Hiciste lo que pudiste.<POP
+
+#9026
+Ya veo...<POP
+
+#9027
+A decir verdad...<POP
+
+#9028
 Hay una forma de devolver
 a los Mimigas en su estado
-original. Y es...<FAC0010<NOD<CLR<FAC0110
+original. Y es...<POP
+
+#9029
 Destruyendo el
-Núcleo de la isla.<FAC0010<NOD<CLR<FAC0110
+Núcleo de la isla.<POP
+
+#9030
 Pero la isla puede colapsar
-si destruyes el Núcleo.<FAC0010<NOD<FAC0110
-¿Es una opción demasiado
-peligrosa para ti?<FAC0010<NOD<WAI0050<ANP0400:0000:0000<CLR<FAC0110
-Sea como sea, no sé dónde
-está el Núcleo...<FAC0010<NOD<CLR<FAC0110
+si destruyes el Núcleo.<POP
+
+#9031
+¿No sería una opción
+demasiado peligrosa
+para ti?<POP
+
+#9032
+Sea como sea, no sé
+dónde se encuentra
+el Núcleo ahora...<POP
+
+#9033
 Si de verdad quieres
 intentar y hacer esto,
-entonces te espero.<FAC0010<NOD<CLR<FAC0110
-Pero tendré que salir de la
-isla por si las cosas se
-vuelven peligrosas para mí.<FAC0010<NOD<CLO
-<WAI0010<ANP0400:0003:0002
-<WAI0031<ANP0400:0005:0002<SOU0011<CNP0110:0018:0002
-<WAI0020<CNP0400:0000:0000<FL+0940
-<END
+entonces te esperaré.<POP
 
-#0502
+#9034
+Pero tendré que salir de
+la isla por si se complican
+las cosas.<POP

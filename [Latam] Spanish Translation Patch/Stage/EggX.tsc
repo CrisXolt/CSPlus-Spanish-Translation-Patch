@@ -1,111 +1,137 @@
+#9000
+¿Quieres guardar?<POP
 
-#0090
-<MNA<CMU0014<FAI0000<END
-#0091
-<MNA<CMU0014<FAI0001<END
-#0092
-<MNA<CMU0014<FAI0002<END
-#0093
-<MNA<CMU0014<FAI0003<END
-#0094
-<FLJ0120:0095<ANP0200:0010:0002<EVE0095
-#0095
-<MNA<CMU0014<FAI0004<END
-#0100
-<PRI<SOU0011<DNP0100<FAO0004<TRA0002:0094:0291:0008
-#0105
-<PRI<MSG
-¿Quieres guardar?<YNJ0000<SVP<CLRPartida guardada.<NOD<END
-#0106
-<PRI<LI+1000<SOU0020<AE+<MSG
-Vida recargada.<NOD<END
-#0110
-<KEY<MSG
-Sientes una brisa fría aquí...<NOD<END
-#0200
-<2MV0000
-<FLJ0120:0210
-<KEY
-<FL+0120<FL+0105<FL+0154<FL+0155<FL+0329<FL+0106
-<MSG
-...Uuggh.<NOD<CLO
-<MYB0002<WAI0050<MYD0002
-<MSG
-Oouch...<NOD<ANP0200:0011:0002<CLR<FAC1103
-!!!<FAC1003<NOD<CLR<FAC1103
-¡Espera!<FAC1003<NOD<FAC1103
-¡Aún no me doy por vencida!
-¡Ahora voy con esto enserio!<FAC1003<NOD<FAC0000<CLO
-<WAI0050<ANP0200:0000:0002
-<MSG<FAC1101
-¿Eh?<FAC1001<WAI0050<NOD<FAC1101
+#9001
+Partida guardada.<POP
+
+#9002
+Vida recargada.<POP
+
+#9003
+Sientes una brisa fría aquí...<POP
+
+#9004
+...Uuggh.<POP
+
+#9005
+Oouch...<POP
+
+#9006
+!!!<POP
+
+#9007
+¡Aguarda!<POP
+
+#9008
+¡Todavía no me doy por
+vencida!
+¡Ahora voy con esto enserio!<POP
+
+#9009
+¿Eh?<POP
+
+#9010
 Me quedé inconsciente por
-ese monstruo...<ANP0200:0000:0000<FAC1001<NOD<CLR<FAC0001
-.....<NOD<CLR<FAC0101
-¿Me salvaste?<FAC0001<YNJ0202<EVE0201
-#0201
-<FAC0103
-¡Ja, eso no te incumbe!<FAC0003<NOD<CLR<FAC0103
-¡Puedo cuidarme sola!<FAC0003<NOD<FAC0103
+ese monstruo...<POP
+
+#9011
+.....<POP
+
+#9012
+¿Me salvaste?<POP
+
+#9013
+¡Ja, esto no te importa!<POP
+
+#9014
+¡Puedo cuidarme sola!<POP
+
+#9015
 ¡Odio a esta isla, y a cada
-quién que vive en ella!<FAC0003<NOD<FAC0000<CLO<EVE0203
-#0202
-<FAC0002
-.....<NOD<CLR<FAC0102
-No fuiste de mucha ayuda.<FAC0002<NOD<FAC0000<CLO<EVE0203
-#0203
-<WAI0050<MSG<ANP0200:0005:0002<FAC1101
-¡Oh!<FAC1001<NOD<MYD0003<CLR<FAC1101
+quién que vive en ella!<POP
+
+#9016
+.....<POP
+
+#9017
+Tampoco fuistes útil.<POP
+
+#9018
+¡Oh!<POP
+
+#9019
 Esto... ¡esto debe ser!
-¡El Huevo Número 00!<FAC1001<NOD<CLR<FAC1101
+¡El Huevo Número 00!<POP
+
+#9020
 ¡Podemos salir de la isla
-con el huevo!<FAC1001<NOD<CLO<FAC0000<MYD0002
-<ANP0200:0003:0002<WAI0030
-<ANP0200:0005:0002<WAI0050
-<MSG<FAC1101
+con esto!<POP
+
+#9021
 Y su condición es estable.
-¡Genial!<FAC1001<NOD<CLO<WAI0050<SOU0043<WAI0020<FAC0000
-<MSG<FAC1102
-¿Eh?<FAC1002<NOD<FAC1102
-¿Y esto, una contraseña?<FAC1002<NOD<FAC0000<CLO
-<WAI0050
-<ANP0200:0000:0000<WAI0050
-<MSG<FAC0101
+¡Genial!<POP
+
+#9022
+¿Eh?<POP
+
+#9023
+¿Y esto, una contraseña?<POP
+
+#9024
 Parece que necesito una
 contraseña para incubar
-este huevo.<FAC0001<NOD<CLR<FAC0102
-Meh.<FAC0002<NOD<CLR<FAC0102
+este huevo.<POP
+
+#9025
+Meh.<POP
+
+#9026
 Si mi hermano mayor estuviera
 aquí, él se las arreglaría en
-todo instantáneo.<FAC0002<NOD<CLR
-.....<NOD<CLR<FAC0101
+todo instantáneo.<POP
+
+#9027
+.....<POP
+
+#9028
 No hay nada que pueda
 hacer por aquí, supongo
-que me voy.<FAC0001<NOD<FAC0000<CLO
-<ANP0200:0003:0000<WAI0126
-<ANP0200:0000:0002<WAI0020
-<MSG<FAC1101
-Um...<FAC1001<NOD<MYD0000<FAC1101
-¿Eres de esta isla?<FAC1001<NOD<CLR<FAC1101
-No parece que lo seas.<FAC1001<NOD<FAC1101
+que me iré.<POP
+
+#9029
+Um...<POP
+
+#9030
+¿Eres de esta isla?<POP
+
+#9031
+No parece que lo seas.<POP
+
+#9032
 Las letras de tu gorra
-no son de aquí.<FAC1001<NOD<CLR<FAC1101
-¿Tal vez te encuentras
-perdido?<FAC1001<NOD<CLR<FAC1101
-Está bien.<FAC1001<NOD<FAC1101
-Puedes seguirme.<FAC1001<NOD<FAC1101
+no son de aquí.<POP
+
+#9033
+¿Te encuentras
+perdido, tal vez?<POP
+
+#9034
+Está bien.<POP
+
+#9035
+Puedes seguirme.<POP
+
+#9036
 Podemos salir de esto juntos,
-si es que quieres.<FAC1001<NOD<FAC1101
+si es que quieres.<POP
+
+#9037
 Pero a cambio, vas a tener
-que ayudarme.<FAC1001<NOD<CLO
-<ANP0200:0005:0002<WAI0020
-<SOU0011<ANP0100:0000:0002<WAI0020
-<ANP0100:0000:0000<DNP0200<SOU0023<END
-#0300
-<KEY<MSG<TUR
-Huevo de Dragón Núm. 00
-Preparación para incubación terminada.<NOD<CLR
-Ingrese Contraseña:<NOD<END
-#0300
-<PRI<FAO0004<TRA0001:0094:0008:0007
-#0400
+que ayudarme en algo, ¿Sí?.<POP
+
+#9038
+Huevo de Dragón No. 00
+Preparación para incubación terminada.<POP
+
+#9039
+Ingrese Contraseña:<POP
